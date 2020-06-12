@@ -217,8 +217,8 @@ This question does not have a clear separation between action and recursion. But
 
 start from the first cell, if not empty move to the next, if is empty, try 1-9, try the next cell based on this one, if valid => over; if not => try another number
 
-### 22. Generate Parentheses ]
+### 22. [Generate Parentheses] (https://leetcode.com/problems/generate-parentheses/](https://leetcode.com/problems/generate-parentheses/))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODE5ODA2MDEsMzgyMDMxOTU2LDEzNz
-A5MDM4NDZdfQ==
+eyJoaXN0b3J5IjpbNjA3ODY4MTYzLDM4MjAzMTk1NiwxMzcwOT
+AzODQ2XX0=
 -->
