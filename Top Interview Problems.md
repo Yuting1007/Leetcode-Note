@@ -218,8 +218,10 @@ This question does not have a clear separation between action and recursion. But
 start from the first cell, if not empty move to the next, if is empty, try 1-9, try the next cell based on this one, if valid => over; if not => try another number
 
 ### 22. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
-I think this is a resursion solution. Use left and right pointers to indicate how many parantheses le
+Since asking about all possibilities, we could consider dfs.
+I think this is a resursion solution. Use left and right pointers to indicate how many parantheses avaliable. 
+left > 0 => '(' i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDM4NDU0NywzODIwMzE5NTYsMTM3MD
-kwMzg0Nl19
+eyJoaXN0b3J5IjpbMTU1OTI3MjA5LDM4MjAzMTk1NiwxMzcwOT
+AzODQ2XX0=
 -->
