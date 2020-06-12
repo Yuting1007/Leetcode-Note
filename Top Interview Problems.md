@@ -220,8 +220,12 @@ start from the first cell, if not empty move to the next, if is empty, try 1-9, 
 ### 22. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 Since asking about all possibilities, we could consider dfs.
 I think this is a resursion solution. Use left and right pointers to indicate how many parantheses avaliable. 
-left > 0 => '(' i
+1. stop
+no left and right left => push in res
+2. action, recursion 
+left > 0 => '(' push in curr
+left < right => ') push in curr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTI3MjA5LDM4MjAzMTk1NiwxMzcwOT
-AzODQ2XX0=
+eyJoaXN0b3J5IjpbLTIwMjYxMzY0OTEsMzgyMDMxOTU2LDEzNz
+A5MDM4NDZdfQ==
 -->
