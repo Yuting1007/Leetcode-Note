@@ -217,7 +217,7 @@ This question does not have a clear separation between action and recursion. But
 
 start from the first cell, if not empty move to the next, if is empty, try 1-9, try the next cell based on this one, if valid => over; if not => try another number
 
-### 22. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+### [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 Since asking about all possibilities, we could consider dfs.
 I think this is a resursion solution. Use left and right pointers to indicate how many parantheses avaliable. 
 1. stop
@@ -225,7 +225,10 @@ no left and right left => push in res
 2. action, recursion 
 left > 0 => '(' push in curr
 left < right => ') push in curr
+
+### [206. Reverse Linked List]([https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/))
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjYxMzY0OTEsMzgyMDMxOTU2LDEzNz
+eyJoaXN0b3J5IjpbLTE5OTg0MzMxMTUsMzgyMDMxOTU2LDEzNz
 A5MDM4NDZdfQ==
 -->
