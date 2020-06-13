@@ -227,8 +227,9 @@ left > 0 => '(' push in curr
 left < right => ') push in curr
 
 ### [206. Reverse Linked List]([https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/))
-
+This is a super classic linked list questions!!!
+use prev, curr two pointers; inside the while loop, we 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg0MzMxMTUsMzgyMDMxOTU2LDEzNz
-A5MDM4NDZdfQ==
+eyJoaXN0b3J5IjpbLTc1NDEzMDA3OSwtMTk5ODQzMzExNSwzOD
+IwMzE5NTYsMTM3MDkwMzg0Nl19
 -->
