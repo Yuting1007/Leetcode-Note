@@ -228,8 +228,10 @@ left < right => ') push in curr
 
 ### [206. Reverse Linked List]([https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/))
 This is a super classic linked list questions!!!
-use prev, curr two pointers; inside the while loop, we 
+use prev, curr two pointers; inside the while loop, we store the next node, then turn over the next pointer and then move prev, curr pointers
+
+### [41. First Missing Positive]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDEzMDA3OSwtMTk5ODQzMzExNSwzOD
-IwMzE5NTYsMTM3MDkwMzg0Nl19
+eyJoaXN0b3J5IjpbLTEwMjMzMzc2MTUsLTE5OTg0MzMxMTUsMz
+gyMDMxOTU2LDEzNzA5MDM4NDZdfQ==
 -->
