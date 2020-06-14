@@ -238,10 +238,10 @@ the index is over OR nums[index] is greater than 1 => 1
 start from the index iterating over, jump duplicates and find the first gap => nums[j] + 1
 
 ### [269. Alien Dictionary]([https://leetcode.com/problems/alien-dictionary/](https://leetcode.com/problems/alien-dictionary/))
-
+**Directed Graph**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzY5NzMxMiwxMTMyMjQxODQyLDExNT
+eyJoaXN0b3J5IjpbMTA4NzMyNzI3NCwxMTMyMjQxODQyLDExNT
 Q2NDMwMjgsMzM1MTE0MjY0LC0xOTk4NDMzMTE1LDM4MjAzMTk1
 NiwxMzcwOTAzODQ2XX0=
 -->
