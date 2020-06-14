@@ -256,12 +256,12 @@ A classic tree problem.
 Recursion => preorder
 Iteration => level travseral 
 **istringstream** and **ostringstream**
-in >> val
-out
+in >> val  => read val from in
+out << val => write val to out
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDcwNDgxNTksLTIwNTE2NTI3MDIsLT
-EwOTQwMTQ2MTAsLTM0NzM5MjY2LDM5MDIzNzc0Niw0Mzg3NDYw
-NCwtMjE0NjMyMTk0OSw2NDc0MjUzNjYsMTEzMjI0MTg0MiwxMT
-U0NjQzMDI4LDMzNTExNDI2NCwtMTk5ODQzMzExNSwzODIwMzE5
-NTYsMTM3MDkwMzg0Nl19
+eyJoaXN0b3J5IjpbNDgzOTM0NDMxLC0yMDUxNjUyNzAyLC0xMD
+k0MDE0NjEwLC0zNDczOTI2NiwzOTAyMzc3NDYsNDM4NzQ2MDQs
+LTIxNDYzMjE5NDksNjQ3NDI1MzY2LDExMzIyNDE4NDIsMTE1ND
+Y0MzAyOCwzMzUxMTQyNjQsLTE5OTg0MzMxMTUsMzgyMDMxOTU2
+LDEzNzA5MDM4NDZdfQ==
 -->
