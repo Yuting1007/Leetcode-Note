@@ -250,9 +250,13 @@ Logic: **BFS**
 	
 	The tricky part of this question is the way to construct graph. Usually, we use a 2D array, here a set of pairs is useful.
 	Some associated in-built functions are: set<pair<char, char>> st, st.insert(make_pair(A, B)), first, second
+
+### [297. Serialize and Deserialize Binary Tree]([https://leetcode.com/problems/serialize-and-deserialize-binary-tree/](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/))
+A classic tree problem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQwMTQ2MTAsLTM0NzM5MjY2LDM5MD
-IzNzc0Niw0Mzg3NDYwNCwtMjE0NjMyMTk0OSw2NDc0MjUzNjYs
-MTEzMjI0MTg0MiwxMTU0NjQzMDI4LDMzNTExNDI2NCwtMTk5OD
-QzMzExNSwzODIwMzE5NTYsMTM3MDkwMzg0Nl19
+eyJoaXN0b3J5IjpbNDg1MDgwOTE4LC0xMDk0MDE0NjEwLC0zND
+czOTI2NiwzOTAyMzc3NDYsNDM4NzQ2MDQsLTIxNDYzMjE5NDks
+NjQ3NDI1MzY2LDExMzIyNDE4NDIsMTE1NDY0MzAyOCwzMzUxMT
+QyNjQsLTE5OTg0MzMxMTUsMzgyMDMxOTU2LDEzNzA5MDM4NDZd
+fQ==
 -->
