@@ -255,11 +255,13 @@ Logic: **BFS**
 A classic tree problem.
 Recursion => preorder
 Iteration => level travseral 
-
+**istringstream** and **ostringstream**
+in >> val
+out
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTMyNzk1MiwtMjA1MTY1MjcwMiwtMT
-A5NDAxNDYxMCwtMzQ3MzkyNjYsMzkwMjM3NzQ2LDQzODc0NjA0
-LC0yMTQ2MzIxOTQ5LDY0NzQyNTM2NiwxMTMyMjQxODQyLDExNT
-Q2NDMwMjgsMzM1MTE0MjY0LC0xOTk4NDMzMTE1LDM4MjAzMTk1
-NiwxMzcwOTAzODQ2XX0=
+eyJoaXN0b3J5IjpbLTEzNDcwNDgxNTksLTIwNTE2NTI3MDIsLT
+EwOTQwMTQ2MTAsLTM0NzM5MjY2LDM5MDIzNzc0Niw0Mzg3NDYw
+NCwtMjE0NjMyMTk0OSw2NDc0MjUzNjYsMTEzMjI0MTg0MiwxMT
+U0NjQzMDI4LDMzNTExNDI2NCwtMTk5ODQzMzExNSwzODIwMzE5
+NTYsMTM3MDkwMzg0Nl19
 -->
