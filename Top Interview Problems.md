@@ -226,11 +226,11 @@ no left and right left => push in res
 left > 0 => '(' push in curr
 left < right => ') push in curr
 
-### [206. Reverse Linked List]([https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/))
+### [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 This is a super classic linked list questions!!!
 use prev, curr two pointers; inside the while loop, we store the next node, then turn over the next pointer and then move prev, curr pointers
 
-### [41. First Missing Positive]([https://leetcode.com/problems/first-missing-positive/](https://leetcode.com/problems/first-missing-positive/))
+### [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 I am kinda curious why this one is a *hard* :)
 We could sort the list first.
 Then find the index of first un-positive number.
@@ -259,9 +259,9 @@ Iteration => level travseral (need a queue for assistantship in both serialize a
 in >> val  => read val from in
 out << val => write val to out
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTY1Njk2MywtMjA1MTY1MjcwMiwtMT
-A5NDAxNDYxMCwtMzQ3MzkyNjYsMzkwMjM3NzQ2LDQzODc0NjA0
-LC0yMTQ2MzIxOTQ5LDY0NzQyNTM2NiwxMTMyMjQxODQyLDExNT
-Q2NDMwMjgsMzM1MTE0MjY0LC0xOTk4NDMzMTE1LDM4MjAzMTk1
-NiwxMzcwOTAzODQ2XX0=
+eyJoaXN0b3J5IjpbLTE5MDcxNjAxLC0yMDUxNjUyNzAyLC0xMD
+k0MDE0NjEwLC0zNDczOTI2NiwzOTAyMzc3NDYsNDM4NzQ2MDQs
+LTIxNDYzMjE5NDksNjQ3NDI1MzY2LDExMzIyNDE4NDIsMTE1ND
+Y0MzAyOCwzMzUxMTQyNjQsLTE5OTg0MzMxMTUsMzgyMDMxOTU2
+LDEzNzA5MDM4NDZdfQ==
 -->
