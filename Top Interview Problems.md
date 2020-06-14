@@ -234,9 +234,11 @@ use prev, curr two pointers; inside the while loop, we store the next node, then
 I am kinda curious why this one is a *hard* :)
 We could sort the list first.
 Then find the index of first un-positive number.
-the index is
+the index is over OR nums[index] is greater than 1 => 1
+start from the index iterating over
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDY0MzAyOCwzMzUxMTQyNjQsLTE5OT
-g0MzMxMTUsMzgyMDMxOTU2LDEzNzA5MDM4NDZdfQ==
+eyJoaXN0b3J5IjpbLTEwOTg0NjcxODQsMTE1NDY0MzAyOCwzMz
+UxMTQyNjQsLTE5OTg0MzMxMTUsMzgyMDMxOTU2LDEzNzA5MDM4
+NDZdfQ==
 -->
