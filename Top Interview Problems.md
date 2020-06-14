@@ -242,9 +242,9 @@ start from the index iterating over, jump duplicates and find the first gap => n
 Similar Problems [210. Course Schedule II]([https://leetcode.com/problems/course-schedule-ii/](https://leetcode.com/problems/course-schedule-ii/))
 Logic: **BFS**
 Use a 2D array to store all edges
-Initiate a 1D array saving the 
+Initiate a 1D array saving the indegree
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExMzA5OTQwLDY0NzQyNTM2NiwxMTMyMj
-QxODQyLDExNTQ2NDMwMjgsMzM1MTE0MjY0LC0xOTk4NDMzMTE1
-LDM4MjAzMTk1NiwxMzcwOTAzODQ2XX0=
+eyJoaXN0b3J5IjpbLTIxNDYzMjE5NDksNjQ3NDI1MzY2LDExMz
+IyNDE4NDIsMTE1NDY0MzAyOCwzMzUxMTQyNjQsLTE5OTg0MzMx
+MTUsMzgyMDMxOTU2LDEzNzA5MDM4NDZdfQ==
 -->
