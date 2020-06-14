@@ -243,8 +243,10 @@ Similar Problems [210. Course Schedule II]([https://leetcode.com/problems/course
 Logic: **BFS**
 Use a 2D array to store all edges
 Initiate a 1D array saving the indegree
+Use a queue for assisting, enqueue all 0 indegree nodes
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDYzMjE5NDksNjQ3NDI1MzY2LDExMz
-IyNDE4NDIsMTE1NDY0MzAyOCwzMzUxMTQyNjQsLTE5OTg0MzMx
-MTUsMzgyMDMxOTU2LDEzNzA5MDM4NDZdfQ==
+eyJoaXN0b3J5IjpbLTI4ODIzNzYzOSwtMjE0NjMyMTk0OSw2ND
+c0MjUzNjYsMTEzMjI0MTg0MiwxMTU0NjQzMDI4LDMzNTExNDI2
+NCwtMTk5ODQzMzExNSwzODIwMzE5NTYsMTM3MDkwMzg0Nl19
 -->
