@@ -239,8 +239,9 @@ start from the index iterating over, jump duplicates and find the first gap => n
 
 ### [269. Alien Dictionary]([https://leetcode.com/problems/alien-dictionary/](https://leetcode.com/problems/alien-dictionary/))
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjI0MTg0MiwxMTU0NjQzMDI4LDMzNT
-ExNDI2NCwtMTk5ODQzMzExNSwzODIwMzE5NTYsMTM3MDkwMzg0
-Nl19
+eyJoaXN0b3J5IjpbLTgwMzY5NzMxMiwxMTMyMjQxODQyLDExNT
+Q2NDMwMjgsMzM1MTE0MjY0LC0xOTk4NDMzMTE1LDM4MjAzMTk1
+NiwxMzcwOTAzODQ2XX0=
 -->
