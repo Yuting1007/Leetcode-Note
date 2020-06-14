@@ -254,14 +254,14 @@ Logic: **BFS**
 ### [297. Serialize and Deserialize Binary Tree]([https://leetcode.com/problems/serialize-and-deserialize-binary-tree/](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/))
 A classic tree problem.
 Recursion => preorder
-Iteration => level travseral 
+Iteration => level travseral (need a queue for assistantship in both serialize and deserialize)
 **istringstream** and **ostringstream**
 in >> val  => read val from in
 out << val => write val to out
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzOTM0NDMxLC0yMDUxNjUyNzAyLC0xMD
-k0MDE0NjEwLC0zNDczOTI2NiwzOTAyMzc3NDYsNDM4NzQ2MDQs
-LTIxNDYzMjE5NDksNjQ3NDI1MzY2LDExMzIyNDE4NDIsMTE1ND
-Y0MzAyOCwzMzUxMTQyNjQsLTE5OTg0MzMxMTUsMzgyMDMxOTU2
-LDEzNzA5MDM4NDZdfQ==
+eyJoaXN0b3J5IjpbMTA4NTY1Njk2MywtMjA1MTY1MjcwMiwtMT
+A5NDAxNDYxMCwtMzQ3MzkyNjYsMzkwMjM3NzQ2LDQzODc0NjA0
+LC0yMTQ2MzIxOTQ5LDY0NzQyNTM2NiwxMTMyMjQxODQyLDExNT
+Q2NDMwMjgsMzM1MTE0MjY0LC0xOTk4NDMzMTE1LDM4MjAzMTk1
+NiwxMzcwOTAzODQ2XX0=
 -->
