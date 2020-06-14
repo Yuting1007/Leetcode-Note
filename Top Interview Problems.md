@@ -249,9 +249,10 @@ Logic: **BFS**
 		decrease the another node at the edge indegree by 1, if 0 enqueue
 	
 	The tricky part of this question is the way to construct graph. Usually, we use a 2D array, here a set of pairs is useful.
+	Some associated in-built functions are: set<pair<char, char>> st, st.insert(make_pair(A, B)), first, second
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzM5MjY2LDM5MDIzNzc0Niw0Mzg3ND
-YwNCwtMjE0NjMyMTk0OSw2NDc0MjUzNjYsMTEzMjI0MTg0Miwx
-MTU0NjQzMDI4LDMzNTExNDI2NCwtMTk5ODQzMzExNSwzODIwMz
-E5NTYsMTM3MDkwMzg0Nl19
+eyJoaXN0b3J5IjpbLTEwOTQwMTQ2MTAsLTM0NzM5MjY2LDM5MD
+IzNzc0Niw0Mzg3NDYwNCwtMjE0NjMyMTk0OSw2NDc0MjUzNjYs
+MTEzMjI0MTg0MiwxMTU0NjQzMDI4LDMzNTExNDI2NCwtMTk5OD
+QzMzExNSwzODIwMzE5NTYsMTM3MDkwMzg0Nl19
 -->
