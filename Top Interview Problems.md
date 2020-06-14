@@ -235,10 +235,12 @@ I am kinda curious why this one is a *hard* :)
 We could sort the list first.
 Then find the index of first un-positive number.
 the index is over OR nums[index] is greater than 1 => 1
-start from the index iterating over
+start from the index iterating over, jump duplicates and find the first gap => nums[j] + 1
+
+### [269. Alien Dictionary]([https://leetcode.com/problems/alien-dictionary/](https://leetcode.com/problems/alien-dictionary/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTg0NjcxODQsMTE1NDY0MzAyOCwzMz
-UxMTQyNjQsLTE5OTg0MzMxMTUsMzgyMDMxOTU2LDEzNzA5MDM4
-NDZdfQ==
+eyJoaXN0b3J5IjpbMTEzMjI0MTg0MiwxMTU0NjQzMDI4LDMzNT
+ExNDI2NCwtMTk5ODQzMzExNSwzODIwMzE5NTYsMTM3MDkwMzg0
+Nl19
 -->
