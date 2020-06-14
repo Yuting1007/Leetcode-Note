@@ -240,11 +240,11 @@ start from the index iterating over, jump duplicates and find the first gap => n
 ### [269. Alien Dictionary]([https://leetcode.com/problems/alien-dictionary/](https://leetcode.com/problems/alien-dictionary/))
 **Directed Graph**
 Similar Problems [210. Course Schedule II]([https://leetcode.com/problems/course-schedule-ii/](https://leetcode.com/problems/course-schedule-ii/))
-Logic:
+Logic: **BFS**
 Use a 2D array to store all edges
 Initiate a 1D array saving the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0NzkyNTE1LDY0NzQyNTM2NiwxMTMyMj
+eyJoaXN0b3J5IjpbNDExMzA5OTQwLDY0NzQyNTM2NiwxMTMyMj
 QxODQyLDExNTQ2NDMwMjgsMzM1MTE0MjY0LC0xOTk4NDMzMTE1
 LDM4MjAzMTk1NiwxMzcwOTAzODQ2XX0=
 -->
