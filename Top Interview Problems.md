@@ -253,10 +253,12 @@ Logic: **BFS**
 
 ### [297. Serialize and Deserialize Binary Tree]([https://leetcode.com/problems/serialize-and-deserialize-binary-tree/](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/))
 A classic tree problem.
+Recursion => preorder
+Iteration => level travseral 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1MDgwOTE4LC0xMDk0MDE0NjEwLC0zND
-czOTI2NiwzOTAyMzc3NDYsNDM4NzQ2MDQsLTIxNDYzMjE5NDks
-NjQ3NDI1MzY2LDExMzIyNDE4NDIsMTE1NDY0MzAyOCwzMzUxMT
-QyNjQsLTE5OTg0MzMxMTUsMzgyMDMxOTU2LDEzNzA5MDM4NDZd
-fQ==
+eyJoaXN0b3J5IjpbLTIwNTE2NTI3MDIsLTEwOTQwMTQ2MTAsLT
+M0NzM5MjY2LDM5MDIzNzc0Niw0Mzg3NDYwNCwtMjE0NjMyMTk0
+OSw2NDc0MjUzNjYsMTEzMjI0MTg0MiwxMTU0NjQzMDI4LDMzNT
+ExNDI2NCwtMTk5ODQzMzExNSwzODIwMzE5NTYsMTM3MDkwMzg0
+Nl19
 -->
