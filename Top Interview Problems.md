@@ -231,8 +231,10 @@ This is a super classic linked list questions!!!
 use prev, curr two pointers; inside the while loop, we store the next node, then turn over the next pointer and then move prev, curr pointers
 
 ### [41. First Missing Positive]([https://leetcode.com/problems/first-missing-positive/](https://leetcode.com/problems/first-missing-positive/))
+I am kinda curious why this one is a *hard* :)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM1MTE0MjY0LC0xOTk4NDMzMTE1LDM4Mj
-AzMTk1NiwxMzcwOTAzODQ2XX0=
+eyJoaXN0b3J5IjpbMjAyNzkwNTQzMSwzMzUxMTQyNjQsLTE5OT
+g0MzMxMTUsMzgyMDMxOTU2LDEzNzA5MDM4NDZdfQ==
 -->
