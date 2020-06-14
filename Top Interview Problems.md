@@ -241,17 +241,17 @@ start from the index iterating over, jump duplicates and find the first gap => n
 **Directed Graph**
 Similar Problems [210. Course Schedule II]([https://leetcode.com/problems/course-schedule-ii/](https://leetcode.com/problems/course-schedule-ii/))
 Logic: **BFS**
-Use a 2D array to store all edges
-Initiate a 1D array saving the indegree
-Use a queue for assisting, enqueue all 0 indegree nodes
-inside while loop:
-	grap the node from the queue front, pop 
-	decrease the another n
+1. Use a 2D array to store all edges
+	Initiate a 1D array saving the indegree
+2. Use a queue for assisting, enqueue all 0 indegree nodes
+3. inside while loop:
+		grap the node from the queue front, pop 
+		decrease the another node at the edge indegree by 1, if 0 enqueue
 	
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTQwOTMsNDM4NzQ2MDQsLTIxNDYzMj
-E5NDksNjQ3NDI1MzY2LDExMzIyNDE4NDIsMTE1NDY0MzAyOCwz
-MzUxMTQyNjQsLTE5OTg0MzMxMTUsMzgyMDMxOTU2LDEzNzA5MD
-M4NDZdfQ==
+eyJoaXN0b3J5IjpbMzkwMjM3NzQ2LDQzODc0NjA0LC0yMTQ2Mz
+IxOTQ5LDY0NzQyNTM2NiwxMTMyMjQxODQyLDExNTQ2NDMwMjgs
+MzM1MTE0MjY0LC0xOTk4NDMzMTE1LDM4MjAzMTk1NiwxMzcwOT
+AzODQ2XX0=
 -->
