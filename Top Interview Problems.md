@@ -232,9 +232,11 @@ use prev, curr two pointers; inside the while loop, we store the next node, then
 
 ### [41. First Missing Positive]([https://leetcode.com/problems/first-missing-positive/](https://leetcode.com/problems/first-missing-positive/))
 I am kinda curious why this one is a *hard* :)
-
+We could sort the list first.
+Then find the index of first un-positive number.
+the index is
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzkwNTQzMSwzMzUxMTQyNjQsLTE5OT
+eyJoaXN0b3J5IjpbMTE1NDY0MzAyOCwzMzUxMTQyNjQsLTE5OT
 g0MzMxMTUsMzgyMDMxOTU2LDEzNzA5MDM4NDZdfQ==
 -->
