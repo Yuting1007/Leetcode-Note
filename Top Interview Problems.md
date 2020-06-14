@@ -248,10 +248,10 @@ Logic: **BFS**
 		grap the node from the queue front, pop 
 		decrease the another node at the edge indegree by 1, if 0 enqueue
 	
-	
+	The tricky part of this question is the way to construct graph. Usually, we use a 2D array, here a set of pairs is useful.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwMjM3NzQ2LDQzODc0NjA0LC0yMTQ2Mz
-IxOTQ5LDY0NzQyNTM2NiwxMTMyMjQxODQyLDExNTQ2NDMwMjgs
-MzM1MTE0MjY0LC0xOTk4NDMzMTE1LDM4MjAzMTk1NiwxMzcwOT
-AzODQ2XX0=
+eyJoaXN0b3J5IjpbLTM0NzM5MjY2LDM5MDIzNzc0Niw0Mzg3ND
+YwNCwtMjE0NjMyMTk0OSw2NDc0MjUzNjYsMTEzMjI0MTg0Miwx
+MTU0NjQzMDI4LDMzNTExNDI2NCwtMTk5ODQzMzExNSwzODIwMz
+E5NTYsMTM3MDkwMzg0Nl19
 -->
