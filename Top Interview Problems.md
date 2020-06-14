@@ -237,9 +237,9 @@ Then find the index of first un-positive number.
 the index is over OR nums[index] is greater than 1 => 1
 start from the index iterating over, jump duplicates and find the first gap => nums[j] + 1
 
-### [269. Alien Dictionary]([https://leetcode.com/problems/alien-dictionary/](https://leetcode.com/problems/alien-dictionary/))
+### [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
 **Directed Graph**
-Similar Problems [210. Course Schedule II]([https://leetcode.com/problems/course-schedule-ii/](https://leetcode.com/problems/course-schedule-ii/))
+Similar Problems [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 Logic: **BFS**
 1. Use a 2D array to store all edges
 	Initiate a 1D array saving the indegree
@@ -251,7 +251,7 @@ Logic: **BFS**
 	The tricky part of this question is the way to construct graph. Usually, we use a 2D array, here a set of pairs is useful.
 	Some associated in-built functions are: set<pair<char, char>> st, st.insert(make_pair(A, B)), first, second
 
-### [297. Serialize and Deserialize Binary Tree]([https://leetcode.com/problems/serialize-and-deserialize-binary-tree/](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/))
+### [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 A classic tree problem.
 Recursion => preorder
 Iteration => level travseral (need a queue for assistantship in both serialize and deserialize)
@@ -259,9 +259,9 @@ Iteration => level travseral (need a queue for assistantship in both serialize a
 in >> val  => read val from in
 out << val => write val to out
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDcxNjAxLC0yMDUxNjUyNzAyLC0xMD
-k0MDE0NjEwLC0zNDczOTI2NiwzOTAyMzc3NDYsNDM4NzQ2MDQs
-LTIxNDYzMjE5NDksNjQ3NDI1MzY2LDExMzIyNDE4NDIsMTE1ND
-Y0MzAyOCwzMzUxMTQyNjQsLTE5OTg0MzMxMTUsMzgyMDMxOTU2
-LDEzNzA5MDM4NDZdfQ==
+eyJoaXN0b3J5IjpbLTE0MzIxNDA5NTMsLTIwNTE2NTI3MDIsLT
+EwOTQwMTQ2MTAsLTM0NzM5MjY2LDM5MDIzNzc0Niw0Mzg3NDYw
+NCwtMjE0NjMyMTk0OSw2NDc0MjUzNjYsMTEzMjI0MTg0MiwxMT
+U0NjQzMDI4LDMzNTExNDI2NCwtMTk5ODQzMzExNSwzODIwMzE5
+NTYsMTM3MDkwMzg0Nl19
 -->
