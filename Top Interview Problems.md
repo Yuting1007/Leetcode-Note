@@ -279,14 +279,17 @@ dp[i] wether the substring [0, i) is valid
 A median diff but also classic one.
 We need to specify the range that our nums[mid] fall;
 after that, two candidate ranges will appear, we need to specify the range of our target falling.
-
+有两个范围都满足条件
+BS只能在sorted array中发挥作用 所以需要判断target落在那里
+如果落在右边, 有两种情况比target大, 如果落在左边 有两种情况比target小
+BS第一类 (<=; +1; -1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQ0NTcxMzksODY4MTI2MjcxLDQ4MD
-Q1Nzk2NCw4ODM3Mjg2NzgsMTM5MjA1MzgyNSwtMTg5MzI3OTI2
-NCw3ODg3MDA3MDAsNjc1NzYwODQxLC0xNTIxMTQ4MzksMjAyNj
-gxNzQzMSwzMjEyNDU0NywtNDUwMzcxMDMsLTE0MzIxNDA5NTMs
-LTIwNTE2NTI3MDIsLTEwOTQwMTQ2MTAsLTM0NzM5MjY2LDM5MD
-IzNzc0Niw0Mzg3NDYwNCwtMjE0NjMyMTk0OSw2NDc0MjUzNjZd
-fQ==
+eyJoaXN0b3J5IjpbLTE2OTE5ODM2Myw4NjgxMjYyNzEsNDgwND
+U3OTY0LDg4MzcyODY3OCwxMzkyMDUzODI1LC0xODkzMjc5MjY0
+LDc4ODcwMDcwMCw2NzU3NjA4NDEsLTE1MjExNDgzOSwyMDI2OD
+E3NDMxLDMyMTI0NTQ3LC00NTAzNzEwMywtMTQzMjE0MDk1Mywt
+MjA1MTY1MjcwMiwtMTA5NDAxNDYxMCwtMzQ3MzkyNjYsMzkwMj
+M3NzQ2LDQzODc0NjA0LC0yMTQ2MzIxOTQ5LDY0NzQyNTM2Nl19
+
 -->
