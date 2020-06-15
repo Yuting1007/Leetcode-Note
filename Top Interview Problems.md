@@ -287,9 +287,12 @@ BS第一类 (<=; +1; -1)
 ### [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 **coordinate change in turn**
 坐标变换数组
-The direction is right, down , left and up
+The direction is right, down , left and up; and this order appears in turns => %
+When we hit the boarder or access to a visited point => change our direction. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTkzNzk2Nyw0MzEzNDE2MDcsLTE2OT
+eyJoaXN0b3J5IjpbLTI2OTEwNzQ1Niw0MzEzNDE2MDcsLTE2OT
 E5ODM2Myw4NjgxMjYyNzEsNDgwNDU3OTY0LDg4MzcyODY3OCwx
 MzkyMDUzODI1LC0xODkzMjc5MjY0LDc4ODcwMDcwMCw2NzU3Nj
 A4NDEsLTE1MjExNDgzOSwyMDI2ODE3NDMxLDMyMTI0NTQ3LC00
