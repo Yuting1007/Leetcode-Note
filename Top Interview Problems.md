@@ -269,9 +269,12 @@ dp[i] = min(dp[i], dp[i - coins[j]] + 1);
 
 ### [139. Word Break](https://leetcode.com/problems/word-break/)
 dp problems
-dp[i] wether the substring [0, i)
+dp[i] wether the substring [0, i) is valid
+                **if(dp[j] && wordSet.count(s.substr(j, i-j))){
+                    dp[i] = 1;**
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODY0Mjg0OTksLTE4OTMyNzkyNjQsNz
+eyJoaXN0b3J5IjpbLTEzMjkwNzk0MTEsLTE4OTMyNzkyNjQsNz
 g4NzAwNzAwLDY3NTc2MDg0MSwtMTUyMTE0ODM5LDIwMjY4MTc0
 MzEsMzIxMjQ1NDcsLTQ1MDM3MTAzLC0xNDMyMTQwOTUzLC0yMD
 UxNjUyNzAyLC0xMDk0MDE0NjEwLC0zNDczOTI2NiwzOTAyMzc3
