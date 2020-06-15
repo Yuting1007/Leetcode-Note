@@ -293,14 +293,15 @@ When we hit the boarder or access to a visited point => change our direction.
 ### [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 A easy one
 In order to avoid overflow, use long to store result;
+inside the while loop of x != 0
 res = 10* res + x % 10;
 x /= 10;
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjQ1MzIwOSw0MzEzNDE2MDcsLTE2OT
-E5ODM2Myw4NjgxMjYyNzEsNDgwNDU3OTY0LDg4MzcyODY3OCwx
-MzkyMDUzODI1LC0xODkzMjc5MjY0LDc4ODcwMDcwMCw2NzU3Nj
-A4NDEsLTE1MjExNDgzOSwyMDI2ODE3NDMxLDMyMTI0NTQ3LC00
-NTAzNzEwMywtMTQzMjE0MDk1MywtMjA1MTY1MjcwMiwtMTA5ND
-AxNDYxMCwtMzQ3MzkyNjYsMzkwMjM3NzQ2LDQzODc0NjA0XX0=
+eyJoaXN0b3J5IjpbLTEyMjgyMTk4NTYsNDMxMzQxNjA3LC0xNj
+kxOTgzNjMsODY4MTI2MjcxLDQ4MDQ1Nzk2NCw4ODM3Mjg2Nzgs
+MTM5MjA1MzgyNSwtMTg5MzI3OTI2NCw3ODg3MDA3MDAsNjc1Nz
+YwODQxLC0xNTIxMTQ4MzksMjAyNjgxNzQzMSwzMjEyNDU0Nywt
+NDUwMzcxMDMsLTE0MzIxNDA5NTMsLTIwNTE2NTI3MDIsLTEwOT
+QwMTQ2MTAsLTM0NzM5MjY2LDM5MDIzNzc0Niw0Mzg3NDYwNF19
 
 -->
