@@ -272,13 +272,13 @@ dp problems
 dp[i] wether the substring [0, i) is valid
                 **if(dp[j] && wordSet.count(s.substr(j, i-j))){
                     dp[i] = 1;**
- 
+ [0, i) is separated into [0, j) and [j, i), therefore, we need dp[j] and wordSet.count(s.str(j, i-j))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjkwNzk0MTEsLTE4OTMyNzkyNjQsNz
-g4NzAwNzAwLDY3NTc2MDg0MSwtMTUyMTE0ODM5LDIwMjY4MTc0
-MzEsMzIxMjQ1NDcsLTQ1MDM3MTAzLC0xNDMyMTQwOTUzLC0yMD
-UxNjUyNzAyLC0xMDk0MDE0NjEwLC0zNDczOTI2NiwzOTAyMzc3
-NDYsNDM4NzQ2MDQsLTIxNDYzMjE5NDksNjQ3NDI1MzY2LDExMz
-IyNDE4NDIsMTE1NDY0MzAyOCwzMzUxMTQyNjQsLTE5OTg0MzMx
-MTVdfQ==
+eyJoaXN0b3J5IjpbMTM5MjA1MzgyNSwtMTg5MzI3OTI2NCw3OD
+g3MDA3MDAsNjc1NzYwODQxLC0xNTIxMTQ4MzksMjAyNjgxNzQz
+MSwzMjEyNDU0NywtNDUwMzcxMDMsLTE0MzIxNDA5NTMsLTIwNT
+E2NTI3MDIsLTEwOTQwMTQ2MTAsLTM0NzM5MjY2LDM5MDIzNzc0
+Niw0Mzg3NDYwNCwtMjE0NjMyMTk0OSw2NDc0MjUzNjYsMTEzMj
+I0MTg0MiwxMTU0NjQzMDI4LDMzNTExNDI2NCwtMTk5ODQzMzEx
+NV19
 -->
