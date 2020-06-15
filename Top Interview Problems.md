@@ -263,12 +263,14 @@ out << val => write val to out
 When we talk about the optimal solution, a dp is also a good choice (besides greedy algorithm)
 dp = dfs + memo(similar functionality as dp vector)
 dp[i] => the smallest number of coins to reach amout of i
-
+Initiate it as vector<int> dp(amount+1, amount+1);
+dp[i] = min(dp[i], dp[i - coins[j]] + 1);
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1NzYwODQxLC0xNTIxMTQ4MzksMjAyNj
-gxNzQzMSwzMjEyNDU0NywtNDUwMzcxMDMsLTE0MzIxNDA5NTMs
-LTIwNTE2NTI3MDIsLTEwOTQwMTQ2MTAsLTM0NzM5MjY2LDM5MD
-IzNzc0Niw0Mzg3NDYwNCwtMjE0NjMyMTk0OSw2NDc0MjUzNjYs
-MTEzMjI0MTg0MiwxMTU0NjQzMDI4LDMzNTExNDI2NCwtMTk5OD
-QzMzExNSwzODIwMzE5NTYsMTM3MDkwMzg0Nl19
+eyJoaXN0b3J5IjpbLTEyMDE2MDI1MzIsNjc1NzYwODQxLC0xNT
+IxMTQ4MzksMjAyNjgxNzQzMSwzMjEyNDU0NywtNDUwMzcxMDMs
+LTE0MzIxNDA5NTMsLTIwNTE2NTI3MDIsLTEwOTQwMTQ2MTAsLT
+M0NzM5MjY2LDM5MDIzNzc0Niw0Mzg3NDYwNCwtMjE0NjMyMTk0
+OSw2NDc0MjUzNjYsMTEzMjI0MTg0MiwxMTU0NjQzMDI4LDMzNT
+ExNDI2NCwtMTk5ODQzMzExNSwzODIwMzE5NTYsMTM3MDkwMzg0
+Nl19
 -->
