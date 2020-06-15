@@ -266,12 +266,14 @@ dp[i] => the smallest number of coins to reach amout of i
 Initiate it as vector<int> dp(amount+1, amount+1);
 **dynamic transfer function:**
 dp[i] = min(dp[i], dp[i - coins[j]] + 1);
+
+### [139. Word Break](https://leetcode.com/problems/word-break/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4NzAwNzAwLDY3NTc2MDg0MSwtMTUyMT
-E0ODM5LDIwMjY4MTc0MzEsMzIxMjQ1NDcsLTQ1MDM3MTAzLC0x
-NDMyMTQwOTUzLC0yMDUxNjUyNzAyLC0xMDk0MDE0NjEwLC0zND
-czOTI2NiwzOTAyMzc3NDYsNDM4NzQ2MDQsLTIxNDYzMjE5NDks
-NjQ3NDI1MzY2LDExMzIyNDE4NDIsMTE1NDY0MzAyOCwzMzUxMT
-QyNjQsLTE5OTg0MzMxMTUsMzgyMDMxOTU2LDEzNzA5MDM4NDZd
-fQ==
+eyJoaXN0b3J5IjpbLTE4OTMyNzkyNjQsNzg4NzAwNzAwLDY3NT
+c2MDg0MSwtMTUyMTE0ODM5LDIwMjY4MTc0MzEsMzIxMjQ1NDcs
+LTQ1MDM3MTAzLC0xNDMyMTQwOTUzLC0yMDUxNjUyNzAyLC0xMD
+k0MDE0NjEwLC0zNDczOTI2NiwzOTAyMzc3NDYsNDM4NzQ2MDQs
+LTIxNDYzMjE5NDksNjQ3NDI1MzY2LDExMzIyNDE4NDIsMTE1ND
+Y0MzAyOCwzMzUxMTQyNjQsLTE5OTg0MzMxMTUsMzgyMDMxOTU2
+XX0=
 -->
