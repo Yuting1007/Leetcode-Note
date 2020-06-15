@@ -276,13 +276,13 @@ dp[i] wether the substring [0, i) is valid
  The direction is backwards
  
 ### [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-A median 
+A median diff but also classic 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwNDU3OTY0LDg4MzcyODY3OCwxMzkyMD
-UzODI1LC0xODkzMjc5MjY0LDc4ODcwMDcwMCw2NzU3NjA4NDEs
-LTE1MjExNDgzOSwyMDI2ODE3NDMxLDMyMTI0NTQ3LC00NTAzNz
-EwMywtMTQzMjE0MDk1MywtMjA1MTY1MjcwMiwtMTA5NDAxNDYx
-MCwtMzQ3MzkyNjYsMzkwMjM3NzQ2LDQzODc0NjA0LC0yMTQ2Mz
-IxOTQ5LDY0NzQyNTM2NiwxMTMyMjQxODQyLDExNTQ2NDMwMjhd
-fQ==
+eyJoaXN0b3J5IjpbODY4MTI2MjcxLDQ4MDQ1Nzk2NCw4ODM3Mj
+g2NzgsMTM5MjA1MzgyNSwtMTg5MzI3OTI2NCw3ODg3MDA3MDAs
+Njc1NzYwODQxLC0xNTIxMTQ4MzksMjAyNjgxNzQzMSwzMjEyND
+U0NywtNDUwMzcxMDMsLTE0MzIxNDA5NTMsLTIwNTE2NTI3MDIs
+LTEwOTQwMTQ2MTAsLTM0NzM5MjY2LDM5MDIzNzc0Niw0Mzg3ND
+YwNCwtMjE0NjMyMTk0OSw2NDc0MjUzNjYsMTEzMjI0MTg0Ml19
+
 -->
