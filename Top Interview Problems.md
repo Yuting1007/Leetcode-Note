@@ -262,12 +262,13 @@ out << val => write val to out
 ### [322. Coin Change](https://leetcode.com/problems/coin-change/)
 When we talk about the optimal solution, a dp is also a good choice (besides greedy algorithm)
 dp = dfs + memo(similar functionality as dp vector)
+dp[i] => the smallest number of coins to reach amout of i
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjExNDgzOSwyMDI2ODE3NDMxLDMyMT
-I0NTQ3LC00NTAzNzEwMywtMTQzMjE0MDk1MywtMjA1MTY1Mjcw
-MiwtMTA5NDAxNDYxMCwtMzQ3MzkyNjYsMzkwMjM3NzQ2LDQzOD
-c0NjA0LC0yMTQ2MzIxOTQ5LDY0NzQyNTM2NiwxMTMyMjQxODQy
-LDExNTQ2NDMwMjgsMzM1MTE0MjY0LC0xOTk4NDMzMTE1LDM4Mj
-AzMTk1NiwxMzcwOTAzODQ2XX0=
+eyJoaXN0b3J5IjpbNjc1NzYwODQxLC0xNTIxMTQ4MzksMjAyNj
+gxNzQzMSwzMjEyNDU0NywtNDUwMzcxMDMsLTE0MzIxNDA5NTMs
+LTIwNTE2NTI3MDIsLTEwOTQwMTQ2MTAsLTM0NzM5MjY2LDM5MD
+IzNzc0Niw0Mzg3NDYwNCwtMjE0NjMyMTk0OSw2NDc0MjUzNjYs
+MTEzMjI0MTg0MiwxMTU0NjQzMDI4LDMzNTExNDI2NCwtMTk5OD
+QzMzExNSwzODIwMzE5NTYsMTM3MDkwMzg0Nl19
 -->
