@@ -260,11 +260,11 @@ in >> val  => read val from in
 out << val => write val to out
 
 ### [322. Coin Change](https://leetcode.com/problems/coin-change/)
-
+When we talk about the optimal solution, a dp is also a good choice (besides greedy algorithm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDM3MTAzLC0xNDMyMTQwOTUzLC0yMD
-UxNjUyNzAyLC0xMDk0MDE0NjEwLC0zNDczOTI2NiwzOTAyMzc3
-NDYsNDM4NzQ2MDQsLTIxNDYzMjE5NDksNjQ3NDI1MzY2LDExMz
-IyNDE4NDIsMTE1NDY0MzAyOCwzMzUxMTQyNjQsLTE5OTg0MzMx
-MTUsMzgyMDMxOTU2LDEzNzA5MDM4NDZdfQ==
+eyJoaXN0b3J5IjpbMzIxMjQ1NDcsLTQ1MDM3MTAzLC0xNDMyMT
+QwOTUzLC0yMDUxNjUyNzAyLC0xMDk0MDE0NjEwLC0zNDczOTI2
+NiwzOTAyMzc3NDYsNDM4NzQ2MDQsLTIxNDYzMjE5NDksNjQ3ND
+I1MzY2LDExMzIyNDE4NDIsMTE1NDY0MzAyOCwzMzUxMTQyNjQs
+LTE5OTg0MzMxMTUsMzgyMDMxOTU2LDEzNzA5MDM4NDZdfQ==
 -->
