@@ -290,9 +290,9 @@ BS第一类 (<=; +1; -1)
 The direction is right, down , left and up; and this order appears in turns => %
 When we hit the boarder or access to a visited point => change our direction. 
 
-
+### [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTEwNzQ1Niw0MzEzNDE2MDcsLTE2OT
+eyJoaXN0b3J5IjpbMTk5MTQ3NTcwMiw0MzEzNDE2MDcsLTE2OT
 E5ODM2Myw4NjgxMjYyNzEsNDgwNDU3OTY0LDg4MzcyODY3OCwx
 MzkyMDUzODI1LC0xODkzMjc5MjY0LDc4ODcwMDcwMCw2NzU3Nj
 A4NDEsLTE1MjExNDgzOSwyMDI2ODE3NDMxLDMyMTI0NTQ3LC00
