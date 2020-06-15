@@ -276,13 +276,17 @@ dp[i] wether the substring [0, i) is valid
  The direction is backwards
  
 ### [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-A median diff but also classic 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4MTI2MjcxLDQ4MDQ1Nzk2NCw4ODM3Mj
-g2NzgsMTM5MjA1MzgyNSwtMTg5MzI3OTI2NCw3ODg3MDA3MDAs
-Njc1NzYwODQxLC0xNTIxMTQ4MzksMjAyNjgxNzQzMSwzMjEyND
-U0NywtNDUwMzcxMDMsLTE0MzIxNDA5NTMsLTIwNTE2NTI3MDIs
-LTEwOTQwMTQ2MTAsLTM0NzM5MjY2LDM5MDIzNzc0Niw0Mzg3ND
-YwNCwtMjE0NjMyMTk0OSw2NDc0MjUzNjYsMTEzMjI0MTg0Ml19
+A median diff but also classic one.
+We need to specify the range that our nums[mid] fall;
+after that, two candidate ranges will appear, we need to specify the range of our target falling.
 
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4ODQ0NTcxMzksODY4MTI2MjcxLDQ4MD
+Q1Nzk2NCw4ODM3Mjg2NzgsMTM5MjA1MzgyNSwtMTg5MzI3OTI2
+NCw3ODg3MDA3MDAsNjc1NzYwODQxLC0xNTIxMTQ4MzksMjAyNj
+gxNzQzMSwzMjEyNDU0NywtNDUwMzcxMDMsLTE0MzIxNDA5NTMs
+LTIwNTE2NTI3MDIsLTEwOTQwMTQ2MTAsLTM0NzM5MjY2LDM5MD
+IzNzc0Niw0Mzg3NDYwNCwtMjE0NjMyMTk0OSw2NDc0MjUzNjZd
+fQ==
 -->
