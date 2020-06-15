@@ -273,12 +273,15 @@ dp[i] wether the substring [0, i) is valid
                 **if(dp[j] && wordSet.count(s.substr(j, i-j))){
                     dp[i] = 1;**
  [0, i) is separated into [0, j) and [j, i), therefore, we need dp[j] and wordSet.count(s.str(j, i-j))
+ 
+### [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+A median 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjA1MzgyNSwtMTg5MzI3OTI2NCw3OD
-g3MDA3MDAsNjc1NzYwODQxLC0xNTIxMTQ4MzksMjAyNjgxNzQz
-MSwzMjEyNDU0NywtNDUwMzcxMDMsLTE0MzIxNDA5NTMsLTIwNT
-E2NTI3MDIsLTEwOTQwMTQ2MTAsLTM0NzM5MjY2LDM5MDIzNzc0
-Niw0Mzg3NDYwNCwtMjE0NjMyMTk0OSw2NDc0MjUzNjYsMTEzMj
-I0MTg0MiwxMTU0NjQzMDI4LDMzNTExNDI2NCwtMTk5ODQzMzEx
-NV19
+eyJoaXN0b3J5IjpbODgzNzI4Njc4LDEzOTIwNTM4MjUsLTE4OT
+MyNzkyNjQsNzg4NzAwNzAwLDY3NTc2MDg0MSwtMTUyMTE0ODM5
+LDIwMjY4MTc0MzEsMzIxMjQ1NDcsLTQ1MDM3MTAzLC0xNDMyMT
+QwOTUzLC0yMDUxNjUyNzAyLC0xMDk0MDE0NjEwLC0zNDczOTI2
+NiwzOTAyMzc3NDYsNDM4NzQ2MDQsLTIxNDYzMjE5NDksNjQ3ND
+I1MzY2LDExMzIyNDE4NDIsMTE1NDY0MzAyOCwzMzUxMTQyNjRd
+fQ==
 -->
