@@ -372,13 +372,16 @@ after  the pharase that `where(i >= 0 && j >= 0)`,
 we need to consider the situations that only one is left.
 In this case, we use _nums1_as the operation space, only consider the case that _nums2_ is not done.
 **similar questions**
-[https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/)
+[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+### [289. Game of Life](https://leetcode.com/problems/game-of-life/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDkwNzQyODYsLTY5NjQzMDA5NSwtMj
-gzNDk0NTUyLDEzNTM0OTkwMTgsMTA2OTI5NTMyMiwtNTQzMzE4
-NDA0LC0yNTYzNjU4NzIsLTEyOTkzMDA3MzMsMTQ0NjE3NzQwMS
-wzNDYwMDY4OTQsOTAyOTk3OTQxLC04NjY1MTIwOTEsMjEzNTMy
-NTE4MywxNjgwNTUwOTI5LC0xNzgwMTk4NjUzLDE1OTMwOTAyMD
-EsMjA3MTE3NzA2OCwtMTAzNjE1MDEzNywtNzcyNTQ0NjE2LC0z
-NjY2MjgyMzhdfQ==
+eyJoaXN0b3J5IjpbLTQzNjI0MTQxNSwtNjk2NDMwMDk1LC0yOD
+M0OTQ1NTIsMTM1MzQ5OTAxOCwxMDY5Mjk1MzIyLC01NDMzMTg0
+MDQsLTI1NjM2NTg3MiwtMTI5OTMwMDczMywxNDQ2MTc3NDAxLD
+M0NjAwNjg5NCw5MDI5OTc5NDEsLTg2NjUxMjA5MSwyMTM1MzI1
+MTgzLDE2ODA1NTA5MjksLTE3ODAxOTg2NTMsMTU5MzA5MDIwMS
+wyMDcxMTc3MDY4LC0xMDM2MTUwMTM3LC03NzI1NDQ2MTYsLTM2
+NjYyODIzOF19
 -->
