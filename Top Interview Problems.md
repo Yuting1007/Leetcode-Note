@@ -367,9 +367,10 @@ inside the dfs function,
 You may assume that _nums1_ has enough space (size that is greater or equal to _m_ + _n_) to hold additional elements from _nums2_.
 ```
 As the statement, we need to operate in the _nums1_.
-And they way we handle sorting from blank. As the hint suggests, we use _nums1_  
+And they way we handle sorting from blank. As the hint suggests, we use _nums1_ as the space we sort.
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjkwMTg3OCwtMjgzNDk0NTUyLDEzNT
+eyJoaXN0b3J5IjpbLTY5NjQzMDA5NSwtMjgzNDk0NTUyLDEzNT
 M0OTkwMTgsMTA2OTI5NTMyMiwtNTQzMzE4NDA0LC0yNTYzNjU4
 NzIsLTEyOTkzMDA3MzMsMTQ0NjE3NzQwMSwzNDYwMDY4OTQsOT
 AyOTk3OTQxLC04NjY1MTIwOTEsMjEzNTMyNTE4MywxNjgwNTUw
