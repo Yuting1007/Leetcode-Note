@@ -348,12 +348,13 @@ For the min-heap, the smallest element is at the top. Whenever we find the eleme
 priority_queue <int, vector<int>, greater<int>> gq;
 ```
 ### [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzgyNTI1OSwxNDQ2MTc3NDAxLDM0Nj
-AwNjg5NCw5MDI5OTc5NDEsLTg2NjUxMjA5MSwyMTM1MzI1MTgz
-LDE2ODA1NTA5MjksLTE3ODAxOTg2NTMsMTU5MzA5MDIwMSwyMD
-cxMTc3MDY4LC0xMDM2MTUwMTM3LC03NzI1NDQ2MTYsLTM2NjYy
-ODIzOCwxNTY1MTk4NTk3LDE0NDY2NTM3MDYsLTExMDMwNDc1NS
-wtMTIyODIxOTg1Niw0MzEzNDE2MDcsLTE2OTE5ODM2Myw4Njgx
-MjYyNzFdfQ==
+eyJoaXN0b3J5IjpbLTEyOTkzMDA3MzMsMTQ0NjE3NzQwMSwzND
+YwMDY4OTQsOTAyOTk3OTQxLC04NjY1MTIwOTEsMjEzNTMyNTE4
+MywxNjgwNTUwOTI5LC0xNzgwMTk4NjUzLDE1OTMwOTAyMDEsMj
+A3MTE3NzA2OCwtMTAzNjE1MDEzNywtNzcyNTQ0NjE2LC0zNjY2
+MjgyMzgsMTU2NTE5ODU5NywxNDQ2NjUzNzA2LC0xMTAzMDQ3NT
+UsLTEyMjgyMTk4NTYsNDMxMzQxNjA3LC0xNjkxOTgzNjMsODY4
+MTI2MjcxXX0=
 -->
