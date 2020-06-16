@@ -325,9 +325,11 @@ This is a new approach for solving *interval questions*
 	`if (starts[i] < ends[endpos])` => `res++`
 	when we start, the last one is not finished
 	`else ` => `++endpos;`
-	when we st
+	when we start, the last one is over, we can move to the next endpoint
+
+### [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjYyODMzNSwtMTc4MDE5ODY1MywxNT
+eyJoaXN0b3J5IjpbMTY4MDU1MDkyOSwtMTc4MDE5ODY1MywxNT
 kzMDkwMjAxLDIwNzExNzcwNjgsLTEwMzYxNTAxMzcsLTc3MjU0
 NDYxNiwtMzY2NjI4MjM4LDE1NjUxOTg1OTcsMTQ0NjY1MzcwNi
 wtMTEwMzA0NzU1LC0xMjI4MjE5ODU2LDQzMTM0MTYwNywtMTY5
