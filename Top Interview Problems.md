@@ -321,13 +321,14 @@ we use dp to solve this question (I am thinking that if the current state someho
         }
 
 ```
-The
+The left and right fences are determined by the max
+But the water trapped in between is determined by min
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjcxMzI4NCwtMTAzNjE1MDEzNywtNz
-cyNTQ0NjE2LC0zNjY2MjgyMzgsMTU2NTE5ODU5NywxNDQ2NjUz
-NzA2LC0xMTAzMDQ3NTUsLTEyMjgyMTk4NTYsNDMxMzQxNjA3LC
-0xNjkxOTgzNjMsODY4MTI2MjcxLDQ4MDQ1Nzk2NCw4ODM3Mjg2
-NzgsMTM5MjA1MzgyNSwtMTg5MzI3OTI2NCw3ODg3MDA3MDAsNj
-c1NzYwODQxLC0xNTIxMTQ4MzksMjAyNjgxNzQzMSwzMjEyNDU0
-N119
+eyJoaXN0b3J5IjpbLTEyNDM2ODk0MzksLTEwMzYxNTAxMzcsLT
+c3MjU0NDYxNiwtMzY2NjI4MjM4LDE1NjUxOTg1OTcsMTQ0NjY1
+MzcwNiwtMTEwMzA0NzU1LC0xMjI4MjE5ODU2LDQzMTM0MTYwNy
+wtMTY5MTk4MzYzLDg2ODEyNjI3MSw0ODA0NTc5NjQsODgzNzI4
+Njc4LDEzOTIwNTM4MjUsLTE4OTMyNzkyNjQsNzg4NzAwNzAwLD
+Y3NTc2MDg0MSwtMTUyMTE0ODM5LDIwMjY4MTc0MzEsMzIxMjQ1
+NDddfQ==
 -->
