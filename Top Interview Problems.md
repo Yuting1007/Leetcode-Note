@@ -329,12 +329,14 @@ This is a new approach for solving *interval questions*
 
 ### [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
+### [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTMyNTE4MywxNjgwNTUwOTI5LC0xNz
-gwMTk4NjUzLDE1OTMwOTAyMDEsMjA3MTE3NzA2OCwtMTAzNjE1
-MDEzNywtNzcyNTQ0NjE2LC0zNjY2MjgyMzgsMTU2NTE5ODU5Ny
-wxNDQ2NjUzNzA2LC0xMTAzMDQ3NTUsLTEyMjgyMTk4NTYsNDMx
-MzQxNjA3LC0xNjkxOTgzNjMsODY4MTI2MjcxLDQ4MDQ1Nzk2NC
-w4ODM3Mjg2NzgsMTM5MjA1MzgyNSwtMTg5MzI3OTI2NCw3ODg3
-MDA3MDBdfQ==
+eyJoaXN0b3J5IjpbLTg2NjUxMjA5MSwyMTM1MzI1MTgzLDE2OD
+A1NTA5MjksLTE3ODAxOTg2NTMsMTU5MzA5MDIwMSwyMDcxMTc3
+MDY4LC0xMDM2MTUwMTM3LC03NzI1NDQ2MTYsLTM2NjYyODIzOC
+wxNTY1MTk4NTk3LDE0NDY2NTM3MDYsLTExMDMwNDc1NSwtMTIy
+ODIxOTg1Niw0MzEzNDE2MDcsLTE2OTE5ODM2Myw4NjgxMjYyNz
+EsNDgwNDU3OTY0LDg4MzcyODY3OCwxMzkyMDUzODI1LC0xODkz
+Mjc5MjY0XX0=
 -->
