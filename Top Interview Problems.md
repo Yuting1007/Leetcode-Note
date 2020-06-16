@@ -301,12 +301,14 @@ x /= 10;
 This problem could use a hashmap.
 We can sort the strings to get a uniform key
 
+### [11.  Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+A problem with trapping water => consider left and right
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjY1MzcwNiwtMTEwMzA0NzU1LC0xMj
-I4MjE5ODU2LDQzMTM0MTYwNywtMTY5MTk4MzYzLDg2ODEyNjI3
-MSw0ODA0NTc5NjQsODgzNzI4Njc4LDEzOTIwNTM4MjUsLTE4OT
-MyNzkyNjQsNzg4NzAwNzAwLDY3NTc2MDg0MSwtMTUyMTE0ODM5
-LDIwMjY4MTc0MzEsMzIxMjQ1NDcsLTQ1MDM3MTAzLC0xNDMyMT
-QwOTUzLC0yMDUxNjUyNzAyLC0xMDk0MDE0NjEwLC0zNDczOTI2
-Nl19
+eyJoaXN0b3J5IjpbMTU2NTE5ODU5NywxNDQ2NjUzNzA2LC0xMT
+AzMDQ3NTUsLTEyMjgyMTk4NTYsNDMxMzQxNjA3LC0xNjkxOTgz
+NjMsODY4MTI2MjcxLDQ4MDQ1Nzk2NCw4ODM3Mjg2NzgsMTM5Mj
+A1MzgyNSwtMTg5MzI3OTI2NCw3ODg3MDA3MDAsNjc1NzYwODQx
+LC0xNTIxMTQ4MzksMjAyNjgxNzQzMSwzMjEyNDU0NywtNDUwMz
+cxMDMsLTE0MzIxNDA5NTMsLTIwNTE2NTI3MDIsLTEwOTQwMTQ2
+MTBdfQ==
 -->
