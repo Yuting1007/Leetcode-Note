@@ -313,14 +313,21 @@ This one is not asking about the most water but the total amout trapped.
 As we always said, when talking about water, two directions are necessary.
 we use dp to solve this question (I am thinking that if the current state somehow relies on the previous one, we could use dp)
 ```
+        for(int i = 1; i < n; i++){
+            left[i] = max(left[i-1], height[i-1]);
+        }
+        for(int j = n-2; j >= 0; j--){
+            right[j] = max(right[j+1], height[j+1]);
+        }
 
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDA5MTk0NiwtNzcyNTQ0NjE2LC0zNj
-Y2MjgyMzgsMTU2NTE5ODU5NywxNDQ2NjUzNzA2LC0xMTAzMDQ3
-NTUsLTEyMjgyMTk4NTYsNDMxMzQxNjA3LC0xNjkxOTgzNjMsOD
-Y4MTI2MjcxLDQ4MDQ1Nzk2NCw4ODM3Mjg2NzgsMTM5MjA1Mzgy
-NSwtMTg5MzI3OTI2NCw3ODg3MDA3MDAsNjc1NzYwODQxLC0xNT
-IxMTQ4MzksMjAyNjgxNzQzMSwzMjEyNDU0NywtNDUwMzcxMDNd
-fQ==
+eyJoaXN0b3J5IjpbLTEwMzYxNTAxMzcsLTc3MjU0NDYxNiwtMz
+Y2NjI4MjM4LDE1NjUxOTg1OTcsMTQ0NjY1MzcwNiwtMTEwMzA0
+NzU1LC0xMjI4MjE5ODU2LDQzMTM0MTYwNywtMTY5MTk4MzYzLD
+g2ODEyNjI3MSw0ODA0NTc5NjQsODgzNzI4Njc4LDEzOTIwNTM4
+MjUsLTE4OTMyNzkyNjQsNzg4NzAwNzAwLDY3NTc2MDg0MSwtMT
+UyMTE0ODM5LDIwMjY4MTc0MzEsMzIxMjQ1NDcsLTQ1MDM3MTAz
+XX0=
 -->
