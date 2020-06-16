@@ -307,13 +307,16 @@ Two pointers
 h = min(nums[left], nums[right])
 Why do we move our poniter? => if nums[left] or nums[right] <= h
 Or, if we explain in pain words, we move the one laggin behind
-***similar question***
+***similar question:***
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 This one is not asking about the most water but the total amout trapped.
 As we always said, when talking about water, two directions are necessary.
+we use dp to solve this question (I am thinking that if the current state somehow relies on the previous one, we could use dp)
+```
 
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDg4OTYwMywtNzcyNTQ0NjE2LC0zNj
+eyJoaXN0b3J5IjpbMjA0MDA5MTk0NiwtNzcyNTQ0NjE2LC0zNj
 Y2MjgyMzgsMTU2NTE5ODU5NywxNDQ2NjUzNzA2LC0xMTAzMDQ3
 NTUsLTEyMjgyMTk4NTYsNDMxMzQxNjA3LC0xNjkxOTgzNjMsOD
 Y4MTI2MjcxLDQ4MDQ1Nzk2NCw4ODM3Mjg2NzgsMTM5MjA1Mzgy
