@@ -345,10 +345,11 @@ swap the pivot and stopping pointer
 3. **min-heap**
 For the min-heap, the smallest element is at the top. Whenever we find the elements in the heap is larger than k, we pop from the heap.
 ```
-
-`
+priority_queue <int, vector<int>, greater<int>> gq;
+```
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzIzNTQyMSwzNDYwMDY4OTQsOTAyOT
+eyJoaXN0b3J5IjpbMTQ0NjE3NzQwMSwzNDYwMDY4OTQsOTAyOT
 k3OTQxLC04NjY1MTIwOTEsMjEzNTMyNTE4MywxNjgwNTUwOTI5
 LC0xNzgwMTk4NjUzLDE1OTMwOTAyMDEsMjA3MTE3NzA2OCwtMT
 AzNjE1MDEzNywtNzcyNTQ0NjE2LC0zNjY2MjgyMzgsMTU2NTE5
