@@ -349,8 +349,12 @@ priority_queue <int, vector<int>, greater<int>> gq;
 ```
 ### [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 For those combination questions => dfs+backtracking
+The params needed in dfs usually follows:
+```
+void DFS(string digits, int index, string& curr, vector<string>& res, vector<string>& letter){}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjU4NDI5NiwtMTI5OTMwMDczMywxND
+eyJoaXN0b3J5IjpbLTQzNzgzMDg2OCwtMTI5OTMwMDczMywxND
 Q2MTc3NDAxLDM0NjAwNjg5NCw5MDI5OTc5NDEsLTg2NjUxMjA5
 MSwyMTM1MzI1MTgzLDE2ODA1NTA5MjksLTE3ODAxOTg2NTMsMT
 U5MzA5MDIwMSwyMDcxMTc3MDY4LC0xMDM2MTUwMTM3LC03NzI1
