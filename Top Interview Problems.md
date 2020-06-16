@@ -316,12 +316,15 @@ we use dp to solve this question (I am thinking that if the current state someho
 ```
 The left and right fences are determined by the max
 But the water trapped in between is determined by min
+
+### [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MzA5MDIwMSwyMDcxMTc3MDY4LC0xMD
-M2MTUwMTM3LC03NzI1NDQ2MTYsLTM2NjYyODIzOCwxNTY1MTk4
-NTk3LDE0NDY2NTM3MDYsLTExMDMwNDc1NSwtMTIyODIxOTg1Ni
-w0MzEzNDE2MDcsLTE2OTE5ODM2Myw4NjgxMjYyNzEsNDgwNDU3
-OTY0LDg4MzcyODY3OCwxMzkyMDUzODI1LC0xODkzMjc5MjY0LD
-c4ODcwMDcwMCw2NzU3NjA4NDEsLTE1MjExNDgzOSwyMDI2ODE3
-NDMxXX0=
+eyJoaXN0b3J5IjpbLTE3ODAxOTg2NTMsMTU5MzA5MDIwMSwyMD
+cxMTc3MDY4LC0xMDM2MTUwMTM3LC03NzI1NDQ2MTYsLTM2NjYy
+ODIzOCwxNTY1MTk4NTk3LDE0NDY2NTM3MDYsLTExMDMwNDc1NS
+wtMTIyODIxOTg1Niw0MzEzNDE2MDcsLTE2OTE5ODM2Myw4Njgx
+MjYyNzEsNDgwNDU3OTY0LDg4MzcyODY3OCwxMzkyMDUzODI1LC
+0xODkzMjc5MjY0LDc4ODcwMDcwMCw2NzU3NjA4NDEsLTE1MjEx
+NDgzOV19
 -->
