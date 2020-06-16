@@ -318,13 +318,13 @@ The left and right fences are determined by the max
 But the water trapped in between is determined by min
 
 ### [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
-
+This is a new approach for solving *interval questions*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODAxOTg2NTMsMTU5MzA5MDIwMSwyMD
-cxMTc3MDY4LC0xMDM2MTUwMTM3LC03NzI1NDQ2MTYsLTM2NjYy
-ODIzOCwxNTY1MTk4NTk3LDE0NDY2NTM3MDYsLTExMDMwNDc1NS
-wtMTIyODIxOTg1Niw0MzEzNDE2MDcsLTE2OTE5ODM2Myw4Njgx
-MjYyNzEsNDgwNDU3OTY0LDg4MzcyODY3OCwxMzkyMDUzODI1LC
-0xODkzMjc5MjY0LDc4ODcwMDcwMCw2NzU3NjA4NDEsLTE1MjEx
-NDgzOV19
+eyJoaXN0b3J5IjpbMTczNzMwODAwMywtMTc4MDE5ODY1MywxNT
+kzMDkwMjAxLDIwNzExNzcwNjgsLTEwMzYxNTAxMzcsLTc3MjU0
+NDYxNiwtMzY2NjI4MjM4LDE1NjUxOTg1OTcsMTQ0NjY1MzcwNi
+wtMTEwMzA0NzU1LC0xMjI4MjE5ODU2LDQzMTM0MTYwNywtMTY5
+MTk4MzYzLDg2ODEyNjI3MSw0ODA0NTc5NjQsODgzNzI4Njc4LD
+EzOTIwNTM4MjUsLTE4OTMyNzkyNjQsNzg4NzAwNzAwLDY3NTc2
+MDg0MV19
 -->
