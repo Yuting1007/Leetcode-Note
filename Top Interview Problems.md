@@ -336,8 +336,9 @@ We use a hashmap to bulid injection between nodes and copied nodes.
 2. copy the random pointers
 
 ###  [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+We may think about sor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzI0OTI5NywtODY2NTEyMDkxLDIxMz
+eyJoaXN0b3J5IjpbMTc0NTk3NDk2NSwtODY2NTEyMDkxLDIxMz
 UzMjUxODMsMTY4MDU1MDkyOSwtMTc4MDE5ODY1MywxNTkzMDkw
 MjAxLDIwNzExNzcwNjgsLTEwMzYxNTAxMzcsLTc3MjU0NDYxNi
 wtMzY2NjI4MjM4LDE1NjUxOTg1OTcsMTQ0NjY1MzcwNiwtMTEw
