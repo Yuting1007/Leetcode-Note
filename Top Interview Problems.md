@@ -306,13 +306,15 @@ A problem with trapping water => consider left and right
 Two pointers
 h = min(nums[left], nums[right])
 Why do we move our poniter? => if nums[left] or nums[right] <= h
-Or, if we expla
+Or, if we explain in pain words, we move the one laggin behind
+***similar question***
+[42. Trapping Rain Water]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxNzMzMjA5LC0zNjY2MjgyMzgsMTU2NT
-E5ODU5NywxNDQ2NjUzNzA2LC0xMTAzMDQ3NTUsLTEyMjgyMTk4
-NTYsNDMxMzQxNjA3LC0xNjkxOTgzNjMsODY4MTI2MjcxLDQ4MD
-Q1Nzk2NCw4ODM3Mjg2NzgsMTM5MjA1MzgyNSwtMTg5MzI3OTI2
-NCw3ODg3MDA3MDAsNjc1NzYwODQxLC0xNTIxMTQ4MzksMjAyNj
-gxNzQzMSwzMjEyNDU0NywtNDUwMzcxMDMsLTE0MzIxNDA5NTNd
-fQ==
+eyJoaXN0b3J5IjpbMTIwMjk1MDUwOSwtMzY2NjI4MjM4LDE1Nj
+UxOTg1OTcsMTQ0NjY1MzcwNiwtMTEwMzA0NzU1LC0xMjI4MjE5
+ODU2LDQzMTM0MTYwNywtMTY5MTk4MzYzLDg2ODEyNjI3MSw0OD
+A0NTc5NjQsODgzNzI4Njc4LDEzOTIwNTM4MjUsLTE4OTMyNzky
+NjQsNzg4NzAwNzAwLDY3NTc2MDg0MSwtMTUyMTE0ODM5LDIwMj
+Y4MTc0MzEsMzIxMjQ1NDcsLTQ1MDM3MTAzLC0xNDMyMTQwOTUz
+XX0=
 -->
