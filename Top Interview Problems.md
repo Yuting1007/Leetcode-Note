@@ -336,13 +336,14 @@ We use a hashmap to bulid injection between nodes and copied nodes.
 2. copy the random pointers
 
 ###  [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-We may think about sor
+We may think about sort and find the kth largest element.
+When talking about the sort, instead of using the in-b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTk3NDk2NSwtODY2NTEyMDkxLDIxMz
-UzMjUxODMsMTY4MDU1MDkyOSwtMTc4MDE5ODY1MywxNTkzMDkw
-MjAxLDIwNzExNzcwNjgsLTEwMzYxNTAxMzcsLTc3MjU0NDYxNi
-wtMzY2NjI4MjM4LDE1NjUxOTg1OTcsMTQ0NjY1MzcwNiwtMTEw
-MzA0NzU1LC0xMjI4MjE5ODU2LDQzMTM0MTYwNywtMTY5MTk4Mz
-YzLDg2ODEyNjI3MSw0ODA0NTc5NjQsODgzNzI4Njc4LDEzOTIw
-NTM4MjVdfQ==
+eyJoaXN0b3J5IjpbLTE5NDI2MDc5MjcsLTg2NjUxMjA5MSwyMT
+M1MzI1MTgzLDE2ODA1NTA5MjksLTE3ODAxOTg2NTMsMTU5MzA5
+MDIwMSwyMDcxMTc3MDY4LC0xMDM2MTUwMTM3LC03NzI1NDQ2MT
+YsLTM2NjYyODIzOCwxNTY1MTk4NTk3LDE0NDY2NTM3MDYsLTEx
+MDMwNDc1NSwtMTIyODIxOTg1Niw0MzEzNDE2MDcsLTE2OTE5OD
+M2Myw4NjgxMjYyNzEsNDgwNDU3OTY0LDg4MzcyODY3OCwxMzky
+MDUzODI1XX0=
 -->
