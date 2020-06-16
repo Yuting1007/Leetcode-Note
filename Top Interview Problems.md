@@ -304,13 +304,15 @@ We can sort the strings to get a uniform key
 ### [11.  Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 A problem with trapping water => consider left and right
 Two pointers
-
+h = min(nums[left], nums[right])
+Why do we move our poniter? => if nums[left] or nums[right] <= h
+Or, if we expla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjE5MDAyMDEsLTM2NjYyODIzOCwxNT
-Y1MTk4NTk3LDE0NDY2NTM3MDYsLTExMDMwNDc1NSwtMTIyODIx
-OTg1Niw0MzEzNDE2MDcsLTE2OTE5ODM2Myw4NjgxMjYyNzEsND
-gwNDU3OTY0LDg4MzcyODY3OCwxMzkyMDUzODI1LC0xODkzMjc5
-MjY0LDc4ODcwMDcwMCw2NzU3NjA4NDEsLTE1MjExNDgzOSwyMD
-I2ODE3NDMxLDMyMTI0NTQ3LC00NTAzNzEwMywtMTQzMjE0MDk1
-M119
+eyJoaXN0b3J5IjpbNTIxNzMzMjA5LC0zNjY2MjgyMzgsMTU2NT
+E5ODU5NywxNDQ2NjUzNzA2LC0xMTAzMDQ3NTUsLTEyMjgyMTk4
+NTYsNDMxMzQxNjA3LC0xNjkxOTgzNjMsODY4MTI2MjcxLDQ4MD
+Q1Nzk2NCw4ODM3Mjg2NzgsMTM5MjA1MzgyNSwtMTg5MzI3OTI2
+NCw3ODg3MDA3MDAsNjc1NzYwODQxLC0xNTIxMTQ4MzksMjAyNj
+gxNzQzMSwzMjEyNDU0NywtNDUwMzcxMDMsLTE0MzIxNDA5NTNd
+fQ==
 -->
