@@ -310,12 +310,14 @@ Or, if we explain in pain words, we move the one laggin behind
 ***similar question***
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 This one is not asking about the most water but the total amout trapped.
+As we always said, when talking about water, two directions are necessary.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjU0NDYxNiwtMzY2NjI4MjM4LDE1Nj
-UxOTg1OTcsMTQ0NjY1MzcwNiwtMTEwMzA0NzU1LC0xMjI4MjE5
-ODU2LDQzMTM0MTYwNywtMTY5MTk4MzYzLDg2ODEyNjI3MSw0OD
-A0NTc5NjQsODgzNzI4Njc4LDEzOTIwNTM4MjUsLTE4OTMyNzky
-NjQsNzg4NzAwNzAwLDY3NTc2MDg0MSwtMTUyMTE0ODM5LDIwMj
-Y4MTc0MzEsMzIxMjQ1NDcsLTQ1MDM3MTAzLC0xNDMyMTQwOTUz
-XX0=
+eyJoaXN0b3J5IjpbMTYwMDg4OTYwMywtNzcyNTQ0NjE2LC0zNj
+Y2MjgyMzgsMTU2NTE5ODU5NywxNDQ2NjUzNzA2LC0xMTAzMDQ3
+NTUsLTEyMjgyMTk4NTYsNDMxMzQxNjA3LC0xNjkxOTgzNjMsOD
+Y4MTI2MjcxLDQ4MDQ1Nzk2NCw4ODM3Mjg2NzgsMTM5MjA1Mzgy
+NSwtMTg5MzI3OTI2NCw3ODg3MDA3MDAsNjc1NzYwODQxLC0xNT
+IxMTQ4MzksMjAyNjgxNzQzMSwzMjEyNDU0NywtNDUwMzcxMDNd
+fQ==
 -->
