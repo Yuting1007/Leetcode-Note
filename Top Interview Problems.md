@@ -368,13 +368,13 @@ You may assume that _nums1_ has enough space (size that is greater or equal to _
 ```
 As the statement, we need to operate in the _nums1_.
 And they way we handle sorting from blank. As the hint suggests, we use _nums1_ as the space we sort.
- 
+after  the pharase that `where(i >= 0 && j >= 0)`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjQzMDA5NSwtMjgzNDk0NTUyLDEzNT
-M0OTkwMTgsMTA2OTI5NTMyMiwtNTQzMzE4NDA0LC0yNTYzNjU4
-NzIsLTEyOTkzMDA3MzMsMTQ0NjE3NzQwMSwzNDYwMDY4OTQsOT
-AyOTk3OTQxLC04NjY1MTIwOTEsMjEzNTMyNTE4MywxNjgwNTUw
-OTI5LC0xNzgwMTk4NjUzLDE1OTMwOTAyMDEsMjA3MTE3NzA2OC
-wtMTAzNjE1MDEzNywtNzcyNTQ0NjE2LC0zNjY2MjgyMzgsMTU2
-NTE5ODU5N119
+eyJoaXN0b3J5IjpbMjEzMTcwMzQzMCwtNjk2NDMwMDk1LC0yOD
+M0OTQ1NTIsMTM1MzQ5OTAxOCwxMDY5Mjk1MzIyLC01NDMzMTg0
+MDQsLTI1NjM2NTg3MiwtMTI5OTMwMDczMywxNDQ2MTc3NDAxLD
+M0NjAwNjg5NCw5MDI5OTc5NDEsLTg2NjUxMjA5MSwyMTM1MzI1
+MTgzLDE2ODA1NTA5MjksLTE3ODAxOTg2NTMsMTU5MzA5MDIwMS
+wyMDcxMTc3MDY4LC0xMDM2MTUwMTM3LC03NzI1NDQ2MTYsLTM2
+NjYyODIzOF19
 -->
