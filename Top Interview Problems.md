@@ -328,12 +328,13 @@ This is a new approach for solving *interval questions*
 	when we start, the last one is over, we can move to the next endpoint
 
 ### [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDU1MDkyOSwtMTc4MDE5ODY1MywxNT
-kzMDkwMjAxLDIwNzExNzcwNjgsLTEwMzYxNTAxMzcsLTc3MjU0
-NDYxNiwtMzY2NjI4MjM4LDE1NjUxOTg1OTcsMTQ0NjY1MzcwNi
-wtMTEwMzA0NzU1LC0xMjI4MjE5ODU2LDQzMTM0MTYwNywtMTY5
-MTk4MzYzLDg2ODEyNjI3MSw0ODA0NTc5NjQsODgzNzI4Njc4LD
-EzOTIwNTM4MjUsLTE4OTMyNzkyNjQsNzg4NzAwNzAwLDY3NTc2
-MDg0MV19
+eyJoaXN0b3J5IjpbMjEzNTMyNTE4MywxNjgwNTUwOTI5LC0xNz
+gwMTk4NjUzLDE1OTMwOTAyMDEsMjA3MTE3NzA2OCwtMTAzNjE1
+MDEzNywtNzcyNTQ0NjE2LC0zNjY2MjgyMzgsMTU2NTE5ODU5Ny
+wxNDQ2NjUzNzA2LC0xMTAzMDQ3NTUsLTEyMjgyMTk4NTYsNDMx
+MzQxNjA3LC0xNjkxOTgzNjMsODY4MTI2MjcxLDQ4MDQ1Nzk2NC
+w4ODM3Mjg2NzgsMTM5MjA1MzgyNSwtMTg5MzI3OTI2NCw3ODg3
+MDA3MDBdfQ==
 -->
