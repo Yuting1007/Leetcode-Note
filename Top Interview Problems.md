@@ -363,13 +363,16 @@ inside the dfs function,
 3. cursion => dfs(index+1)
 
 ### [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-
+```
+You may assume that _nums1_ has enough space (size that is greater or equal to _m_ + _n_) to hold additional elements from _nums2_.
+```
+As the statement, we need to operate in the _nums1_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTI5NTMyMiwtNTQzMzE4NDA0LC0yNT
-YzNjU4NzIsLTEyOTkzMDA3MzMsMTQ0NjE3NzQwMSwzNDYwMDY4
-OTQsOTAyOTk3OTQxLC04NjY1MTIwOTEsMjEzNTMyNTE4MywxNj
-gwNTUwOTI5LC0xNzgwMTk4NjUzLDE1OTMwOTAyMDEsMjA3MTE3
-NzA2OCwtMTAzNjE1MDEzNywtNzcyNTQ0NjE2LC0zNjY2MjgyMz
-gsMTU2NTE5ODU5NywxNDQ2NjUzNzA2LC0xMTAzMDQ3NTUsLTEy
-MjgyMTk4NTZdfQ==
+eyJoaXN0b3J5IjpbMTM1MzQ5OTAxOCwxMDY5Mjk1MzIyLC01ND
+MzMTg0MDQsLTI1NjM2NTg3MiwtMTI5OTMwMDczMywxNDQ2MTc3
+NDAxLDM0NjAwNjg5NCw5MDI5OTc5NDEsLTg2NjUxMjA5MSwyMT
+M1MzI1MTgzLDE2ODA1NTA5MjksLTE3ODAxOTg2NTMsMTU5MzA5
+MDIwMSwyMDcxMTc3MDY4LC0xMDM2MTUwMTM3LC03NzI1NDQ2MT
+YsLTM2NjYyODIzOCwxNTY1MTk4NTk3LDE0NDY2NTM3MDYsLTEx
+MDMwNDc1NV19
 -->
