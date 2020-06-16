@@ -342,12 +342,17 @@ When talking about the sort, instead of using the in-bulit function.
 Find a pivot, parition the rest into (smaller than pivot, larger than pivot) by swapping
 swap the pivot and stopping pointer
 2. **quick select**
+3. **min-heap**
+For the min-heap, the smallest element is at the top. Whenever we find the elements in the heap is larger than k, we pop from the heap.
+```
+
+`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0OTQ2OTczLDM0NjAwNjg5NCw5MDI5OT
-c5NDEsLTg2NjUxMjA5MSwyMTM1MzI1MTgzLDE2ODA1NTA5Mjks
-LTE3ODAxOTg2NTMsMTU5MzA5MDIwMSwyMDcxMTc3MDY4LC0xMD
-M2MTUwMTM3LC03NzI1NDQ2MTYsLTM2NjYyODIzOCwxNTY1MTk4
-NTk3LDE0NDY2NTM3MDYsLTExMDMwNDc1NSwtMTIyODIxOTg1Ni
-w0MzEzNDE2MDcsLTE2OTE5ODM2Myw4NjgxMjYyNzEsNDgwNDU3
-OTY0XX0=
+eyJoaXN0b3J5IjpbLTEwMzIzNTQyMSwzNDYwMDY4OTQsOTAyOT
+k3OTQxLC04NjY1MTIwOTEsMjEzNTMyNTE4MywxNjgwNTUwOTI5
+LC0xNzgwMTk4NjUzLDE1OTMwOTAyMDEsMjA3MTE3NzA2OCwtMT
+AzNjE1MDEzNywtNzcyNTQ0NjE2LC0zNjY2MjgyMzgsMTU2NTE5
+ODU5NywxNDQ2NjUzNzA2LC0xMTAzMDQ3NTUsLTEyMjgyMTk4NT
+YsNDMxMzQxNjA3LC0xNjkxOTgzNjMsODY4MTI2MjcxLDQ4MDQ1
+Nzk2NF19
 -->
