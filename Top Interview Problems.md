@@ -331,14 +331,17 @@ This is a new approach for solving *interval questions*
 
 ### [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 This is a classic *random* problem.
-We use a hashmap to bulid injection between 
+We use a hashmap to bulid injection between nodes and copied nodes.
+1. copy next pointers first and initiate the hashmap
+2. copy the random pointers
 
+###  [215. Kth Largest Element in an Array]([https://leetcode.com/problems/kth-largest-element-in-an-array/](https://leetcode.com/problems/kth-largest-element-in-an-array/))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2NjM4NjI4LC04NjY1MTIwOTEsMjEzNT
-MyNTE4MywxNjgwNTUwOTI5LC0xNzgwMTk4NjUzLDE1OTMwOTAy
-MDEsMjA3MTE3NzA2OCwtMTAzNjE1MDEzNywtNzcyNTQ0NjE2LC
-0zNjY2MjgyMzgsMTU2NTE5ODU5NywxNDQ2NjUzNzA2LC0xMTAz
-MDQ3NTUsLTEyMjgyMTk4NTYsNDMxMzQxNjA3LC0xNjkxOTgzNj
-MsODY4MTI2MjcxLDQ4MDQ1Nzk2NCw4ODM3Mjg2NzgsMTM5MjA1
-MzgyNV19
+eyJoaXN0b3J5IjpbMTQ1MDg2Mjk5MSwtODY2NTEyMDkxLDIxMz
+UzMjUxODMsMTY4MDU1MDkyOSwtMTc4MDE5ODY1MywxNTkzMDkw
+MjAxLDIwNzExNzcwNjgsLTEwMzYxNTAxMzcsLTc3MjU0NDYxNi
+wtMzY2NjI4MjM4LDE1NjUxOTg1OTcsMTQ0NjY1MzcwNiwtMTEw
+MzA0NzU1LC0xMjI4MjE5ODU2LDQzMTM0MTYwNywtMTY5MTk4Mz
+YzLDg2ODEyNjI3MSw0ODA0NTc5NjQsODgzNzI4Njc4LDEzOTIw
+NTM4MjVdfQ==
 -->
