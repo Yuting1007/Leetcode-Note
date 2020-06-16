@@ -335,9 +335,9 @@ We use a hashmap to bulid injection between nodes and copied nodes.
 1. copy next pointers first and initiate the hashmap
 2. copy the random pointers
 
-###  [215. Kth Largest Element in an Array]([https://leetcode.com/problems/kth-largest-element-in-an-array/](https://leetcode.com/problems/kth-largest-element-in-an-array/))
+###  [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDg2Mjk5MSwtODY2NTEyMDkxLDIxMz
+eyJoaXN0b3J5IjpbLTQ4MzI0OTI5NywtODY2NTEyMDkxLDIxMz
 UzMjUxODMsMTY4MDU1MDkyOSwtMTc4MDE5ODY1MywxNTkzMDkw
 MjAxLDIwNzExNzcwNjgsLTEwMzYxNTAxMzcsLTc3MjU0NDYxNi
 wtMzY2NjI4MjM4LDE1NjUxOTg1OTcsMTQ0NjY1MzcwNiwtMTEw
