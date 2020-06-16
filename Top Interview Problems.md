@@ -353,8 +353,12 @@ The params needed in dfs usually follows:
 ```
 void DFS(string digits, int index, string& curr, vector<string>& res, vector<string>& letter){}
 ```
+or, if I put it as a more abstruct way,
+```
+void dfs(input, index(or degree), current_answer, result, avaiable_steps)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzgzMDg2OCwtMTI5OTMwMDczMywxND
+eyJoaXN0b3J5IjpbLTI1NjM2NTg3MiwtMTI5OTMwMDczMywxND
 Q2MTc3NDAxLDM0NjAwNjg5NCw5MDI5OTc5NDEsLTg2NjUxMjA5
 MSwyMTM1MzI1MTgzLDE2ODA1NTA5MjksLTE3ODAxOTg2NTMsMT
 U5MzA5MDIwMSwyMDcxMTc3MDY4LC0xMDM2MTUwMTM3LC03NzI1
