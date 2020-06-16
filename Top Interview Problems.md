@@ -330,14 +330,15 @@ This is a new approach for solving *interval questions*
 ### [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
 ### [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
-
+This is a classic *random* problem.
+We use a hashmap to bulid injection between 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTU4NDU2MTMsLTg2NjUxMjA5MSwyMT
-M1MzI1MTgzLDE2ODA1NTA5MjksLTE3ODAxOTg2NTMsMTU5MzA5
-MDIwMSwyMDcxMTc3MDY4LC0xMDM2MTUwMTM3LC03NzI1NDQ2MT
-YsLTM2NjYyODIzOCwxNTY1MTk4NTk3LDE0NDY2NTM3MDYsLTEx
-MDMwNDc1NSwtMTIyODIxOTg1Niw0MzEzNDE2MDcsLTE2OTE5OD
-M2Myw4NjgxMjYyNzEsNDgwNDU3OTY0LDg4MzcyODY3OCwxMzky
-MDUzODI1XX0=
+eyJoaXN0b3J5IjpbNzM2NjM4NjI4LC04NjY1MTIwOTEsMjEzNT
+MyNTE4MywxNjgwNTUwOTI5LC0xNzgwMTk4NjUzLDE1OTMwOTAy
+MDEsMjA3MTE3NzA2OCwtMTAzNjE1MDEzNywtNzcyNTQ0NjE2LC
+0zNjY2MjgyMzgsMTU2NTE5ODU5NywxNDQ2NjUzNzA2LC0xMTAz
+MDQ3NTUsLTEyMjgyMTk4NTYsNDMxMzQxNjA3LC0xNjkxOTgzNj
+MsODY4MTI2MjcxLDQ4MDQ1Nzk2NCw4ODM3Mjg2NzgsMTM5MjA1
+MzgyNV19
 -->
