@@ -298,9 +298,11 @@ res = 10* res + x % 10;
 x /= 10;
 
 ### [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-This problem could use 
+This problem could use a hashmap.
+We can sort the strings to get a uniform key
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNjgwMjgxNywtMTEwMzA0NzU1LC0xMj
+eyJoaXN0b3J5IjpbMTQ0NjY1MzcwNiwtMTEwMzA0NzU1LC0xMj
 I4MjE5ODU2LDQzMTM0MTYwNywtMTY5MTk4MzYzLDg2ODEyNjI3
 MSw0ODA0NTc5NjQsODgzNzI4Njc4LDEzOTIwNTM4MjUsLTE4OT
 MyNzkyNjQsNzg4NzAwNzAwLDY3NTc2MDg0MSwtMTUyMTE0ODM5
