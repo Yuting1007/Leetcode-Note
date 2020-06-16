@@ -370,13 +370,13 @@ As the statement, we need to operate in the _nums1_.
 And they way we handle sorting from blank. As the hint suggests, we use _nums1_ as the space we sort.
 after  the pharase that `where(i >= 0 && j >= 0)`,
 we need to consider the situations that only one is left.
-In this case, we use _nums1_
+In this case, we use _nums1_as the operation space, only 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODc4MzUyLC02OTY0MzAwOTUsLTI4Mz
-Q5NDU1MiwxMzUzNDk5MDE4LDEwNjkyOTUzMjIsLTU0MzMxODQw
-NCwtMjU2MzY1ODcyLC0xMjk5MzAwNzMzLDE0NDYxNzc0MDEsMz
-Q2MDA2ODk0LDkwMjk5Nzk0MSwtODY2NTEyMDkxLDIxMzUzMjUx
-ODMsMTY4MDU1MDkyOSwtMTc4MDE5ODY1MywxNTkzMDkwMjAxLD
-IwNzExNzcwNjgsLTEwMzYxNTAxMzcsLTc3MjU0NDYxNiwtMzY2
-NjI4MjM4XX0=
+eyJoaXN0b3J5IjpbLTk2NzkyMzQzNiwtNjk2NDMwMDk1LC0yOD
+M0OTQ1NTIsMTM1MzQ5OTAxOCwxMDY5Mjk1MzIyLC01NDMzMTg0
+MDQsLTI1NjM2NTg3MiwtMTI5OTMwMDczMywxNDQ2MTc3NDAxLD
+M0NjAwNjg5NCw5MDI5OTc5NDEsLTg2NjUxMjA5MSwyMTM1MzI1
+MTgzLDE2ODA1NTA5MjksLTE3ODAxOTg2NTMsMTU5MzA5MDIwMS
+wyMDcxMTc3MDY4LC0xMDM2MTUwMTM3LC03NzI1NDQ2MTYsLTM2
+NjYyODIzOF19
 -->
