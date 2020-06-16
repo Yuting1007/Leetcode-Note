@@ -308,9 +308,9 @@ h = min(nums[left], nums[right])
 Why do we move our poniter? => if nums[left] or nums[right] <= h
 Or, if we explain in pain words, we move the one laggin behind
 ***similar question***
-[42. Trapping Rain Water]
+[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMjk1MDUwOSwtMzY2NjI4MjM4LDE1Nj
+eyJoaXN0b3J5IjpbMTQ3NjQzNDAwMiwtMzY2NjI4MjM4LDE1Nj
 UxOTg1OTcsMTQ0NjY1MzcwNiwtMTEwMzA0NzU1LC0xMjI4MjE5
 ODU2LDQzMTM0MTYwNywtMTY5MTk4MzYzLDg2ODEyNjI3MSw0OD
 A0NTc5NjQsODgzNzI4Njc4LDEzOTIwNTM4MjUsLTE4OTMyNzky
