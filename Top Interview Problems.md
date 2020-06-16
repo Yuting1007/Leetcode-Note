@@ -357,13 +357,16 @@ or, if I put it as a more abstruct way,
 ```
 void dfs(input, index(or degree), current_answer, result, avaiable_steps)
 ```
-inside the dfs function
+inside the dfs function, 
+1. stop => usually when degree hits the boarder
+2. increment => index+1
+3. cursion
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzMxODQwNCwtMjU2MzY1ODcyLC0xMj
-k5MzAwNzMzLDE0NDYxNzc0MDEsMzQ2MDA2ODk0LDkwMjk5Nzk0
-MSwtODY2NTEyMDkxLDIxMzUzMjUxODMsMTY4MDU1MDkyOSwtMT
-c4MDE5ODY1MywxNTkzMDkwMjAxLDIwNzExNzcwNjgsLTEwMzYx
-NTAxMzcsLTc3MjU0NDYxNiwtMzY2NjI4MjM4LDE1NjUxOTg1OT
-csMTQ0NjY1MzcwNiwtMTEwMzA0NzU1LC0xMjI4MjE5ODU2LDQz
-MTM0MTYwN119
+eyJoaXN0b3J5IjpbLTM2MzcxNjM4NSwtNTQzMzE4NDA0LC0yNT
+YzNjU4NzIsLTEyOTkzMDA3MzMsMTQ0NjE3NzQwMSwzNDYwMDY4
+OTQsOTAyOTk3OTQxLC04NjY1MTIwOTEsMjEzNTMyNTE4MywxNj
+gwNTUwOTI5LC0xNzgwMTk4NjUzLDE1OTMwOTAyMDEsMjA3MTE3
+NzA2OCwtMTAzNjE1MDEzNywtNzcyNTQ0NjE2LC0zNjY2MjgyMz
+gsMTU2NTE5ODU5NywxNDQ2NjUzNzA2LC0xMTAzMDQ3NTUsLTEy
+MjgyMTk4NTZdfQ==
 -->
