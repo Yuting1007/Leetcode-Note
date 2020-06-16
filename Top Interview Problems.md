@@ -339,12 +339,13 @@ We use a hashmap to bulid injection between nodes and copied nodes.
 We may think about sort and find the kth largest element.
 When talking about the sort, instead of using the in-bulit function.
 **quick sort**
+Find a pivot, parition 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2MDA2ODk0LDkwMjk5Nzk0MSwtODY2NT
-EyMDkxLDIxMzUzMjUxODMsMTY4MDU1MDkyOSwtMTc4MDE5ODY1
-MywxNTkzMDkwMjAxLDIwNzExNzcwNjgsLTEwMzYxNTAxMzcsLT
-c3MjU0NDYxNiwtMzY2NjI4MjM4LDE1NjUxOTg1OTcsMTQ0NjY1
-MzcwNiwtMTEwMzA0NzU1LC0xMjI4MjE5ODU2LDQzMTM0MTYwNy
-wtMTY5MTk4MzYzLDg2ODEyNjI3MSw0ODA0NTc5NjQsODgzNzI4
-Njc4XX0=
+eyJoaXN0b3J5IjpbNTU5OTkwNzg4LDM0NjAwNjg5NCw5MDI5OT
+c5NDEsLTg2NjUxMjA5MSwyMTM1MzI1MTgzLDE2ODA1NTA5Mjks
+LTE3ODAxOTg2NTMsMTU5MzA5MDIwMSwyMDcxMTc3MDY4LC0xMD
+M2MTUwMTM3LC03NzI1NDQ2MTYsLTM2NjYyODIzOCwxNTY1MTk4
+NTk3LDE0NDY2NTM3MDYsLTExMDMwNDc1NSwtMTIyODIxOTg1Ni
+w0MzEzNDE2MDcsLTE2OTE5ODM2Myw4NjgxMjYyNzEsNDgwNDU3
+OTY0XX0=
 -->
