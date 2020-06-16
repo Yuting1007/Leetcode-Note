@@ -309,12 +309,13 @@ Why do we move our poniter? => if nums[left] or nums[right] <= h
 Or, if we explain in pain words, we move the one laggin behind
 ***similar question***
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+This one is not asking about the most 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjQzNDAwMiwtMzY2NjI4MjM4LDE1Nj
-UxOTg1OTcsMTQ0NjY1MzcwNiwtMTEwMzA0NzU1LC0xMjI4MjE5
-ODU2LDQzMTM0MTYwNywtMTY5MTk4MzYzLDg2ODEyNjI3MSw0OD
-A0NTc5NjQsODgzNzI4Njc4LDEzOTIwNTM4MjUsLTE4OTMyNzky
-NjQsNzg4NzAwNzAwLDY3NTc2MDg0MSwtMTUyMTE0ODM5LDIwMj
-Y4MTc0MzEsMzIxMjQ1NDcsLTQ1MDM3MTAzLC0xNDMyMTQwOTUz
-XX0=
+eyJoaXN0b3J5IjpbLTIwMTIxMjA0NTksLTM2NjYyODIzOCwxNT
+Y1MTk4NTk3LDE0NDY2NTM3MDYsLTExMDMwNDc1NSwtMTIyODIx
+OTg1Niw0MzEzNDE2MDcsLTE2OTE5ODM2Myw4NjgxMjYyNzEsND
+gwNDU3OTY0LDg4MzcyODY3OCwxMzkyMDUzODI1LC0xODkzMjc5
+MjY0LDc4ODcwMDcwMCw2NzU3NjA4NDEsLTE1MjExNDgzOSwyMD
+I2ODE3NDMxLDMyMTI0NTQ3LC00NTAzNzEwMywtMTQzMjE0MDk1
+M119
 -->
