@@ -64,11 +64,12 @@ Here has a interesting pair matching management
 [pic here ]
 k is the #linked list after pair merge
 
-### 4. Median of Two Sorted Arrays
+### 4. Median of Two Sorted Arrays ???
 
 ### 10. Regular Expression Matching
+The tricky part of this problem is that 
+`'*' Matches zero or more of the preceding element.`
 
-while loop 觉得多余
 
   
 
@@ -132,10 +133,6 @@ This is a interval questions. Basically, it is an implementation of mind
 Greedy- Pick the  locally  optimal move at each step, and that will lead to the  globally  optimal solution.
 
 => optimization problems, maximum or minimum questions
-
-
-
-  
 
 we need to iterate all input, update locally optimal, update globally optimal
 
@@ -320,7 +317,7 @@ we use dp to solve this question (I am thinking that if the current state someho
 The left and right fences are determined by the max
 But the water trapped in between is determined by min
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTI1NTU2MCwtMTAzNjE1MDEzNywtNz
+eyJoaXN0b3J5IjpbMjA3MTE3NzA2OCwtMTAzNjE1MDEzNywtNz
 cyNTQ0NjE2LC0zNjY2MjgyMzgsMTU2NTE5ODU5NywxNDQ2NjUz
 NzA2LC0xMTAzMDQ3NTUsLTEyMjgyMTk4NTYsNDMxMzQxNjA3LC
 0xNjkxOTgzNjMsODY4MTI2MjcxLDQ4MDQ1Nzk2NCw4ODM3Mjg2
