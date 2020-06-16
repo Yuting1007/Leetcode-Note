@@ -303,12 +303,13 @@ We can sort the strings to get a uniform key
 
 ### [11.  Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 A problem with trapping water => consider left and right
+BS 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NTE5ODU5NywxNDQ2NjUzNzA2LC0xMT
-AzMDQ3NTUsLTEyMjgyMTk4NTYsNDMxMzQxNjA3LC0xNjkxOTgz
-NjMsODY4MTI2MjcxLDQ4MDQ1Nzk2NCw4ODM3Mjg2NzgsMTM5Mj
-A1MzgyNSwtMTg5MzI3OTI2NCw3ODg3MDA3MDAsNjc1NzYwODQx
-LC0xNTIxMTQ4MzksMjAyNjgxNzQzMSwzMjEyNDU0NywtNDUwMz
-cxMDMsLTE0MzIxNDA5NTMsLTIwNTE2NTI3MDIsLTEwOTQwMTQ2
-MTBdfQ==
+eyJoaXN0b3J5IjpbLTM2NjYyODIzOCwxNTY1MTk4NTk3LDE0ND
+Y2NTM3MDYsLTExMDMwNDc1NSwtMTIyODIxOTg1Niw0MzEzNDE2
+MDcsLTE2OTE5ODM2Myw4NjgxMjYyNzEsNDgwNDU3OTY0LDg4Mz
+cyODY3OCwxMzkyMDUzODI1LC0xODkzMjc5MjY0LDc4ODcwMDcw
+MCw2NzU3NjA4NDEsLTE1MjExNDgzOSwyMDI2ODE3NDMxLDMyMT
+I0NTQ3LC00NTAzNzEwMywtMTQzMjE0MDk1MywtMjA1MTY1Mjcw
+Ml19
 -->
