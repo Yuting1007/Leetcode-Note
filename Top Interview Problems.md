@@ -360,9 +360,12 @@ void dfs(input, index(or degree), current_answer, result, avaiable_steps)
 inside the dfs function, 
 1. stop => usually when degree hits the boarder
 2. increment => index+1
-3. cursion
+3. cursion => dfs(index+1)
+
+### [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MzcxNjM4NSwtNTQzMzE4NDA0LC0yNT
+eyJoaXN0b3J5IjpbMTA2OTI5NTMyMiwtNTQzMzE4NDA0LC0yNT
 YzNjU4NzIsLTEyOTkzMDA3MzMsMTQ0NjE3NzQwMSwzNDYwMDY4
 OTQsOTAyOTk3OTQxLC04NjY1MTIwOTEsMjEzNTMyNTE4MywxNj
 gwNTUwOTI5LC0xNzgwMTk4NjUzLDE1OTMwOTAyMDEsMjA3MTE3
