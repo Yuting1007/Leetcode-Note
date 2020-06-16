@@ -319,8 +319,11 @@ But the water trapped in between is determined by min
 
 ### [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
 This is a new approach for solving *interval questions*
+1. We use two 1D vector for storing the start points and end points of each interval.
+2. Then sort those two vectors
+3. w
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzMwODAwMywtMTc4MDE5ODY1MywxNT
+eyJoaXN0b3J5IjpbMjAxOTI0Nzg2NCwtMTc4MDE5ODY1MywxNT
 kzMDkwMjAxLDIwNzExNzcwNjgsLTEwMzYxNTAxMzcsLTc3MjU0
 NDYxNiwtMzY2NjI4MjM4LDE1NjUxOTg1OTcsMTQ0NjY1MzcwNi
 wtMTEwMzA0NzU1LC0xMjI4MjE5ODU2LDQzMTM0MTYwNywtMTY5
