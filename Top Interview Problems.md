@@ -322,9 +322,12 @@ This is a new approach for solving *interval questions*
 1. We use two 1D vector for storing the start points and end points of each interval.
 2. Then sort those two vectors
 3. Set a pointer called *endpoint* indicating the current end index of meeting. Initiate it with 0
-	``
+	`if (starts[i] < ends[endpos])` => `res++`
+	when we start, the last one is not finished
+	`else ` => `++endpos;`
+	when we st
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjQ5MjQyMCwtMTc4MDE5ODY1MywxNT
+eyJoaXN0b3J5IjpbMTkzMjYyODMzNSwtMTc4MDE5ODY1MywxNT
 kzMDkwMjAxLDIwNzExNzcwNjgsLTEwMzYxNTAxMzcsLTc3MjU0
 NDYxNiwtMzY2NjI4MjM4LDE1NjUxOTg1OTcsMTQ0NjY1MzcwNi
 wtMTEwMzA0NzU1LC0xMjI4MjE5ODU2LDQzMTM0MTYwNywtMTY5
