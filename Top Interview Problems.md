@@ -367,13 +367,13 @@ inside the dfs function,
 You may assume that _nums1_ has enough space (size that is greater or equal to _m_ + _n_) to hold additional elements from _nums2_.
 ```
 As the statement, we need to operate in the _nums1_.
-And they way we handle sorting from blank. As the hint  
+And they way we handle sorting from blank. As the hint suggests, we use _nums1_  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5Mjc1MTYwLC0yODM0OTQ1NTIsMTM1Mz
-Q5OTAxOCwxMDY5Mjk1MzIyLC01NDMzMTg0MDQsLTI1NjM2NTg3
-MiwtMTI5OTMwMDczMywxNDQ2MTc3NDAxLDM0NjAwNjg5NCw5MD
-I5OTc5NDEsLTg2NjUxMjA5MSwyMTM1MzI1MTgzLDE2ODA1NTA5
-MjksLTE3ODAxOTg2NTMsMTU5MzA5MDIwMSwyMDcxMTc3MDY4LC
-0xMDM2MTUwMTM3LC03NzI1NDQ2MTYsLTM2NjYyODIzOCwxNTY1
-MTk4NTk3XX0=
+eyJoaXN0b3J5IjpbLTIzMjkwMTg3OCwtMjgzNDk0NTUyLDEzNT
+M0OTkwMTgsMTA2OTI5NTMyMiwtNTQzMzE4NDA0LC0yNTYzNjU4
+NzIsLTEyOTkzMDA3MzMsMTQ0NjE3NzQwMSwzNDYwMDY4OTQsOT
+AyOTk3OTQxLC04NjY1MTIwOTEsMjEzNTMyNTE4MywxNjgwNTUw
+OTI5LC0xNzgwMTk4NjUzLDE1OTMwOTAyMDEsMjA3MTE3NzA2OC
+wtMTAzNjE1MDEzNywtNzcyNTQ0NjE2LC0zNjY2MjgyMzgsMTU2
+NTE5ODU5N119
 -->
