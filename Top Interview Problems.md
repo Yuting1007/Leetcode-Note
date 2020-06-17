@@ -435,13 +435,14 @@ In order to keep the record of visited, we need a 1D vector.
 
 ### [79. Word Search](https://leetcode.com/problems/word-search/)
 `My thoughts: recursion: match current index + match the rest index => true
-we need try every start point, and take all steps =>`
+we need try every start point, and take all steps => backtracking + dfs => till here, the main function should in my mind
+dfs + backtracking => stop(hit the boarder, not match, visited), action(toggle visited `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3NjU4NDI2LDE5NjE1NjkwMDUsLTEwOD
-gwNTUwNSwtMzAxNzgxNjcwLDc5NzMxMzkxMSwxMTM4NTY0NjA3
-LC00MzQ0NTA0MTUsOTk1MzUyOTU1LDE4NTA0MzA5NjgsMTE4NT
-Q2MjE4LC0xNzAzNDA1OTc5LC0xNjQ5MDMzNjMsLTIyMjI3NzM5
-NywtMTYxNzIzNTA4NCw1Mjk4MDQ2MTYsLTEzNjU5MDM2NTQsLT
-c2NDMyOTIzOSwtNDM2MjQxNDE1LC02OTY0MzAwOTUsLTI4MzQ5
-NDU1Ml19
+eyJoaXN0b3J5IjpbMTQwNTgxMDY4NywxOTYxNTY5MDA1LC0xMD
+g4MDU1MDUsLTMwMTc4MTY3MCw3OTczMTM5MTEsMTEzODU2NDYw
+NywtNDM0NDUwNDE1LDk5NTM1Mjk1NSwxODUwNDMwOTY4LDExOD
+U0NjIxOCwtMTcwMzQwNTk3OSwtMTY0OTAzMzYzLC0yMjIyNzcz
+OTcsLTE2MTcyMzUwODQsNTI5ODA0NjE2LC0xMzY1OTAzNjU0LC
+03NjQzMjkyMzksLTQzNjI0MTQxNSwtNjk2NDMwMDk1LC0yODM0
+OTQ1NTJdfQ==
 -->
