@@ -382,10 +382,10 @@ Here, we introduce a new topic called state changer,
 3. state 2 : live -> dead
 4. state 3 : dead -> live
 Then we take %2 for each state,
-5. state 0, 2 -> dead
-6. 
+1. state 0, 2 -> dead
+2. state 1, 3 -> live
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzEyMTcxOTgsLTc2NDMyOTIzOSwtND
+eyJoaXN0b3J5IjpbLTEzNjU5MDM2NTQsLTc2NDMyOTIzOSwtND
 M2MjQxNDE1LC02OTY0MzAwOTUsLTI4MzQ5NDU1MiwxMzUzNDk5
 MDE4LDEwNjkyOTUzMjIsLTU0MzMxODQwNCwtMjU2MzY1ODcyLC
 0xMjk5MzAwNzMzLDE0NDYxNzc0MDEsMzQ2MDA2ODk0LDkwMjk5
