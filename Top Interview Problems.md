@@ -424,13 +424,14 @@ bfs = queue + step
 The tricky part of this question is that we need to record the steps we took and connect it with its associated path lenghth.
 => to avoid stepping back
 `unordered_map<string, int> path`
-
+The logic for BFS is
+`intiate `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODU2NDYwNywtNDM0NDUwNDE1LDk5NT
-M1Mjk1NSwxODUwNDMwOTY4LDExODU0NjIxOCwtMTcwMzQwNTk3
-OSwtMTY0OTAzMzYzLC0yMjIyNzczOTcsLTE2MTcyMzUwODQsNT
-I5ODA0NjE2LC0xMzY1OTAzNjU0LC03NjQzMjkyMzksLTQzNjI0
-MTQxNSwtNjk2NDMwMDk1LC0yODM0OTQ1NTIsMTM1MzQ5OTAxOC
-wxMDY5Mjk1MzIyLC01NDMzMTg0MDQsLTI1NjM2NTg3MiwtMTI5
-OTMwMDczM119
+eyJoaXN0b3J5IjpbMjk2NTk0NDgyLDExMzg1NjQ2MDcsLTQzND
+Q1MDQxNSw5OTUzNTI5NTUsMTg1MDQzMDk2OCwxMTg1NDYyMTgs
+LTE3MDM0MDU5NzksLTE2NDkwMzM2MywtMjIyMjc3Mzk3LC0xNj
+E3MjM1MDg0LDUyOTgwNDYxNiwtMTM2NTkwMzY1NCwtNzY0MzI5
+MjM5LC00MzYyNDE0MTUsLTY5NjQzMDA5NSwtMjgzNDk0NTUyLD
+EzNTM0OTkwMTgsMTA2OTI5NTMyMiwtNTQzMzE4NDA0LC0yNTYz
+NjU4NzJdfQ==
 -->
