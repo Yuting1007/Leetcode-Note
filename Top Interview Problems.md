@@ -330,7 +330,7 @@ This is a new approach for solving *interval questions*
 ### [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 ```
 My thoughts:
-Use a hashmap to record all indexes that 
+Use a hashmap to record all indexes that each characters in taget, then find the shorest region
 ```
 
 ### [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
@@ -394,11 +394,11 @@ For the first iteration, we keep count of state 1 and state 2
 Then based on the count and state changer, change the state label.
 For the second iteration, we take mod 2 to get the final result.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTM5MjY0LC0xNjE3MjM1MDg0LDUyOT
-gwNDYxNiwtMTM2NTkwMzY1NCwtNzY0MzI5MjM5LC00MzYyNDE0
-MTUsLTY5NjQzMDA5NSwtMjgzNDk0NTUyLDEzNTM0OTkwMTgsMT
-A2OTI5NTMyMiwtNTQzMzE4NDA0LC0yNTYzNjU4NzIsLTEyOTkz
-MDA3MzMsMTQ0NjE3NzQwMSwzNDYwMDY4OTQsOTAyOTk3OTQxLC
-04NjY1MTIwOTEsMjEzNTMyNTE4MywxNjgwNTUwOTI5LC0xNzgw
-MTk4NjUzXX0=
+eyJoaXN0b3J5IjpbLTQxNjA0MTE2NiwtMTYxNzIzNTA4NCw1Mj
+k4MDQ2MTYsLTEzNjU5MDM2NTQsLTc2NDMyOTIzOSwtNDM2MjQx
+NDE1LC02OTY0MzAwOTUsLTI4MzQ5NDU1MiwxMzUzNDk5MDE4LD
+EwNjkyOTUzMjIsLTU0MzMxODQwNCwtMjU2MzY1ODcyLC0xMjk5
+MzAwNzMzLDE0NDYxNzc0MDEsMzQ2MDA2ODk0LDkwMjk5Nzk0MS
+wtODY2NTEyMDkxLDIxMzUzMjUxODMsMTY4MDU1MDkyOSwtMTc4
+MDE5ODY1M119
 -->
