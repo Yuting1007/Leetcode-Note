@@ -434,13 +434,13 @@ In order to keep the record of visited, we need a 1D vector.
 `dfs => stop, action, increment`
 
 ### [79. Word Search](https://leetcode.com/problems/word-search/)
-
+`My thoughts: recursion: match current index + match the rest index => true`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTU2OTAwNSwtMTA4ODA1NTA1LC0zMD
-E3ODE2NzAsNzk3MzEzOTExLDExMzg1NjQ2MDcsLTQzNDQ1MDQx
-NSw5OTUzNTI5NTUsMTg1MDQzMDk2OCwxMTg1NDYyMTgsLTE3MD
-M0MDU5NzksLTE2NDkwMzM2MywtMjIyMjc3Mzk3LC0xNjE3MjM1
-MDg0LDUyOTgwNDYxNiwtMTM2NTkwMzY1NCwtNzY0MzI5MjM5LC
-00MzYyNDE0MTUsLTY5NjQzMDA5NSwtMjgzNDk0NTUyLDEzNTM0
-OTkwMThdfQ==
+eyJoaXN0b3J5IjpbLTUxMjM2NDAyOSwxOTYxNTY5MDA1LC0xMD
+g4MDU1MDUsLTMwMTc4MTY3MCw3OTczMTM5MTEsMTEzODU2NDYw
+NywtNDM0NDUwNDE1LDk5NTM1Mjk1NSwxODUwNDMwOTY4LDExOD
+U0NjIxOCwtMTcwMzQwNTk3OSwtMTY0OTAzMzYzLC0yMjIyNzcz
+OTcsLTE2MTcyMzUwODQsNTI5ODA0NjE2LC0xMzY1OTAzNjU0LC
+03NjQzMjkyMzksLTQzNjI0MTQxNSwtNjk2NDMwMDk1LC0yODM0
+OTQ1NTJdfQ==
 -->
