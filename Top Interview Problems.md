@@ -381,12 +381,15 @@ Here, we introduce a new topic called state changer,
 2. state 1 : live -> live
 3. state 2 : live -> dead
 4. state 3 : dead -> live
+Then we take %2 for each state,
+5. state 0, 2 -> dead
+6. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDMyOTIzOSwtNDM2MjQxNDE1LC02OT
-Y0MzAwOTUsLTI4MzQ5NDU1MiwxMzUzNDk5MDE4LDEwNjkyOTUz
-MjIsLTU0MzMxODQwNCwtMjU2MzY1ODcyLC0xMjk5MzAwNzMzLD
-E0NDYxNzc0MDEsMzQ2MDA2ODk0LDkwMjk5Nzk0MSwtODY2NTEy
-MDkxLDIxMzUzMjUxODMsMTY4MDU1MDkyOSwtMTc4MDE5ODY1My
-wxNTkzMDkwMjAxLDIwNzExNzcwNjgsLTEwMzYxNTAxMzcsLTc3
-MjU0NDYxNl19
+eyJoaXN0b3J5IjpbLTE1NzEyMTcxOTgsLTc2NDMyOTIzOSwtND
+M2MjQxNDE1LC02OTY0MzAwOTUsLTI4MzQ5NDU1MiwxMzUzNDk5
+MDE4LDEwNjkyOTUzMjIsLTU0MzMxODQwNCwtMjU2MzY1ODcyLC
+0xMjk5MzAwNzMzLDE0NDYxNzc0MDEsMzQ2MDA2ODk0LDkwMjk5
+Nzk0MSwtODY2NTEyMDkxLDIxMzUzMjUxODMsMTY4MDU1MDkyOS
+wtMTc4MDE5ODY1MywxNTkzMDkwMjAxLDIwNzExNzcwNjgsLTEw
+MzYxNTAxMzddfQ==
 -->
