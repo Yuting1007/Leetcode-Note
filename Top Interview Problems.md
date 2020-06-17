@@ -428,7 +428,7 @@ The logic for BFS is
 `intiate the queue with the starter, step all possible steps, if valid then enqueue`
 
 ### [46. Permutations](https://leetcode.com/problems/permutations/)
-This is a classic dfs + backtracking problems. => all possible solution
+This is a classic dfs + backtracking problems. => **all possible solution**
 In order to keep the record of visited, we need a 1D vector.
 `dfs(input, index, visited, curr, res)`
 `dfs => stop, action, increment`
@@ -441,11 +441,11 @@ dfs + backtracking => stop(degree hit the requirement; hit the boarder, not matc
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4ODI4NjI5LDE5NjE1NjkwMDUsLTEwOD
-gwNTUwNSwtMzAxNzgxNjcwLDc5NzMxMzkxMSwxMTM4NTY0NjA3
-LC00MzQ0NTA0MTUsOTk1MzUyOTU1LDE4NTA0MzA5NjgsMTE4NT
-Q2MjE4LC0xNzAzNDA1OTc5LC0xNjQ5MDMzNjMsLTIyMjI3NzM5
-NywtMTYxNzIzNTA4NCw1Mjk4MDQ2MTYsLTEzNjU5MDM2NTQsLT
-c2NDMyOTIzOSwtNDM2MjQxNDE1LC02OTY0MzAwOTUsLTI4MzQ5
-NDU1Ml19
+eyJoaXN0b3J5IjpbLTQ4NDY4MjQ3NSwxOTYxNTY5MDA1LC0xMD
+g4MDU1MDUsLTMwMTc4MTY3MCw3OTczMTM5MTEsMTEzODU2NDYw
+NywtNDM0NDUwNDE1LDk5NTM1Mjk1NSwxODUwNDMwOTY4LDExOD
+U0NjIxOCwtMTcwMzQwNTk3OSwtMTY0OTAzMzYzLC0yMjIyNzcz
+OTcsLTE2MTcyMzUwODQsNTI5ODA0NjE2LC0xMzY1OTAzNjU0LC
+03NjQzMjkyMzksLTQzNjI0MTQxNSwtNjk2NDMwMDk1LC0yODM0
+OTQ1NTJdfQ==
 -->
