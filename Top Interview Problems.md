@@ -399,13 +399,13 @@ Then based on the count and state changer, change the state label.
 For the second iteration, we take mod 2 to get the final result.
 
 ### [202. Happy Number](https://leetcode.com/problems/happy-number/)
-
+we use hashset 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3Nzc0Nzc2LC0xNjQ5MDMzNjMsLTIyMj
-I3NzM5NywtMTYxNzIzNTA4NCw1Mjk4MDQ2MTYsLTEzNjU5MDM2
-NTQsLTc2NDMyOTIzOSwtNDM2MjQxNDE1LC02OTY0MzAwOTUsLT
-I4MzQ5NDU1MiwxMzUzNDk5MDE4LDEwNjkyOTUzMjIsLTU0MzMx
-ODQwNCwtMjU2MzY1ODcyLC0xMjk5MzAwNzMzLDE0NDYxNzc0MD
-EsMzQ2MDA2ODk0LDkwMjk5Nzk0MSwtODY2NTEyMDkxLDIxMzUz
-MjUxODNdfQ==
+eyJoaXN0b3J5IjpbLTE3MDM0MDU5NzksLTE2NDkwMzM2MywtMj
+IyMjc3Mzk3LC0xNjE3MjM1MDg0LDUyOTgwNDYxNiwtMTM2NTkw
+MzY1NCwtNzY0MzI5MjM5LC00MzYyNDE0MTUsLTY5NjQzMDA5NS
+wtMjgzNDk0NTUyLDEzNTM0OTkwMTgsMTA2OTI5NTMyMiwtNTQz
+MzE4NDA0LC0yNTYzNjU4NzIsLTEyOTkzMDA3MzMsMTQ0NjE3Nz
+QwMSwzNDYwMDY4OTQsOTAyOTk3OTQxLC04NjY1MTIwOTEsMjEz
+NTMyNTE4M119
 -->
