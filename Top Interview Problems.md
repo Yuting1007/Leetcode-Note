@@ -420,14 +420,14 @@ digits to be consider (i-2 => current and next; i-1 => current)
 
 ### [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
 A classic bfs question. 
-The 
-
+The tricky part of this question is that we need to record the steps we took and connect it with its associated path lenghth.
+=> to avoid stepp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA2ODE3MTAsOTk1MzUyOTU1LDE4NT
-A0MzA5NjgsMTE4NTQ2MjE4LC0xNzAzNDA1OTc5LC0xNjQ5MDMz
-NjMsLTIyMjI3NzM5NywtMTYxNzIzNTA4NCw1Mjk4MDQ2MTYsLT
-EzNjU5MDM2NTQsLTc2NDMyOTIzOSwtNDM2MjQxNDE1LC02OTY0
-MzAwOTUsLTI4MzQ5NDU1MiwxMzUzNDk5MDE4LDEwNjkyOTUzMj
-IsLTU0MzMxODQwNCwtMjU2MzY1ODcyLC0xMjk5MzAwNzMzLDE0
-NDYxNzc0MDFdfQ==
+eyJoaXN0b3J5IjpbODI5OTM0MjMwLDk5NTM1Mjk1NSwxODUwND
+MwOTY4LDExODU0NjIxOCwtMTcwMzQwNTk3OSwtMTY0OTAzMzYz
+LC0yMjIyNzczOTcsLTE2MTcyMzUwODQsNTI5ODA0NjE2LC0xMz
+Y1OTAzNjU0LC03NjQzMjkyMzksLTQzNjI0MTQxNSwtNjk2NDMw
+MDk1LC0yODM0OTQ1NTIsMTM1MzQ5OTAxOCwxMDY5Mjk1MzIyLC
+01NDMzMTg0MDQsLTI1NjM2NTg3MiwtMTI5OTMwMDczMywxNDQ2
+MTc3NDAxXX0=
 -->
