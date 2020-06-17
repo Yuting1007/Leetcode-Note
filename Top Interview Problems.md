@@ -428,13 +428,14 @@ The logic for BFS is
 `intiate the queue with the starter, step all possible steps, if valid then enqueue`
 
 ### [46. Permutations](https://leetcode.com/problems/permutations/)
-This is a classic dfs + backtrack
+This is a classic dfs + backtracking problems
+For 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjM0ODkzODIsLTMwMTc4MTY3MCw3OT
-czMTM5MTEsMTEzODU2NDYwNywtNDM0NDUwNDE1LDk5NTM1Mjk1
-NSwxODUwNDMwOTY4LDExODU0NjIxOCwtMTcwMzQwNTk3OSwtMT
-Y0OTAzMzYzLC0yMjIyNzczOTcsLTE2MTcyMzUwODQsNTI5ODA0
-NjE2LC0xMzY1OTAzNjU0LC03NjQzMjkyMzksLTQzNjI0MTQxNS
-wtNjk2NDMwMDk1LC0yODM0OTQ1NTIsMTM1MzQ5OTAxOCwxMDY5
-Mjk1MzIyXX0=
+eyJoaXN0b3J5IjpbLTQ3NjA3MTAwOSwtMzAxNzgxNjcwLDc5Nz
+MxMzkxMSwxMTM4NTY0NjA3LC00MzQ0NTA0MTUsOTk1MzUyOTU1
+LDE4NTA0MzA5NjgsMTE4NTQ2MjE4LC0xNzAzNDA1OTc5LC0xNj
+Q5MDMzNjMsLTIyMjI3NzM5NywtMTYxNzIzNTA4NCw1Mjk4MDQ2
+MTYsLTEzNjU5MDM2NTQsLTc2NDMyOTIzOSwtNDM2MjQxNDE1LC
+02OTY0MzAwOTUsLTI4MzQ5NDU1MiwxMzUzNDk5MDE4LDEwNjky
+OTUzMjJdfQ==
 -->
