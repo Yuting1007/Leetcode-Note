@@ -425,9 +425,9 @@ The tricky part of this question is that we need to record the steps we took and
 => to avoid stepping back
 `unordered_map<string, int> path`
 The logic for BFS is
-`intiate `
+`intiate the queue with the starter, step all possible steps, if valid then enqueue`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2NTk0NDgyLDExMzg1NjQ2MDcsLTQzND
+eyJoaXN0b3J5IjpbNzk3MzEzOTExLDExMzg1NjQ2MDcsLTQzND
 Q1MDQxNSw5OTUzNTI5NTUsMTg1MDQzMDk2OCwxMTg1NDYyMTgs
 LTE3MDM0MDU5NzksLTE2NDkwMzM2MywtMjIyMjc3Mzk3LC0xNj
 E3MjM1MDg0LDUyOTgwNDYxNiwtMTM2NTkwMzY1NCwtNzY0MzI5
