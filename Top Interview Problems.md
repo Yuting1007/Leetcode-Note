@@ -416,12 +416,16 @@ i will be able to coming from i-1 and i-2
 
 `if(i > 1 && (s[i-2] == '1' || (s[i-2] == '2' && s[i-1] <= '6')))` => from i-2 is valid
 `"226" or "116"`
+digits to be consider (i-2 => current and next; i-1 => current)
+
+### [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDQzMDk2OCwxMTg1NDYyMTgsLTE3MD
-M0MDU5NzksLTE2NDkwMzM2MywtMjIyMjc3Mzk3LC0xNjE3MjM1
-MDg0LDUyOTgwNDYxNiwtMTM2NTkwMzY1NCwtNzY0MzI5MjM5LC
-00MzYyNDE0MTUsLTY5NjQzMDA5NSwtMjgzNDk0NTUyLDEzNTM0
-OTkwMTgsMTA2OTI5NTMyMiwtNTQzMzE4NDA0LC0yNTYzNjU4Nz
-IsLTEyOTkzMDA3MzMsMTQ0NjE3NzQwMSwzNDYwMDY4OTQsOTAy
-OTk3OTQxXX0=
+eyJoaXN0b3J5IjpbOTk1MzUyOTU1LDE4NTA0MzA5NjgsMTE4NT
+Q2MjE4LC0xNzAzNDA1OTc5LC0xNjQ5MDMzNjMsLTIyMjI3NzM5
+NywtMTYxNzIzNTA4NCw1Mjk4MDQ2MTYsLTEzNjU5MDM2NTQsLT
+c2NDMyOTIzOSwtNDM2MjQxNDE1LC02OTY0MzAwOTUsLTI4MzQ5
+NDU1MiwxMzUzNDk5MDE4LDEwNjkyOTUzMjIsLTU0MzMxODQwNC
+wtMjU2MzY1ODcyLC0xMjk5MzAwNzMzLDE0NDYxNzc0MDEsMzQ2
+MDA2ODk0XX0=
 -->
