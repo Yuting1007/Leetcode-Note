@@ -332,6 +332,9 @@ This is a new approach for solving *interval questions*
 My thoughts:
 Use a hashmap to record all indexes that each characters in taget, then find the shorest region (no idea about this part)
 ```
+[video explaination](https://www.youtube.com/watch?v=eS6PZLjoaq8) from Back To Back SWE.
+Ben really is my favoriate Youtuber!!!!!
+
 
 ### [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 This is a classic *random* problem.
@@ -394,11 +397,11 @@ For the first iteration, we keep count of state 1 and state 2
 Then based on the count and state changer, change the state label.
 For the second iteration, we take mod 2 to get the final result.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjI3NzM5NywtMTYxNzIzNTA4NCw1Mj
-k4MDQ2MTYsLTEzNjU5MDM2NTQsLTc2NDMyOTIzOSwtNDM2MjQx
-NDE1LC02OTY0MzAwOTUsLTI4MzQ5NDU1MiwxMzUzNDk5MDE4LD
-EwNjkyOTUzMjIsLTU0MzMxODQwNCwtMjU2MzY1ODcyLC0xMjk5
-MzAwNzMzLDE0NDYxNzc0MDEsMzQ2MDA2ODk0LDkwMjk5Nzk0MS
-wtODY2NTEyMDkxLDIxMzUzMjUxODMsMTY4MDU1MDkyOSwtMTc4
-MDE5ODY1M119
+eyJoaXN0b3J5IjpbLTE0MzU4MDA0MjcsLTIyMjI3NzM5NywtMT
+YxNzIzNTA4NCw1Mjk4MDQ2MTYsLTEzNjU5MDM2NTQsLTc2NDMy
+OTIzOSwtNDM2MjQxNDE1LC02OTY0MzAwOTUsLTI4MzQ5NDU1Mi
+wxMzUzNDk5MDE4LDEwNjkyOTUzMjIsLTU0MzMxODQwNCwtMjU2
+MzY1ODcyLC0xMjk5MzAwNzMzLDE0NDYxNzc0MDEsMzQ2MDA2OD
+k0LDkwMjk5Nzk0MSwtODY2NTEyMDkxLDIxMzUzMjUxODMsMTY4
+MDU1MDkyOV19
 -->
