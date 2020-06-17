@@ -376,20 +376,21 @@ In this case, we use _nums1_as the operation space, only consider the case that 
 
 ### [289. Game of Life](https://leetcode.com/problems/game-of-life/)
 The tricky part of it question is that we need to keep a dynamic changing pattern. (kinda like we need to find the finish pharse of a changing pattern).
-Here, we introduce a new topic called state changer, 
+Here, we introduce a new topic called **state changer**, 
 1. state 0 : dead -> dead
 2. state 1 : live -> live
 3. state 2 : live -> dead
 4. state 3 : dead -> live
 Then we take %2 for each state,
-1. state 0, 2 -> dead
-2. state 1, 3 -> live
+5. state 0, 2 -> dead
+6. state 1, 3 -> live
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjU5MDM2NTQsLTc2NDMyOTIzOSwtND
-M2MjQxNDE1LC02OTY0MzAwOTUsLTI4MzQ5NDU1MiwxMzUzNDk5
-MDE4LDEwNjkyOTUzMjIsLTU0MzMxODQwNCwtMjU2MzY1ODcyLC
-0xMjk5MzAwNzMzLDE0NDYxNzc0MDEsMzQ2MDA2ODk0LDkwMjk5
-Nzk0MSwtODY2NTEyMDkxLDIxMzUzMjUxODMsMTY4MDU1MDkyOS
-wtMTc4MDE5ODY1MywxNTkzMDkwMjAxLDIwNzExNzcwNjgsLTEw
-MzYxNTAxMzddfQ==
+eyJoaXN0b3J5IjpbNTI5ODA0NjE2LC0xMzY1OTAzNjU0LC03Nj
+QzMjkyMzksLTQzNjI0MTQxNSwtNjk2NDMwMDk1LC0yODM0OTQ1
+NTIsMTM1MzQ5OTAxOCwxMDY5Mjk1MzIyLC01NDMzMTg0MDQsLT
+I1NjM2NTg3MiwtMTI5OTMwMDczMywxNDQ2MTc3NDAxLDM0NjAw
+Njg5NCw5MDI5OTc5NDEsLTg2NjUxMjA5MSwyMTM1MzI1MTgzLD
+E2ODA1NTA5MjksLTE3ODAxOTg2NTMsMTU5MzA5MDIwMSwyMDcx
+MTc3MDY4XX0=
 -->
