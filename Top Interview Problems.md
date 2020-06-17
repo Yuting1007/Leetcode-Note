@@ -420,15 +420,16 @@ digits to be consider (i-2 => current and next; i-1 => current)
 
 ### [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
 A classic bfs question. 
+bfs = queue + step
 The tricky part of this question is that we need to record the steps we took and connect it with its associated path lenghth.
 => to avoid stepping back
 `unordered_map<string, int> path`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzU5NjUyMjEsOTk1MzUyOTU1LDE4NT
-A0MzA5NjgsMTE4NTQ2MjE4LC0xNzAzNDA1OTc5LC0xNjQ5MDMz
-NjMsLTIyMjI3NzM5NywtMTYxNzIzNTA4NCw1Mjk4MDQ2MTYsLT
-EzNjU5MDM2NTQsLTc2NDMyOTIzOSwtNDM2MjQxNDE1LC02OTY0
-MzAwOTUsLTI4MzQ5NDU1MiwxMzUzNDk5MDE4LDEwNjkyOTUzMj
-IsLTU0MzMxODQwNCwtMjU2MzY1ODcyLC0xMjk5MzAwNzMzLDE0
-NDYxNzc0MDFdfQ==
+eyJoaXN0b3J5IjpbLTQzNDQ1MDQxNSw5OTUzNTI5NTUsMTg1MD
+QzMDk2OCwxMTg1NDYyMTgsLTE3MDM0MDU5NzksLTE2NDkwMzM2
+MywtMjIyMjc3Mzk3LC0xNjE3MjM1MDg0LDUyOTgwNDYxNiwtMT
+M2NTkwMzY1NCwtNzY0MzI5MjM5LC00MzYyNDE0MTUsLTY5NjQz
+MDA5NSwtMjgzNDk0NTUyLDEzNTM0OTkwMTgsMTA2OTI5NTMyMi
+wtNTQzMzE4NDA0LC0yNTYzNjU4NzIsLTEyOTkzMDA3MzMsMTQ0
+NjE3NzQwMV19
 -->
