@@ -388,13 +388,13 @@ Then we take %2 for each state,
 Similar, 坐标变换数组在这里也是需要的~
 For the first iteration, we keep count of state 1 and state 2
 Then based on the count and state changer, change the state label.
-For the second iteration, we take mod 2 to get the final result
+For the second iteration, we take mod 2 to get the final result.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzAzNTM0Miw1Mjk4MDQ2MTYsLTEzNj
-U5MDM2NTQsLTc2NDMyOTIzOSwtNDM2MjQxNDE1LC02OTY0MzAw
-OTUsLTI4MzQ5NDU1MiwxMzUzNDk5MDE4LDEwNjkyOTUzMjIsLT
-U0MzMxODQwNCwtMjU2MzY1ODcyLC0xMjk5MzAwNzMzLDE0NDYx
-Nzc0MDEsMzQ2MDA2ODk0LDkwMjk5Nzk0MSwtODY2NTEyMDkxLD
-IxMzUzMjUxODMsMTY4MDU1MDkyOSwtMTc4MDE5ODY1MywxNTkz
-MDkwMjAxXX0=
+eyJoaXN0b3J5IjpbLTE2MTcyMzUwODQsNTI5ODA0NjE2LC0xMz
+Y1OTAzNjU0LC03NjQzMjkyMzksLTQzNjI0MTQxNSwtNjk2NDMw
+MDk1LC0yODM0OTQ1NTIsMTM1MzQ5OTAxOCwxMDY5Mjk1MzIyLC
+01NDMzMTg0MDQsLTI1NjM2NTg3MiwtMTI5OTMwMDczMywxNDQ2
+MTc3NDAxLDM0NjAwNjg5NCw5MDI5OTc5NDEsLTg2NjUxMjA5MS
+wyMTM1MzI1MTgzLDE2ODA1NTA5MjksLTE3ODAxOTg2NTMsMTU5
+MzA5MDIwMV19
 -->
