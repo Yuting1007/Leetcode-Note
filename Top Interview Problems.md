@@ -328,6 +328,10 @@ This is a new approach for solving *interval questions*
 	when we start, the last one is over, we can move to the next endpoint
 
 ### [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+```
+My thoughts:
+Use a hashmap to record all indexes that 
+```
 
 ### [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 This is a classic *random* problem.
@@ -390,11 +394,11 @@ For the first iteration, we keep count of state 1 and state 2
 Then based on the count and state changer, change the state label.
 For the second iteration, we take mod 2 to get the final result.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTcyMzUwODQsNTI5ODA0NjE2LC0xMz
-Y1OTAzNjU0LC03NjQzMjkyMzksLTQzNjI0MTQxNSwtNjk2NDMw
-MDk1LC0yODM0OTQ1NTIsMTM1MzQ5OTAxOCwxMDY5Mjk1MzIyLC
-01NDMzMTg0MDQsLTI1NjM2NTg3MiwtMTI5OTMwMDczMywxNDQ2
-MTc3NDAxLDM0NjAwNjg5NCw5MDI5OTc5NDEsLTg2NjUxMjA5MS
-wyMTM1MzI1MTgzLDE2ODA1NTA5MjksLTE3ODAxOTg2NTMsMTU5
-MzA5MDIwMV19
+eyJoaXN0b3J5IjpbLTQxOTM5MjY0LC0xNjE3MjM1MDg0LDUyOT
+gwNDYxNiwtMTM2NTkwMzY1NCwtNzY0MzI5MjM5LC00MzYyNDE0
+MTUsLTY5NjQzMDA5NSwtMjgzNDk0NTUyLDEzNTM0OTkwMTgsMT
+A2OTI5NTMyMiwtNTQzMzE4NDA0LC0yNTYzNjU4NzIsLTEyOTkz
+MDA3MzMsMTQ0NjE3NzQwMSwzNDYwMDY4OTQsOTAyOTk3OTQxLC
+04NjY1MTIwOTEsMjEzNTMyNTE4MywxNjgwNTUwOTI5LC0xNzgw
+MTk4NjUzXX0=
 -->
