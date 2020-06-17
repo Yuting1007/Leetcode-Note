@@ -375,13 +375,13 @@ In this case, we use _nums1_as the operation space, only consider the case that 
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
 ### [289. Game of Life](https://leetcode.com/problems/game-of-life/)
-
+The tricky part of it question is that we need to keep a dynamic changing 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjI0MTQxNSwtNjk2NDMwMDk1LC0yOD
-M0OTQ1NTIsMTM1MzQ5OTAxOCwxMDY5Mjk1MzIyLC01NDMzMTg0
-MDQsLTI1NjM2NTg3MiwtMTI5OTMwMDczMywxNDQ2MTc3NDAxLD
-M0NjAwNjg5NCw5MDI5OTc5NDEsLTg2NjUxMjA5MSwyMTM1MzI1
-MTgzLDE2ODA1NTA5MjksLTE3ODAxOTg2NTMsMTU5MzA5MDIwMS
-wyMDcxMTc3MDY4LC0xMDM2MTUwMTM3LC03NzI1NDQ2MTYsLTM2
-NjYyODIzOF19
+eyJoaXN0b3J5IjpbLTM0OTAwMzU0OSwtNDM2MjQxNDE1LC02OT
+Y0MzAwOTUsLTI4MzQ5NDU1MiwxMzUzNDk5MDE4LDEwNjkyOTUz
+MjIsLTU0MzMxODQwNCwtMjU2MzY1ODcyLC0xMjk5MzAwNzMzLD
+E0NDYxNzc0MDEsMzQ2MDA2ODk0LDkwMjk5Nzk0MSwtODY2NTEy
+MDkxLDIxMzUzMjUxODMsMTY4MDU1MDkyOSwtMTc4MDE5ODY1My
+wxNTkzMDkwMjAxLDIwNzExNzcwNjgsLTEwMzYxNTAxMzcsLTc3
+MjU0NDYxNl19
 -->
