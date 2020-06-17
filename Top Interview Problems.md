@@ -428,10 +428,14 @@ The logic for BFS is
 `intiate the queue with the starter, step all possible steps, if valid then enqueue`
 
 ### [46. Permutations](https://leetcode.com/problems/permutations/)
-This is a classic dfs + backtracking problems
-For 
+This is a classic dfs + backtracking problems.
+In order to keep the record of visited, we need a 1D vector.
+`dfs(input, index, visited, curr, res)`
+`dfs => stop, action, increment`
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjA3MTAwOSwtMzAxNzgxNjcwLDc5Nz
+eyJoaXN0b3J5IjpbLTg3MDg3MTExMiwtMzAxNzgxNjcwLDc5Nz
 MxMzkxMSwxMTM4NTY0NjA3LC00MzQ0NTA0MTUsOTk1MzUyOTU1
 LDE4NTA0MzA5NjgsMTE4NTQ2MjE4LC0xNzAzNDA1OTc5LC0xNj
 Q5MDMzNjMsLTIyMjI3NzM5NywtMTYxNzIzNTA4NCw1Mjk4MDQ2
