@@ -413,13 +413,15 @@ dp, kinda like *climbing starts*
 i will be able to coming from i-1 and i-2
 `if s[i-1] == '0` => from i-1 is invalid, only from i-2 is possible
 `"02"`
-``
+
+`if(i > 1 && (s[i-2] == '1' || (s[i-2] == '2' && s[i-1] <= '6')))` => from i-2 is valid
+`"226" or "116"`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTY2NzE5MDQsMTE4NTQ2MjE4LC0xNz
-AzNDA1OTc5LC0xNjQ5MDMzNjMsLTIyMjI3NzM5NywtMTYxNzIz
-NTA4NCw1Mjk4MDQ2MTYsLTEzNjU5MDM2NTQsLTc2NDMyOTIzOS
-wtNDM2MjQxNDE1LC02OTY0MzAwOTUsLTI4MzQ5NDU1MiwxMzUz
-NDk5MDE4LDEwNjkyOTUzMjIsLTU0MzMxODQwNCwtMjU2MzY1OD
-cyLC0xMjk5MzAwNzMzLDE0NDYxNzc0MDEsMzQ2MDA2ODk0LDkw
-Mjk5Nzk0MV19
+eyJoaXN0b3J5IjpbMTg1MDQzMDk2OCwxMTg1NDYyMTgsLTE3MD
+M0MDU5NzksLTE2NDkwMzM2MywtMjIyMjc3Mzk3LC0xNjE3MjM1
+MDg0LDUyOTgwNDYxNiwtMTM2NTkwMzY1NCwtNzY0MzI5MjM5LC
+00MzYyNDE0MTUsLTY5NjQzMDA5NSwtMjgzNDk0NTUyLDEzNTM0
+OTkwMTgsMTA2OTI5NTMyMiwtNTQzMzE4NDA0LC0yNTYzNjU4Nz
+IsLTEyOTkzMDA3MzMsMTQ0NjE3NzQwMSwzNDYwMDY4OTQsOTAy
+OTk3OTQxXX0=
 -->
