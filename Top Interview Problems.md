@@ -426,12 +426,15 @@ The tricky part of this question is that we need to record the steps we took and
 `unordered_map<string, int> path`
 The logic for BFS is
 `intiate the queue with the starter, step all possible steps, if valid then enqueue`
+
+### [46. Permutations](https://leetcode.com/problems/permutations/)
+This is a classic 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3MzEzOTExLDExMzg1NjQ2MDcsLTQzND
-Q1MDQxNSw5OTUzNTI5NTUsMTg1MDQzMDk2OCwxMTg1NDYyMTgs
-LTE3MDM0MDU5NzksLTE2NDkwMzM2MywtMjIyMjc3Mzk3LC0xNj
-E3MjM1MDg0LDUyOTgwNDYxNiwtMTM2NTkwMzY1NCwtNzY0MzI5
-MjM5LC00MzYyNDE0MTUsLTY5NjQzMDA5NSwtMjgzNDk0NTUyLD
-EzNTM0OTkwMTgsMTA2OTI5NTMyMiwtNTQzMzE4NDA0LC0yNTYz
-NjU4NzJdfQ==
+eyJoaXN0b3J5IjpbLTMwMTc4MTY3MCw3OTczMTM5MTEsMTEzOD
+U2NDYwNywtNDM0NDUwNDE1LDk5NTM1Mjk1NSwxODUwNDMwOTY4
+LDExODU0NjIxOCwtMTcwMzQwNTk3OSwtMTY0OTAzMzYzLC0yMj
+IyNzczOTcsLTE2MTcyMzUwODQsNTI5ODA0NjE2LC0xMzY1OTAz
+NjU0LC03NjQzMjkyMzksLTQzNjI0MTQxNSwtNjk2NDMwMDk1LC
+0yODM0OTQ1NTIsMTM1MzQ5OTAxOCwxMDY5Mjk1MzIyLC01NDMz
+MTg0MDRdfQ==
 -->
