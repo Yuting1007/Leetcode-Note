@@ -380,9 +380,9 @@ Here, we introduce a new topic called state changer,
 1. state 0 : dead -> dead
 2. state 1 : live -> live
 3. state 2 : live -> dead
-4. state 
+4. state 3 : dead -> live
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDE3OTIyNywtNDM2MjQxNDE1LC02OT
+eyJoaXN0b3J5IjpbLTc2NDMyOTIzOSwtNDM2MjQxNDE1LC02OT
 Y0MzAwOTUsLTI4MzQ5NDU1MiwxMzUzNDk5MDE4LDEwNjkyOTUz
 MjIsLTU0MzMxODQwNCwtMjU2MzY1ODcyLC0xMjk5MzAwNzMzLD
 E0NDYxNzc0MDEsMzQ2MDA2ODk0LDkwMjk5Nzk0MSwtODY2NTEy
