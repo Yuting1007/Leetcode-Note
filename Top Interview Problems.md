@@ -410,10 +410,10 @@ we use hashset to record the numbers appearing in order to avoid loop
 
 ### [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
 dp, kinda like *climbing starts*
-
+i will be able to coming from i-1 and i-2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzg4NTYxMTYsMTE4NTQ2MjE4LC0xNz
+eyJoaXN0b3J5IjpbLTE5Nzc5Nzk4MjYsMTE4NTQ2MjE4LC0xNz
 AzNDA1OTc5LC0xNjQ5MDMzNjMsLTIyMjI3NzM5NywtMTYxNzIz
 NTA4NCw1Mjk4MDQ2MTYsLTEzNjU5MDM2NTQsLTc2NDMyOTIzOS
 wtNDM2MjQxNDE1LC02OTY0MzAwOTUsLTI4MzQ5NDU1MiwxMzUz
