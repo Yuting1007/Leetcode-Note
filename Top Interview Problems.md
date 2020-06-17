@@ -330,7 +330,7 @@ This is a new approach for solving *interval questions*
 ### [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 ```
 My thoughts:
-Use a hashmap to record all indexes that each characters in taget, then find the shorest region
+Use a hashmap to record all indexes that each characters in taget, then find the shorest region (no idea about this part)
 ```
 
 ### [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
@@ -394,7 +394,7 @@ For the first iteration, we keep count of state 1 and state 2
 Then based on the count and state changer, change the state label.
 For the second iteration, we take mod 2 to get the final result.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjA0MTE2NiwtMTYxNzIzNTA4NCw1Mj
+eyJoaXN0b3J5IjpbLTIyMjI3NzM5NywtMTYxNzIzNTA4NCw1Mj
 k4MDQ2MTYsLTEzNjU5MDM2NTQsLTc2NDMyOTIzOSwtNDM2MjQx
 NDE1LC02OTY0MzAwOTUsLTI4MzQ5NDU1MiwxMzUzNDk5MDE4LD
 EwNjkyOTUzMjIsLTU0MzMxODQwNCwtMjU2MzY1ODcyLC0xMjk5
