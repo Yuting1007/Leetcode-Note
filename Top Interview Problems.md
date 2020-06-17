@@ -335,6 +335,7 @@ Use a hashmap to record all indexes that each characters in taget, then find the
 [video explaination](https://www.youtube.com/watch?v=eS6PZLjoaq8) from Back To Back SWE.
 Ben really is my favoriate Youtuber!!!!!
 
+BF => dulicate works analysis => improvement (two pointers)
 
 ### [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 This is a classic *random* problem.
@@ -397,11 +398,11 @@ For the first iteration, we keep count of state 1 and state 2
 Then based on the count and state changer, change the state label.
 For the second iteration, we take mod 2 to get the final result.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzU4MDA0MjcsLTIyMjI3NzM5NywtMT
-YxNzIzNTA4NCw1Mjk4MDQ2MTYsLTEzNjU5MDM2NTQsLTc2NDMy
-OTIzOSwtNDM2MjQxNDE1LC02OTY0MzAwOTUsLTI4MzQ5NDU1Mi
-wxMzUzNDk5MDE4LDEwNjkyOTUzMjIsLTU0MzMxODQwNCwtMjU2
-MzY1ODcyLC0xMjk5MzAwNzMzLDE0NDYxNzc0MDEsMzQ2MDA2OD
-k0LDkwMjk5Nzk0MSwtODY2NTEyMDkxLDIxMzUzMjUxODMsMTY4
-MDU1MDkyOV19
+eyJoaXN0b3J5IjpbLTE2NDkwMzM2MywtMjIyMjc3Mzk3LC0xNj
+E3MjM1MDg0LDUyOTgwNDYxNiwtMTM2NTkwMzY1NCwtNzY0MzI5
+MjM5LC00MzYyNDE0MTUsLTY5NjQzMDA5NSwtMjgzNDk0NTUyLD
+EzNTM0OTkwMTgsMTA2OTI5NTMyMiwtNTQzMzE4NDA0LC0yNTYz
+NjU4NzIsLTEyOTkzMDA3MzMsMTQ0NjE3NzQwMSwzNDYwMDY4OT
+QsOTAyOTk3OTQxLC04NjY1MTIwOTEsMjEzNTMyNTE4MywxNjgw
+NTUwOTI5XX0=
 -->
