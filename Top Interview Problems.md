@@ -433,9 +433,10 @@ In order to keep the record of visited, we need a 1D vector.
 `dfs(input, index, visited, curr, res)`
 `dfs => stop, action, increment`
 
+### [79. Word Search](https://leetcode.com/problems/word-search/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDg3MTExMiwtMzAxNzgxNjcwLDc5Nz
+eyJoaXN0b3J5IjpbLTEwODgwNTUwNSwtMzAxNzgxNjcwLDc5Nz
 MxMzkxMSwxMTM4NTY0NjA3LC00MzQ0NTA0MTUsOTk1MzUyOTU1
 LDE4NTA0MzA5NjgsMTE4NTQ2MjE4LC0xNzAzNDA1OTc5LC0xNj
 Q5MDMzNjMsLTIyMjI3NzM5NywtMTYxNzIzNTA4NCw1Mjk4MDQ2
