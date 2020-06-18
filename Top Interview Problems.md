@@ -441,9 +441,14 @@ dfs + backtracking => stop(degree hit the requirement; hit the boarder, not matc
 ```
 ### [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 It is kinda easy to think about use hashmap to record the cnt.
-Therefore, we encount with **sort the hashmap based on value**
+Therefore, we encount with **sort the hashmap based on value**.
+We could use a priority queue, maxheap (by default)
+```
+priority_queue<pair<int, int>> q;
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTg0OTEwNjcsLTYxODI2OTg2MiwzOD
+eyJoaXN0b3J5IjpbLTE1MDY5NjAwMzYsLTYxODI2OTg2MiwzOD
 cxODczODgsLTQ4NDY4MjQ3NSwxOTYxNTY5MDA1LC0xMDg4MDU1
 MDUsLTMwMTc4MTY3MCw3OTczMTM5MTEsMTEzODU2NDYwNywtND
 M0NDUwNDE1LDk5NTM1Mjk1NSwxODUwNDMwOTY4LDExODU0NjIx
