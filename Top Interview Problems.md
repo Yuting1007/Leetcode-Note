@@ -459,10 +459,12 @@ if numbers => get the whole numbers and store in a variable called num
 if options => (initiate as '+')
 '+' st.push(num)
 '-' st.push(-num)
-'*" or '/' get the top element, push the outcome 
+'*" or '/' get the top element, push the outcome to stack
+
+After iteration, add all elements in stack up to get the result.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTgyMTgxNyw3ODQyMjMyNzEsLTMxMT
+eyJoaXN0b3J5IjpbLTIwNDAwMzc0MSw3ODQyMjMyNzEsLTMxMT
 QyMzU1MSwxMDQ4MTc2Mzg4LC02MTgyNjk4NjIsMzg3MTg3Mzg4
 LC00ODQ2ODI0NzUsMTk2MTU2OTAwNSwtMTA4ODA1NTA1LC0zMD
 E3ODE2NzAsNzk3MzEzOTExLDExMzg1NjQ2MDcsLTQzNDQ1MDQx
