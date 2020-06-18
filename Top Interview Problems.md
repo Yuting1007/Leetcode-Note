@@ -452,13 +452,17 @@ for(auto it : m){
 In this case, the value will be the base to sort.
 
 ### [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
-A calssical application on stack
+A calssical application on stack.
+```
+algorithm:
+if numbers => get the whole numbers and store in a variable called num
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTQyMzU1MSwxMDQ4MTc2Mzg4LC02MT
-gyNjk4NjIsMzg3MTg3Mzg4LC00ODQ2ODI0NzUsMTk2MTU2OTAw
-NSwtMTA4ODA1NTA1LC0zMDE3ODE2NzAsNzk3MzEzOTExLDExMz
-g1NjQ2MDcsLTQzNDQ1MDQxNSw5OTUzNTI5NTUsMTg1MDQzMDk2
-OCwxMTg1NDYyMTgsLTE3MDM0MDU5NzksLTE2NDkwMzM2MywtMj
-IyMjc3Mzk3LC0xNjE3MjM1MDg0LDUyOTgwNDYxNiwtMTM2NTkw
-MzY1NF19
+eyJoaXN0b3J5IjpbNzg0MjIzMjcxLC0zMTE0MjM1NTEsMTA0OD
+E3NjM4OCwtNjE4MjY5ODYyLDM4NzE4NzM4OCwtNDg0NjgyNDc1
+LDE5NjE1NjkwMDUsLTEwODgwNTUwNSwtMzAxNzgxNjcwLDc5Nz
+MxMzkxMSwxMTM4NTY0NjA3LC00MzQ0NTA0MTUsOTk1MzUyOTU1
+LDE4NTA0MzA5NjgsMTE4NTQ2MjE4LC0xNzAzNDA1OTc5LC0xNj
+Q5MDMzNjMsLTIyMjI3NzM5NywtMTYxNzIzNTA4NCw1Mjk4MDQ2
+MTZdfQ==
 -->
