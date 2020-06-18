@@ -439,13 +439,13 @@ My thoughts: recursion: match current index + match the rest index => true
 we need try every start point, and take all steps => backtracking + dfs => till here, the main function should in my mind
 dfs + backtracking => stop(degree hit the requirement; hit the boarder, not match, visited), action(toggle visited state), increment(steps in four directions and increase the index)
 ```
-
+###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDY4MjQ3NSwxOTYxNTY5MDA1LC0xMD
-g4MDU1MDUsLTMwMTc4MTY3MCw3OTczMTM5MTEsMTEzODU2NDYw
-NywtNDM0NDUwNDE1LDk5NTM1Mjk1NSwxODUwNDMwOTY4LDExOD
-U0NjIxOCwtMTcwMzQwNTk3OSwtMTY0OTAzMzYzLC0yMjIyNzcz
-OTcsLTE2MTcyMzUwODQsNTI5ODA0NjE2LC0xMzY1OTAzNjU0LC
-03NjQzMjkyMzksLTQzNjI0MTQxNSwtNjk2NDMwMDk1LC0yODM0
-OTQ1NTJdfQ==
+eyJoaXN0b3J5IjpbMzg3MTg3Mzg4LC00ODQ2ODI0NzUsMTk2MT
+U2OTAwNSwtMTA4ODA1NTA1LC0zMDE3ODE2NzAsNzk3MzEzOTEx
+LDExMzg1NjQ2MDcsLTQzNDQ1MDQxNSw5OTUzNTI5NTUsMTg1MD
+QzMDk2OCwxMTg1NDYyMTgsLTE3MDM0MDU5NzksLTE2NDkwMzM2
+MywtMjIyMjc3Mzk3LC0xNjE3MjM1MDg0LDUyOTgwNDYxNiwtMT
+M2NTkwMzY1NCwtNzY0MzI5MjM5LC00MzYyNDE0MTUsLTY5NjQz
+MDA5NV19
 -->
