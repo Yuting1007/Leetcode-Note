@@ -445,14 +445,17 @@ Therefore, we encount with **sort the hashmap based on value**.
 We could use a priority queue, maxheap (by default)
 ```
 priority_queue<pair<int, int>> q;
+for(auto it : m){
+    q.push({it.second, it.first});
+}
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDY5NjAwMzYsLTYxODI2OTg2MiwzOD
-cxODczODgsLTQ4NDY4MjQ3NSwxOTYxNTY5MDA1LC0xMDg4MDU1
-MDUsLTMwMTc4MTY3MCw3OTczMTM5MTEsMTEzODU2NDYwNywtND
-M0NDUwNDE1LDk5NTM1Mjk1NSwxODUwNDMwOTY4LDExODU0NjIx
-OCwtMTcwMzQwNTk3OSwtMTY0OTAzMzYzLC0yMjIyNzczOTcsLT
-E2MTcyMzUwODQsNTI5ODA0NjE2LC0xMzY1OTAzNjU0LC03NjQz
-MjkyMzldfQ==
+eyJoaXN0b3J5IjpbNjM4OTExMTUyLC02MTgyNjk4NjIsMzg3MT
+g3Mzg4LC00ODQ2ODI0NzUsMTk2MTU2OTAwNSwtMTA4ODA1NTA1
+LC0zMDE3ODE2NzAsNzk3MzEzOTExLDExMzg1NjQ2MDcsLTQzND
+Q1MDQxNSw5OTUzNTI5NTUsMTg1MDQzMDk2OCwxMTg1NDYyMTgs
+LTE3MDM0MDU5NzksLTE2NDkwMzM2MywtMjIyMjc3Mzk3LC0xNj
+E3MjM1MDg0LDUyOTgwNDYxNiwtMTM2NTkwMzY1NCwtNzY0MzI5
+MjM5XX0=
 -->
