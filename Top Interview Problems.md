@@ -440,13 +440,13 @@ we need try every start point, and take all steps => backtracking + dfs => till 
 dfs + backtracking => stop(degree hit the requirement; hit the boarder, not match, visited), action(toggle visited state), increment(steps in four directions and increase the index)
 ```
 ### [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
-
+It is kinda easy to think about use hashmap to recor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODI2OTg2MiwzODcxODczODgsLTQ4ND
-Y4MjQ3NSwxOTYxNTY5MDA1LC0xMDg4MDU1MDUsLTMwMTc4MTY3
-MCw3OTczMTM5MTEsMTEzODU2NDYwNywtNDM0NDUwNDE1LDk5NT
-M1Mjk1NSwxODUwNDMwOTY4LDExODU0NjIxOCwtMTcwMzQwNTk3
-OSwtMTY0OTAzMzYzLC0yMjIyNzczOTcsLTE2MTcyMzUwODQsNT
-I5ODA0NjE2LC0xMzY1OTAzNjU0LC03NjQzMjkyMzksLTQzNjI0
-MTQxNV19
+eyJoaXN0b3J5IjpbMTM0MTE1NTg0NSwtNjE4MjY5ODYyLDM4Nz
+E4NzM4OCwtNDg0NjgyNDc1LDE5NjE1NjkwMDUsLTEwODgwNTUw
+NSwtMzAxNzgxNjcwLDc5NzMxMzkxMSwxMTM4NTY0NjA3LC00Mz
+Q0NTA0MTUsOTk1MzUyOTU1LDE4NTA0MzA5NjgsMTE4NTQ2MjE4
+LC0xNzAzNDA1OTc5LC0xNjQ5MDMzNjMsLTIyMjI3NzM5NywtMT
+YxNzIzNTA4NCw1Mjk4MDQ2MTYsLTEzNjU5MDM2NTQsLTc2NDMy
+OTIzOV19
 -->
