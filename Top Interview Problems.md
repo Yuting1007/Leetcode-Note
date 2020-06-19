@@ -464,12 +464,13 @@ if options => (initiate as '+')
 After iteration, add all elements in stack up to get the result.
 ```
 I have tried rewirte this queston and found that, we need initialization (op = '+') to process the first num.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTk0MzExMiwtMjA0MDAzNzQxLDc4ND
-IyMzI3MSwtMzExNDIzNTUxLDEwNDgxNzYzODgsLTYxODI2OTg2
-MiwzODcxODczODgsLTQ4NDY4MjQ3NSwxOTYxNTY5MDA1LC0xMD
-g4MDU1MDUsLTMwMTc4MTY3MCw3OTczMTM5MTEsMTEzODU2NDYw
-NywtNDM0NDUwNDE1LDk5NTM1Mjk1NSwxODUwNDMwOTY4LDExOD
-U0NjIxOCwtMTcwMzQwNTk3OSwtMTY0OTAzMzYzLC0yMjIyNzcz
-OTddfQ==
+eyJoaXN0b3J5IjpbMTIyOTU4MTU1OCwyMTM5OTQzMTEyLC0yMD
+QwMDM3NDEsNzg0MjIzMjcxLC0zMTE0MjM1NTEsMTA0ODE3NjM4
+OCwtNjE4MjY5ODYyLDM4NzE4NzM4OCwtNDg0NjgyNDc1LDE5Nj
+E1NjkwMDUsLTEwODgwNTUwNSwtMzAxNzgxNjcwLDc5NzMxMzkx
+MSwxMTM4NTY0NjA3LC00MzQ0NTA0MTUsOTk1MzUyOTU1LDE4NT
+A0MzA5NjgsMTE4NTQ2MjE4LC0xNzAzNDA1OTc5LC0xNjQ5MDMz
+NjNdfQ==
 -->
