@@ -467,12 +467,17 @@ I have tried rewirte this queston and found that, we need initialization (op = '
 
 ### [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 Instead of if-else statement, we initialize the whole result vector with its value then rewrite those meeting the requirements.
+```
+ for(int i=2; i<n; i=i+3){result[i] = "Fizz";}
+ for(int i=4; i<n; i=i+5){result[i] = "Buzz";}
+ for(int i=14; i<n; i=i+15){result[i] = "FizzBuzz";}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDE3MjQ2MjAsMjEzOTk0MzExMiwtMj
-A0MDAzNzQxLDc4NDIyMzI3MSwtMzExNDIzNTUxLDEwNDgxNzYz
-ODgsLTYxODI2OTg2MiwzODcxODczODgsLTQ4NDY4MjQ3NSwxOT
-YxNTY5MDA1LC0xMDg4MDU1MDUsLTMwMTc4MTY3MCw3OTczMTM5
-MTEsMTEzODU2NDYwNywtNDM0NDUwNDE1LDk5NTM1Mjk1NSwxOD
-UwNDMwOTY4LDExODU0NjIxOCwtMTcwMzQwNTk3OSwtMTY0OTAz
-MzYzXX0=
+eyJoaXN0b3J5IjpbMTAzNDYyOTA1MSwtMTMwMTcyNDYyMCwyMT
+M5OTQzMTEyLC0yMDQwMDM3NDEsNzg0MjIzMjcxLC0zMTE0MjM1
+NTEsMTA0ODE3NjM4OCwtNjE4MjY5ODYyLDM4NzE4NzM4OCwtND
+g0NjgyNDc1LDE5NjE1NjkwMDUsLTEwODgwNTUwNSwtMzAxNzgx
+NjcwLDc5NzMxMzkxMSwxMTM4NTY0NjA3LC00MzQ0NTA0MTUsOT
+k1MzUyOTU1LDE4NTA0MzA5NjgsMTE4NTQ2MjE4LC0xNzAzNDA1
+OTc5XX0=
 -->
