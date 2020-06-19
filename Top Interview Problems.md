@@ -463,9 +463,9 @@ if options => (initiate as '+')
 
 After iteration, add all elements in stack up to get the result.
 ```
-I have tried rewirte this queston and found that, we need initialization 
+I have tried rewirte this queston and found that, we need initialization (op = '+') to process the first num.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODU5NTM4NywtMjA0MDAzNzQxLDc4ND
+eyJoaXN0b3J5IjpbMjEzOTk0MzExMiwtMjA0MDAzNzQxLDc4ND
 IyMzI3MSwtMzExNDIzNTUxLDEwNDgxNzYzODgsLTYxODI2OTg2
 MiwzODcxODczODgsLTQ4NDY4MjQ3NSwxOTYxNTY5MDA1LC0xMD
 g4MDU1MDUsLTMwMTc4MTY3MCw3OTczMTM5MTEsMTEzODU2NDYw
