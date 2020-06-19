@@ -498,13 +498,14 @@ This is a perfect example of updating result and the return value of helper func
 res => max(left) + max(right) + node->val
 return value => max(left, right) + node->val
 
+这就很适合有多条信息想从recusion 里面出来的情况
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzk5MzcxMTMsNjMwMTMwMjUxLC0xOT
-cyMDc1OTg3LDEwMzQ2MjkwNTEsLTEzMDE3MjQ2MjAsMjEzOTk0
-MzExMiwtMjA0MDAzNzQxLDc4NDIyMzI3MSwtMzExNDIzNTUxLD
-EwNDgxNzYzODgsLTYxODI2OTg2MiwzODcxODczODgsLTQ4NDY4
-MjQ3NSwxOTYxNTY5MDA1LC0xMDg4MDU1MDUsLTMwMTc4MTY3MC
-w3OTczMTM5MTEsMTEzODU2NDYwNywtNDM0NDUwNDE1LDk5NTM1
-Mjk1NV19
+eyJoaXN0b3J5IjpbMTAxNzQxMTUyNSw2MzAxMzAyNTEsLTE5Nz
+IwNzU5ODcsMTAzNDYyOTA1MSwtMTMwMTcyNDYyMCwyMTM5OTQz
+MTEyLC0yMDQwMDM3NDEsNzg0MjIzMjcxLC0zMTE0MjM1NTEsMT
+A0ODE3NjM4OCwtNjE4MjY5ODYyLDM4NzE4NzM4OCwtNDg0Njgy
+NDc1LDE5NjE1NjkwMDUsLTEwODgwNTUwNSwtMzAxNzgxNjcwLD
+c5NzMxMzkxMSwxMTM4NTY0NjA3LC00MzQ0NTA0MTUsOTk1MzUy
+OTU1XX0=
 -->
