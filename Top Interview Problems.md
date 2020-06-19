@@ -466,13 +466,13 @@ After iteration, add all elements in stack up to get the result.
 I have tried rewirte this queston and found that, we need initialization (op = '+') to process the first num.
 
 ### [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
-Instead of if-else statement
+Instead of if-else statement, we initialize the whole result vector with its value then rewrite those meeting the requirements.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExODU5MjM1LDIxMzk5NDMxMTIsLTIwND
-AwMzc0MSw3ODQyMjMyNzEsLTMxMTQyMzU1MSwxMDQ4MTc2Mzg4
-LC02MTgyNjk4NjIsMzg3MTg3Mzg4LC00ODQ2ODI0NzUsMTk2MT
-U2OTAwNSwtMTA4ODA1NTA1LC0zMDE3ODE2NzAsNzk3MzEzOTEx
-LDExMzg1NjQ2MDcsLTQzNDQ1MDQxNSw5OTUzNTI5NTUsMTg1MD
-QzMDk2OCwxMTg1NDYyMTgsLTE3MDM0MDU5NzksLTE2NDkwMzM2
-M119
+eyJoaXN0b3J5IjpbLTEzMDE3MjQ2MjAsMjEzOTk0MzExMiwtMj
+A0MDAzNzQxLDc4NDIyMzI3MSwtMzExNDIzNTUxLDEwNDgxNzYz
+ODgsLTYxODI2OTg2MiwzODcxODczODgsLTQ4NDY4MjQ3NSwxOT
+YxNTY5MDA1LC0xMDg4MDU1MDUsLTMwMTc4MTY3MCw3OTczMTM5
+MTEsMTEzODU2NDYwNywtNDM0NDUwNDE1LDk5NTM1Mjk1NSwxOD
+UwNDMwOTY4LDExODU0NjIxOCwtMTcwMzQwNTk3OSwtMTY0OTAz
+MzYzXX0=
 -->
