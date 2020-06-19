@@ -475,13 +475,13 @@ Instead of if-else statement, we initialize the whole result vector with its val
 
 ### [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 When I first see this question, literally have no idea.
-If this happens later, think about recursion**
+If this happens later, think about **recursion**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzYwODQwOSwxMDM0NjI5MDUxLC0xMz
-AxNzI0NjIwLDIxMzk5NDMxMTIsLTIwNDAwMzc0MSw3ODQyMjMy
-NzEsLTMxMTQyMzU1MSwxMDQ4MTc2Mzg4LC02MTgyNjk4NjIsMz
-g3MTg3Mzg4LC00ODQ2ODI0NzUsMTk2MTU2OTAwNSwtMTA4ODA1
-NTA1LC0zMDE3ODE2NzAsNzk3MzEzOTExLDExMzg1NjQ2MDcsLT
-QzNDQ1MDQxNSw5OTUzNTI5NTUsMTg1MDQzMDk2OCwxMTg1NDYy
-MThdfQ==
+eyJoaXN0b3J5IjpbLTE5NzIwNzU5ODcsMTAzNDYyOTA1MSwtMT
+MwMTcyNDYyMCwyMTM5OTQzMTEyLC0yMDQwMDM3NDEsNzg0MjIz
+MjcxLC0zMTE0MjM1NTEsMTA0ODE3NjM4OCwtNjE4MjY5ODYyLD
+M4NzE4NzM4OCwtNDg0NjgyNDc1LDE5NjE1NjkwMDUsLTEwODgw
+NTUwNSwtMzAxNzgxNjcwLDc5NzMxMzkxMSwxMTM4NTY0NjA3LC
+00MzQ0NTA0MTUsOTk1MzUyOTU1LDE4NTA0MzA5NjgsMTE4NTQ2
+MjE4XX0=
 -->
