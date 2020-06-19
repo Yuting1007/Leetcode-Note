@@ -465,8 +465,9 @@ After iteration, add all elements in stack up to get the result.
 ```
 I have tried rewirte this queston and found that, we need initialization (op = '+') to process the first num.
 
+### [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTU4MTU1OCwyMTM5OTQzMTEyLC0yMD
+eyJoaXN0b3J5IjpbLTMyMTMyNzQ4NiwyMTM5OTQzMTEyLC0yMD
 QwMDM3NDEsNzg0MjIzMjcxLC0zMTE0MjM1NTEsMTA0ODE3NjM4
 OCwtNjE4MjY5ODYyLDM4NzE4NzM4OCwtNDg0NjgyNDc1LDE5Nj
 E1NjkwMDUsLTEwODgwNTUwNSwtMzAxNzgxNjcwLDc5NzMxMzkx
