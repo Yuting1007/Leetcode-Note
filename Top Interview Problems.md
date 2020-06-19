@@ -497,12 +497,14 @@ public:
 This is a perfect example of updating result and the return value of helper function differs.
 res => max(left) + max(right) + node->val
 return value => max(left, right) + node->val
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwMTMwMjUxLC0xOTcyMDc1OTg3LDEwMz
-Q2MjkwNTEsLTEzMDE3MjQ2MjAsMjEzOTk0MzExMiwtMjA0MDAz
-NzQxLDc4NDIyMzI3MSwtMzExNDIzNTUxLDEwNDgxNzYzODgsLT
-YxODI2OTg2MiwzODcxODczODgsLTQ4NDY4MjQ3NSwxOTYxNTY5
-MDA1LC0xMDg4MDU1MDUsLTMwMTc4MTY3MCw3OTczMTM5MTEsMT
-EzODU2NDYwNywtNDM0NDUwNDE1LDk5NTM1Mjk1NSwxODUwNDMw
-OTY4XX0=
+eyJoaXN0b3J5IjpbLTE2Nzk5MzcxMTMsNjMwMTMwMjUxLC0xOT
+cyMDc1OTg3LDEwMzQ2MjkwNTEsLTEzMDE3MjQ2MjAsMjEzOTk0
+MzExMiwtMjA0MDAzNzQxLDc4NDIyMzI3MSwtMzExNDIzNTUxLD
+EwNDgxNzYzODgsLTYxODI2OTg2MiwzODcxODczODgsLTQ4NDY4
+MjQ3NSwxOTYxNTY5MDA1LC0xMDg4MDU1MDUsLTMwMTc4MTY3MC
+w3OTczMTM5MTEsMTEzODU2NDYwNywtNDM0NDUwNDE1LDk5NTM1
+Mjk1NV19
 -->
