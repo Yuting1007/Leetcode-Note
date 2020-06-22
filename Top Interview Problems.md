@@ -509,14 +509,16 @@ I remembered the "queue & stack" block in the question list do have a lot this k
 Like, using queue to implement stack, using stack to implement queue.
 
 For this question, we could use two stacks. One for  normal order processing. The other for storing the minmum number in each step.
-``
+`if (s2.empty() || x <= s2.top()) s2.push(x);`
+
+### [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzU5NzEwMzEsMTU4Njc0MDU4NywzMD
-M4OTMwMTcsMTAxNzQxMTUyNSw2MzAxMzAyNTEsLTE5NzIwNzU5
-ODcsMTAzNDYyOTA1MSwtMTMwMTcyNDYyMCwyMTM5OTQzMTEyLC
-0yMDQwMDM3NDEsNzg0MjIzMjcxLC0zMTE0MjM1NTEsMTA0ODE3
-NjM4OCwtNjE4MjY5ODYyLDM4NzE4NzM4OCwtNDg0NjgyNDc1LD
-E5NjE1NjkwMDUsLTEwODgwNTUwNSwtMzAxNzgxNjcwLDc5NzMx
-MzkxMV19
+eyJoaXN0b3J5IjpbLTM3MzY1ODQ4OSwxNTg2NzQwNTg3LDMwMz
+g5MzAxNywxMDE3NDExNTI1LDYzMDEzMDI1MSwtMTk3MjA3NTk4
+NywxMDM0NjI5MDUxLC0xMzAxNzI0NjIwLDIxMzk5NDMxMTIsLT
+IwNDAwMzc0MSw3ODQyMjMyNzEsLTMxMTQyMzU1MSwxMDQ4MTc2
+Mzg4LC02MTgyNjk4NjIsMzg3MTg3Mzg4LC00ODQ2ODI0NzUsMT
+k2MTU2OTAwNSwtMTA4ODA1NTA1LC0zMDE3ODE2NzAsNzk3MzEz
+OTExXX0=
 -->
