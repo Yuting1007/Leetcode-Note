@@ -540,9 +540,11 @@ The tricky part for dp:
 2. The state transformation function
 
 ### [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
-The setting for the helper fun
+The setting for the helper function is intersting.
+BST:
+1. BST for left children 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDI1MzExNSwyMTE5NDk3ODk3LDE1Mz
+eyJoaXN0b3J5IjpbMTQ3OTkxMzE5MSwyMTE5NDk3ODk3LDE1Mz
 g3OTIzNCwtMTc1NTQxOTk4NiwyMDc4Njg2ODczLDE0MzU5NjY5
 MzcsNTIwMzEyNzExLC0zNzM2NTg0ODksMTU4Njc0MDU4NywzMD
 M4OTMwMTcsMTAxNzQxMTUyNSw2MzAxMzAyNTEsLTE5NzIwNzU5
