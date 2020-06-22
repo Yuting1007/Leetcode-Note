@@ -519,14 +519,21 @@ Of course, we need to consider the boarder, if reach the boarder, return default
 ### [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 I do feel this one is with hint.
 We could use a map to relect the projection between integer and roman.
-
+Only two exceptions 4 and 9.
+```
+ if(i == s.size() - 1 || m[s[i]] >= m[s[i+1]]){
+     res += m[s[i]];
+ } else {
+     res -= m[s[i]];
+ }
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3Mjg4MTE1NSw1MjAzMTI3MTEsLTM3Mz
-Y1ODQ4OSwxNTg2NzQwNTg3LDMwMzg5MzAxNywxMDE3NDExNTI1
-LDYzMDEzMDI1MSwtMTk3MjA3NTk4NywxMDM0NjI5MDUxLC0xMz
-AxNzI0NjIwLDIxMzk5NDMxMTIsLTIwNDAwMzc0MSw3ODQyMjMy
-NzEsLTMxMTQyMzU1MSwxMDQ4MTc2Mzg4LC02MTgyNjk4NjIsMz
-g3MTg3Mzg4LC00ODQ2ODI0NzUsMTk2MTU2OTAwNSwtMTA4ODA1
-NTA1XX0=
+eyJoaXN0b3J5IjpbMjI3NDUzNTAxLDUyMDMxMjcxMSwtMzczNj
+U4NDg5LDE1ODY3NDA1ODcsMzAzODkzMDE3LDEwMTc0MTE1MjUs
+NjMwMTMwMjUxLC0xOTcyMDc1OTg3LDEwMzQ2MjkwNTEsLTEzMD
+E3MjQ2MjAsMjEzOTk0MzExMiwtMjA0MDAzNzQxLDc4NDIyMzI3
+MSwtMzExNDIzNTUxLDEwNDgxNzYzODgsLTYxODI2OTg2MiwzOD
+cxODczODgsLTQ4NDY4MjQ3NSwxOTYxNTY5MDA1LC0xMDg4MDU1
+MDVdfQ==
 -->
