@@ -547,12 +547,13 @@ BST:
 All these critira need to be covered in the helper function, via either the output, or the parameters
 
 ### [283. Move Zeroes] (https://leetcode.com/problems/move-zeroes/)
+kinda like the quick sort, using a pointer and swap; done by in-place
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDQ5NzA4NCwyMTE5NDk3ODk3LDE1Mz
-g3OTIzNCwtMTc1NTQxOTk4NiwyMDc4Njg2ODczLDE0MzU5NjY5
-MzcsNTIwMzEyNzExLC0zNzM2NTg0ODksMTU4Njc0MDU4NywzMD
-M4OTMwMTcsMTAxNzQxMTUyNSw2MzAxMzAyNTEsLTE5NzIwNzU5
-ODcsMTAzNDYyOTA1MSwtMTMwMTcyNDYyMCwyMTM5OTQzMTEyLC
-0yMDQwMDM3NDEsNzg0MjIzMjcxLC0zMTE0MjM1NTEsMTA0ODE3
-NjM4OF19
+eyJoaXN0b3J5IjpbLTE4NTI4NzUwNTcsLTMzNDQ5NzA4NCwyMT
+E5NDk3ODk3LDE1Mzg3OTIzNCwtMTc1NTQxOTk4NiwyMDc4Njg2
+ODczLDE0MzU5NjY5MzcsNTIwMzEyNzExLC0zNzM2NTg0ODksMT
+U4Njc0MDU4NywzMDM4OTMwMTcsMTAxNzQxMTUyNSw2MzAxMzAy
+NTEsLTE5NzIwNzU5ODcsMTAzNDYyOTA1MSwtMTMwMTcyNDYyMC
+wyMTM5OTQzMTEyLC0yMDQwMDM3NDEsNzg0MjIzMjcxLC0zMTE0
+MjM1NTFdfQ==
 -->
