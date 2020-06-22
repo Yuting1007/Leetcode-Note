@@ -535,13 +535,17 @@ Tuantuan chance needed!
 
 ### [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 This is like the start point for dp :)!!
+The tricky part for dp:
+1. how much space you want, and how do you initiate them
+2. The state transformation function
 
+### [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODc5MjM0LC0xNzU1NDE5OTg2LDIwNz
-g2ODY4NzMsMTQzNTk2NjkzNyw1MjAzMTI3MTEsLTM3MzY1ODQ4
-OSwxNTg2NzQwNTg3LDMwMzg5MzAxNywxMDE3NDExNTI1LDYzMD
-EzMDI1MSwtMTk3MjA3NTk4NywxMDM0NjI5MDUxLC0xMzAxNzI0
-NjIwLDIxMzk5NDMxMTIsLTIwNDAwMzc0MSw3ODQyMjMyNzEsLT
-MxMTQyMzU1MSwxMDQ4MTc2Mzg4LC02MTgyNjk4NjIsMzg3MTg3
-Mzg4XX0=
+eyJoaXN0b3J5IjpbMjExOTQ5Nzg5NywxNTM4NzkyMzQsLTE3NT
+U0MTk5ODYsMjA3ODY4Njg3MywxNDM1OTY2OTM3LDUyMDMxMjcx
+MSwtMzczNjU4NDg5LDE1ODY3NDA1ODcsMzAzODkzMDE3LDEwMT
+c0MTE1MjUsNjMwMTMwMjUxLC0xOTcyMDc1OTg3LDEwMzQ2Mjkw
+NTEsLTEzMDE3MjQ2MjAsMjEzOTk0MzExMiwtMjA0MDAzNzQxLD
+c4NDIyMzI3MSwtMzExNDIzNTUxLDEwNDgxNzYzODgsLTYxODI2
+OTg2Ml19
 -->
