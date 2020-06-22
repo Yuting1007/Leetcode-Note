@@ -533,13 +533,15 @@ Tuantuan chance needed!
 ### [140. Word Break II](https://leetcode.com/problems/word-break-ii/)
 Tuantuan chance needed!
 
-### [70. Climbing Stairs]()
+### [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+This is like the start point for dp :)!!
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODU0MDAyNCwtMTc1NTQxOTk4NiwyMD
-c4Njg2ODczLDE0MzU5NjY5MzcsNTIwMzEyNzExLC0zNzM2NTg0
-ODksMTU4Njc0MDU4NywzMDM4OTMwMTcsMTAxNzQxMTUyNSw2Mz
-AxMzAyNTEsLTE5NzIwNzU5ODcsMTAzNDYyOTA1MSwtMTMwMTcy
-NDYyMCwyMTM5OTQzMTEyLC0yMDQwMDM3NDEsNzg0MjIzMjcxLC
-0zMTE0MjM1NTEsMTA0ODE3NjM4OCwtNjE4MjY5ODYyLDM4NzE4
-NzM4OF19
+eyJoaXN0b3J5IjpbMTUzODc5MjM0LC0xNzU1NDE5OTg2LDIwNz
+g2ODY4NzMsMTQzNTk2NjkzNyw1MjAzMTI3MTEsLTM3MzY1ODQ4
+OSwxNTg2NzQwNTg3LDMwMzg5MzAxNywxMDE3NDExNTI1LDYzMD
+EzMDI1MSwtMTk3MjA3NTk4NywxMDM0NjI5MDUxLC0xMzAxNzI0
+NjIwLDIxMzk5NDMxMTIsLTIwNDAwMzc0MSw3ODQyMjMyNzEsLT
+MxMTQyMzU1MSwxMDQ4MTc2Mzg4LC02MTgyNjk4NjIsMzg3MTg3
+Mzg4XX0=
 -->
