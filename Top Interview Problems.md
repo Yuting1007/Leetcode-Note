@@ -551,14 +551,15 @@ kinda like the quick sort, using a pointer and swap; done by in-place.
 Moving all non-zero numbers at the front `swap(nums[i], nums[leftNoZero]);`
 
 ### [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-
+Two pointers(left & right)
+`(s[right] + 32 - 'a') % 32)`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzk0MDI5MDAsLTE3Nzc4NTEyMDIsLT
-E4NTI4NzUwNTcsLTMzNDQ5NzA4NCwyMTE5NDk3ODk3LDE1Mzg3
-OTIzNCwtMTc1NTQxOTk4NiwyMDc4Njg2ODczLDE0MzU5NjY5Mz
-csNTIwMzEyNzExLC0zNzM2NTg0ODksMTU4Njc0MDU4NywzMDM4
-OTMwMTcsMTAxNzQxMTUyNSw2MzAxMzAyNTEsLTE5NzIwNzU5OD
-csMTAzNDYyOTA1MSwtMTMwMTcyNDYyMCwyMTM5OTQzMTEyLC0y
-MDQwMDM3NDFdfQ==
+eyJoaXN0b3J5IjpbMTk3OTEwNzg1OSwtMTc3Nzg1MTIwMiwtMT
+g1Mjg3NTA1NywtMzM0NDk3MDg0LDIxMTk0OTc4OTcsMTUzODc5
+MjM0LC0xNzU1NDE5OTg2LDIwNzg2ODY4NzMsMTQzNTk2NjkzNy
+w1MjAzMTI3MTEsLTM3MzY1ODQ4OSwxNTg2NzQwNTg3LDMwMzg5
+MzAxNywxMDE3NDExNTI1LDYzMDEzMDI1MSwtMTk3MjA3NTk4Ny
+wxMDM0NjI5MDUxLC0xMzAxNzI0NjIwLDIxMzk5NDMxMTIsLTIw
+NDAwMzc0MV19
 -->
