@@ -505,12 +505,13 @@ This is a classic tree problem.
 We can use recursion here. We try to find LCA in the left subtree, in the right subtree. If null from both sides, the root is the result.
 
 ### [155. Min Stack](https://leetcode.com/problems/min-stack/)
+I remembered the "queue & stack" block in the question list do have a lot this kind of questions. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjc2MTMyMzcsMTU4Njc0MDU4NywzMD
-M4OTMwMTcsMTAxNzQxMTUyNSw2MzAxMzAyNTEsLTE5NzIwNzU5
-ODcsMTAzNDYyOTA1MSwtMTMwMTcyNDYyMCwyMTM5OTQzMTEyLC
-0yMDQwMDM3NDEsNzg0MjIzMjcxLC0zMTE0MjM1NTEsMTA0ODE3
-NjM4OCwtNjE4MjY5ODYyLDM4NzE4NzM4OCwtNDg0NjgyNDc1LD
-E5NjE1NjkwMDUsLTEwODgwNTUwNSwtMzAxNzgxNjcwLDc5NzMx
-MzkxMV19
+eyJoaXN0b3J5IjpbODMxNDg0MjQ2LDE1ODY3NDA1ODcsMzAzOD
+kzMDE3LDEwMTc0MTE1MjUsNjMwMTMwMjUxLC0xOTcyMDc1OTg3
+LDEwMzQ2MjkwNTEsLTEzMDE3MjQ2MjAsMjEzOTk0MzExMiwtMj
+A0MDAzNzQxLDc4NDIyMzI3MSwtMzExNDIzNTUxLDEwNDgxNzYz
+ODgsLTYxODI2OTg2MiwzODcxODczODgsLTQ4NDY4MjQ3NSwxOT
+YxNTY5MDA1LC0xMDg4MDU1MDUsLTMwMTc4MTY3MCw3OTczMTM5
+MTFdfQ==
 -->
