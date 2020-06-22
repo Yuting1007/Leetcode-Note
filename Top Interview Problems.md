@@ -504,13 +504,13 @@ return value => max(left, right) + node->val
 This is a classic tree problem.
 We can use recursion here. We try to find LCA in the left subtree, in the right subtree. If null from both sides, the root is the result.
 
-##
+### [155. Min Stack](https://leetcode.com/problems/min-stack/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjA0ODY1NSwxNTg2NzQwNTg3LDMwMz
-g5MzAxNywxMDE3NDExNTI1LDYzMDEzMDI1MSwtMTk3MjA3NTk4
-NywxMDM0NjI5MDUxLC0xMzAxNzI0NjIwLDIxMzk5NDMxMTIsLT
-IwNDAwMzc0MSw3ODQyMjMyNzEsLTMxMTQyMzU1MSwxMDQ4MTc2
-Mzg4LC02MTgyNjk4NjIsMzg3MTg3Mzg4LC00ODQ2ODI0NzUsMT
-k2MTU2OTAwNSwtMTA4ODA1NTA1LC0zMDE3ODE2NzAsNzk3MzEz
-OTExXX0=
+eyJoaXN0b3J5IjpbLTExMjc2MTMyMzcsMTU4Njc0MDU4NywzMD
+M4OTMwMTcsMTAxNzQxMTUyNSw2MzAxMzAyNTEsLTE5NzIwNzU5
+ODcsMTAzNDYyOTA1MSwtMTMwMTcyNDYyMCwyMTM5OTQzMTEyLC
+0yMDQwMDM3NDEsNzg0MjIzMjcxLC0zMTE0MjM1NTEsMTA0ODE3
+NjM4OCwtNjE4MjY5ODYyLDM4NzE4NzM4OCwtNDg0NjgyNDc1LD
+E5NjE1NjkwMDUsLTEwODgwNTUwNSwtMzAxNzgxNjcwLDc5NzMx
+MzkxMV19
 -->
