@@ -540,12 +540,13 @@ The tricky part for dp:
 2. The state transformation function
 
 ### [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+The setting for the helper fun
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTQ5Nzg5NywxNTM4NzkyMzQsLTE3NT
-U0MTk5ODYsMjA3ODY4Njg3MywxNDM1OTY2OTM3LDUyMDMxMjcx
-MSwtMzczNjU4NDg5LDE1ODY3NDA1ODcsMzAzODkzMDE3LDEwMT
-c0MTE1MjUsNjMwMTMwMjUxLC0xOTcyMDc1OTg3LDEwMzQ2Mjkw
-NTEsLTEzMDE3MjQ2MjAsMjEzOTk0MzExMiwtMjA0MDAzNzQxLD
-c4NDIyMzI3MSwtMzExNDIzNTUxLDEwNDgxNzYzODgsLTYxODI2
-OTg2Ml19
+eyJoaXN0b3J5IjpbLTM5NDI1MzExNSwyMTE5NDk3ODk3LDE1Mz
+g3OTIzNCwtMTc1NTQxOTk4NiwyMDc4Njg2ODczLDE0MzU5NjY5
+MzcsNTIwMzEyNzExLC0zNzM2NTg0ODksMTU4Njc0MDU4NywzMD
+M4OTMwMTcsMTAxNzQxMTUyNSw2MzAxMzAyNTEsLTE5NzIwNzU5
+ODcsMTAzNDYyOTA1MSwtMTMwMTcyNDYyMCwyMTM5OTQzMTEyLC
+0yMDQwMDM3NDEsNzg0MjIzMjcxLC0zMTE0MjM1NTEsMTA0ODE3
+NjM4OF19
 -->
