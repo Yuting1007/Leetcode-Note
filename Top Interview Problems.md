@@ -514,9 +514,10 @@ For this question, we could use two stacks. One for  normal order processing. Th
 ### [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 This is a BS question.
 Two trends here, The first trend => smaller than target; the second trend => larger than target
+Of course, we need to consider the boarder, if reach the boarder, return default setting result.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzI1MTU5NywtMzczNjU4NDg5LDE1OD
+eyJoaXN0b3J5IjpbMTM5NzAxNjkyMywtMzczNjU4NDg5LDE1OD
 Y3NDA1ODcsMzAzODkzMDE3LDEwMTc0MTE1MjUsNjMwMTMwMjUx
 LC0xOTcyMDc1OTg3LDEwMzQ2MjkwNTEsLTEzMDE3MjQ2MjAsMj
 EzOTk0MzExMiwtMjA0MDAzNzQxLDc4NDIyMzI3MSwtMzExNDIz
