@@ -501,10 +501,12 @@ return value => max(left, right) + node->val
 这就很适合有多条信息想从recusion 里面出来的情况
 
 ### [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-This is a classic tree 
+This is a classic tree problem.
+We can use recursion here. We try to find LCA in the left subtree, in the right subtree
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDgwMDYyOSwzMDM4OTMwMTcsMTAxNz
+eyJoaXN0b3J5IjpbMTU4Njc0MDU4NywzMDM4OTMwMTcsMTAxNz
 QxMTUyNSw2MzAxMzAyNTEsLTE5NzIwNzU5ODcsMTAzNDYyOTA1
 MSwtMTMwMTcyNDYyMCwyMTM5OTQzMTEyLC0yMDQwMDM3NDEsNz
 g0MjIzMjcxLC0zMTE0MjM1NTEsMTA0ODE3NjM4OCwtNjE4MjY5
