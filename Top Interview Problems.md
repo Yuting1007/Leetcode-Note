@@ -517,10 +517,12 @@ Two trends here, The first trend => smaller than target; the second trend => lar
 Of course, we need to consider the boarder, if reach the boarder, return default setting result.
 
 ### [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+I do feel this one is with hint.
+We could use a map to relect the projection between integer and roman.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzA3MjY1MSw1MjAzMTI3MTEsLTM3Mz
+eyJoaXN0b3J5IjpbMTI3Mjg4MTE1NSw1MjAzMTI3MTEsLTM3Mz
 Y1ODQ4OSwxNTg2NzQwNTg3LDMwMzg5MzAxNywxMDE3NDExNTI1
 LDYzMDEzMDI1MSwtMTk3MjA3NTk4NywxMDM0NjI5MDUxLC0xMz
 AxNzI0NjIwLDIxMzk5NDMxMTIsLTIwNDAwMzc0MSw3ODQyMjMy
