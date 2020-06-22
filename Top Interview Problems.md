@@ -506,12 +506,14 @@ We can use recursion here. We try to find LCA in the left subtree, in the right 
 
 ### [155. Min Stack](https://leetcode.com/problems/min-stack/)
 I remembered the "queue & stack" block in the question list do have a lot this kind of questions. 
+Like, using queue to implement stack, using stack to implement queue.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxNDg0MjQ2LDE1ODY3NDA1ODcsMzAzOD
-kzMDE3LDEwMTc0MTE1MjUsNjMwMTMwMjUxLC0xOTcyMDc1OTg3
-LDEwMzQ2MjkwNTEsLTEzMDE3MjQ2MjAsMjEzOTk0MzExMiwtMj
-A0MDAzNzQxLDc4NDIyMzI3MSwtMzExNDIzNTUxLDEwNDgxNzYz
-ODgsLTYxODI2OTg2MiwzODcxODczODgsLTQ4NDY4MjQ3NSwxOT
-YxNTY5MDA1LC0xMDg4MDU1MDUsLTMwMTc4MTY3MCw3OTczMTM5
-MTFdfQ==
+eyJoaXN0b3J5IjpbMTIyNzExNDk0NywxNTg2NzQwNTg3LDMwMz
+g5MzAxNywxMDE3NDExNTI1LDYzMDEzMDI1MSwtMTk3MjA3NTk4
+NywxMDM0NjI5MDUxLC0xMzAxNzI0NjIwLDIxMzk5NDMxMTIsLT
+IwNDAwMzc0MSw3ODQyMjMyNzEsLTMxMTQyMzU1MSwxMDQ4MTc2
+Mzg4LC02MTgyNjk4NjIsMzg3MTg3Mzg4LC00ODQ2ODI0NzUsMT
+k2MTU2OTAwNSwtMTA4ODA1NTA1LC0zMDE3ODE2NzAsNzk3MzEz
+OTExXX0=
 -->
