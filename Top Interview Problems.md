@@ -513,14 +513,14 @@ For this question, we could use two stacks. One for  normal order processing. Th
 
 ### [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 This is a BS question.
-Two trends here, The first trend => smaller than
+Two trends here, The first trend => smaller than target; the second trend => larger than target
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk4OTE2MDksLTM3MzY1ODQ4OSwxNT
-g2NzQwNTg3LDMwMzg5MzAxNywxMDE3NDExNTI1LDYzMDEzMDI1
-MSwtMTk3MjA3NTk4NywxMDM0NjI5MDUxLC0xMzAxNzI0NjIwLD
-IxMzk5NDMxMTIsLTIwNDAwMzc0MSw3ODQyMjMyNzEsLTMxMTQy
-MzU1MSwxMDQ4MTc2Mzg4LC02MTgyNjk4NjIsMzg3MTg3Mzg4LC
-00ODQ2ODI0NzUsMTk2MTU2OTAwNSwtMTA4ODA1NTA1LC0zMDE3
-ODE2NzBdfQ==
+eyJoaXN0b3J5IjpbMTE0MzI1MTU5NywtMzczNjU4NDg5LDE1OD
+Y3NDA1ODcsMzAzODkzMDE3LDEwMTc0MTE1MjUsNjMwMTMwMjUx
+LC0xOTcyMDc1OTg3LDEwMzQ2MjkwNTEsLTEzMDE3MjQ2MjAsMj
+EzOTk0MzExMiwtMjA0MDAzNzQxLDc4NDIyMzI3MSwtMzExNDIz
+NTUxLDEwNDgxNzYzODgsLTYxODI2OTg2MiwzODcxODczODgsLT
+Q4NDY4MjQ3NSwxOTYxNTY5MDA1LC0xMDg4MDU1MDUsLTMwMTc4
+MTY3MF19
 -->
