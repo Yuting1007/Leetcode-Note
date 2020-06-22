@@ -502,15 +502,15 @@ return value => max(left, right) + node->val
 
 ### [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 This is a classic tree problem.
-We can use recursion here. We try to find LCA in the left subtree, in the right subtree
+We can use recursion here. We try to find LCA in the left subtree, in the right subtree. If null from both sides, the root is the result.
 
-
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Njc0MDU4NywzMDM4OTMwMTcsMTAxNz
-QxMTUyNSw2MzAxMzAyNTEsLTE5NzIwNzU5ODcsMTAzNDYyOTA1
-MSwtMTMwMTcyNDYyMCwyMTM5OTQzMTEyLC0yMDQwMDM3NDEsNz
-g0MjIzMjcxLC0zMTE0MjM1NTEsMTA0ODE3NjM4OCwtNjE4MjY5
-ODYyLDM4NzE4NzM4OCwtNDg0NjgyNDc1LDE5NjE1NjkwMDUsLT
-EwODgwNTUwNSwtMzAxNzgxNjcwLDc5NzMxMzkxMSwxMTM4NTY0
-NjA3XX0=
+eyJoaXN0b3J5IjpbMTA3NjA0ODY1NSwxNTg2NzQwNTg3LDMwMz
+g5MzAxNywxMDE3NDExNTI1LDYzMDEzMDI1MSwtMTk3MjA3NTk4
+NywxMDM0NjI5MDUxLC0xMzAxNzI0NjIwLDIxMzk5NDMxMTIsLT
+IwNDAwMzc0MSw3ODQyMjMyNzEsLTMxMTQyMzU1MSwxMDQ4MTc2
+Mzg4LC02MTgyNjk4NjIsMzg3MTg3Mzg4LC00ODQ2ODI0NzUsMT
+k2MTU2OTAwNSwtMTA4ODA1NTA1LC0zMDE3ODE2NzAsNzk3MzEz
+OTExXX0=
 -->
