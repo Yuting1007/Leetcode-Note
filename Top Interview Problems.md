@@ -501,14 +501,14 @@ return value => max(left, right) + node->val
 这就很适合有多条信息想从recusion 里面出来的情况
 
 ### [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-This is a classic 
+This is a classic tree 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzODkzMDE3LDEwMTc0MTE1MjUsNjMwMT
-MwMjUxLC0xOTcyMDc1OTg3LDEwMzQ2MjkwNTEsLTEzMDE3MjQ2
-MjAsMjEzOTk0MzExMiwtMjA0MDAzNzQxLDc4NDIyMzI3MSwtMz
-ExNDIzNTUxLDEwNDgxNzYzODgsLTYxODI2OTg2MiwzODcxODcz
-ODgsLTQ4NDY4MjQ3NSwxOTYxNTY5MDA1LC0xMDg4MDU1MDUsLT
-MwMTc4MTY3MCw3OTczMTM5MTEsMTEzODU2NDYwNywtNDM0NDUw
-NDE1XX0=
+eyJoaXN0b3J5IjpbMTEzNDgwMDYyOSwzMDM4OTMwMTcsMTAxNz
+QxMTUyNSw2MzAxMzAyNTEsLTE5NzIwNzU5ODcsMTAzNDYyOTA1
+MSwtMTMwMTcyNDYyMCwyMTM5OTQzMTEyLC0yMDQwMDM3NDEsNz
+g0MjIzMjcxLC0zMTE0MjM1NTEsMTA0ODE3NjM4OCwtNjE4MjY5
+ODYyLDM4NzE4NzM4OCwtNDg0NjgyNDc1LDE5NjE1NjkwMDUsLT
+EwODgwNTUwNSwtMzAxNzgxNjcwLDc5NzMxMzkxMSwxMTM4NTY0
+NjA3XX0=
 -->
