@@ -569,16 +569,17 @@ this is is pretty straight forward. Use the first word as a base, compare with a
 Defining uniqueness we use hashmap a lot.
 
 ### [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
 Optimization =>
 1. greedy algorithm
 2. dp
 3. special pointer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1OTY3MzY2LDEyOTg5MzcyOTEsLTEwMj
-IyNzAxOTgsMTk3MjQ4OTYyOCwtOTU0ODQ4NTM2LC0xMjk0NzI4
-MzkwLDIwMzg1MTMxMzYsMTU5OTEyNzU5OSwxOTc5MTA3ODU5LC
-0xNzc3ODUxMjAyLC0xODUyODc1MDU3LC0zMzQ0OTcwODQsMjEx
-OTQ5Nzg5NywxNTM4NzkyMzQsLTE3NTU0MTk5ODYsMjA3ODY4Nj
-g3MywxNDM1OTY2OTM3LDUyMDMxMjcxMSwtMzczNjU4NDg5LDE1
-ODY3NDA1ODddfQ==
+eyJoaXN0b3J5IjpbMTMwNzY2ODQ0MCw4MzU5NjczNjYsMTI5OD
+kzNzI5MSwtMTAyMjI3MDE5OCwxOTcyNDg5NjI4LC05NTQ4NDg1
+MzYsLTEyOTQ3MjgzOTAsMjAzODUxMzEzNiwxNTk5MTI3NTk5LD
+E5NzkxMDc4NTksLTE3Nzc4NTEyMDIsLTE4NTI4NzUwNTcsLTMz
+NDQ5NzA4NCwyMTE5NDk3ODk3LDE1Mzg3OTIzNCwtMTc1NTQxOT
+k4NiwyMDc4Njg2ODczLDE0MzU5NjY5MzcsNTIwMzEyNzExLC0z
+NzM2NTg0ODldfQ==
 -->
