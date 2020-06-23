@@ -569,12 +569,13 @@ this is is pretty straight forward. Use the first word as a base, compare with a
 Defining uniqueness we use hashmap a lot.
 
 ### [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+Opt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODkzNzI5MSwtMTAyMjI3MDE5OCwxOT
-cyNDg5NjI4LC05NTQ4NDg1MzYsLTEyOTQ3MjgzOTAsMjAzODUx
-MzEzNiwxNTk5MTI3NTk5LDE5NzkxMDc4NTksLTE3Nzc4NTEyMD
-IsLTE4NTI4NzUwNTcsLTMzNDQ5NzA4NCwyMTE5NDk3ODk3LDE1
-Mzg3OTIzNCwtMTc1NTQxOTk4NiwyMDc4Njg2ODczLDE0MzU5Nj
-Y5MzcsNTIwMzEyNzExLC0zNzM2NTg0ODksMTU4Njc0MDU4Nywz
-MDM4OTMwMTddfQ==
+eyJoaXN0b3J5IjpbLTE1MjEyNTk3MDQsMTI5ODkzNzI5MSwtMT
+AyMjI3MDE5OCwxOTcyNDg5NjI4LC05NTQ4NDg1MzYsLTEyOTQ3
+MjgzOTAsMjAzODUxMzEzNiwxNTk5MTI3NTk5LDE5NzkxMDc4NT
+ksLTE3Nzc4NTEyMDIsLTE4NTI4NzUwNTcsLTMzNDQ5NzA4NCwy
+MTE5NDk3ODk3LDE1Mzg3OTIzNCwtMTc1NTQxOTk4NiwyMDc4Nj
+g2ODczLDE0MzU5NjY5MzcsNTIwMzEyNzExLC0zNzM2NTg0ODks
+MTU4Njc0MDU4N119
 -->
