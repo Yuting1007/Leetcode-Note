@@ -585,9 +585,11 @@ This one is greedy + dp
      res = max(res, dp[i]);
  }
 ```
-dp is always like, using previous state to update the current one. While in this question, we are trying to find the largest previous state to update 
+dp is always like, using previous state to update the current one. While in this question, we are trying to find the largest previous state to update the current state. Thus, two loops are needed.
+
+### [348. Design Tic-Tac-Toe][https://leetcode.com/problems/design-tic-tac-toe/](https://leetcode.com/problems/design-tic-tac-toe/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQzMjE0NDEsODM1OTY3MzY2LDEyOT
+eyJoaXN0b3J5IjpbLTIxMzMzNjY3MzEsODM1OTY3MzY2LDEyOT
 g5MzcyOTEsLTEwMjIyNzAxOTgsMTk3MjQ4OTYyOCwtOTU0ODQ4
 NTM2LC0xMjk0NzI4MzkwLDIwMzg1MTMxMzYsMTU5OTEyNzU5OS
 wxOTc5MTA3ODU5LC0xNzc3ODUxMjAyLC0xODUyODc1MDU3LC0z
