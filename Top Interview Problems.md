@@ -563,9 +563,9 @@ The way for solving this sort of question is that, we start at the right upper c
 
 ### [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 题外话: 有时候string, array的问题 遇到什么最值 或者是 in-place解决的东西, 试试加上pointer with meaning
-this is is pretty straight forward. Use the first word as a base, compare with all other word at the same place
+this is is pretty straight forward. Use the first word as a base, compare with all other word at the same place; increasing if matching, return if any of them not matching.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Nzk1OTY2NiwtOTU0ODQ4NTM2LC0xMj
+eyJoaXN0b3J5IjpbMTk3MjQ4OTYyOCwtOTU0ODQ4NTM2LC0xMj
 k0NzI4MzkwLDIwMzg1MTMxMzYsMTU5OTEyNzU5OSwxOTc5MTA3
 ODU5LC0xNzc3ODUxMjAyLC0xODUyODc1MDU3LC0zMzQ0OTcwOD
 QsMjExOTQ5Nzg5NywxNTM4NzkyMzQsLTE3NTU0MTk5ODYsMjA3
