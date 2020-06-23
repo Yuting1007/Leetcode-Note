@@ -565,14 +565,14 @@ The way for solving this sort of question is that, we start at the right upper c
 题外话: 有时候string, array的问题 遇到什么最值 或者是 in-place解决的东西, 试试加上pointer with meaning
 this is is pretty straight forward. Use the first word as a base, compare with all other word at the same place; increasing if matching, return if any of them not matching.
 
-### [387. First Unique Character in a String
-][https://leetcode.com/problems/first-unique-character-in-a-string/](https://leetcode.com/problems/first-unique-character-in-a-string/)
+### [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+Defining uniqueness we use hashmap a lot.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjUxMjIxMSwxOTcyNDg5NjI4LC05NT
-Q4NDg1MzYsLTEyOTQ3MjgzOTAsMjAzODUxMzEzNiwxNTk5MTI3
-NTk5LDE5NzkxMDc4NTksLTE3Nzc4NTEyMDIsLTE4NTI4NzUwNT
-csLTMzNDQ5NzA4NCwyMTE5NDk3ODk3LDE1Mzg3OTIzNCwtMTc1
-NTQxOTk4NiwyMDc4Njg2ODczLDE0MzU5NjY5MzcsNTIwMzEyNz
-ExLC0zNzM2NTg0ODksMTU4Njc0MDU4NywzMDM4OTMwMTcsMTAx
-NzQxMTUyNV19
+eyJoaXN0b3J5IjpbLTEwMjIyNzAxOTgsMTk3MjQ4OTYyOCwtOT
+U0ODQ4NTM2LC0xMjk0NzI4MzkwLDIwMzg1MTMxMzYsMTU5OTEy
+NzU5OSwxOTc5MTA3ODU5LC0xNzc3ODUxMjAyLC0xODUyODc1MD
+U3LC0zMzQ0OTcwODQsMjExOTQ5Nzg5NywxNTM4NzkyMzQsLTE3
+NTU0MTk5ODYsMjA3ODY4Njg3MywxNDM1OTY2OTM3LDUyMDMxMj
+cxMSwtMzczNjU4NDg5LDE1ODY3NDA1ODcsMzAzODkzMDE3LDEw
+MTc0MTE1MjVdfQ==
 -->
