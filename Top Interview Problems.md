@@ -589,13 +589,13 @@ dp is always like, using previous state to update the current one. While in this
 
 ### [348. Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)
 **DESIGN**
-
+[Notes](https://www.cnblogs.com/grandyang/p/5467118.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU0NjA1NCwxNTkxNTAzMzI0LDgzNT
-k2NzM2NiwxMjk4OTM3MjkxLC0xMDIyMjcwMTk4LDE5NzI0ODk2
-MjgsLTk1NDg0ODUzNiwtMTI5NDcyODM5MCwyMDM4NTEzMTM2LD
-E1OTkxMjc1OTksMTk3OTEwNzg1OSwtMTc3Nzg1MTIwMiwtMTg1
-Mjg3NTA1NywtMzM0NDk3MDg0LDIxMTk0OTc4OTcsMTUzODc5Mj
-M0LC0xNzU1NDE5OTg2LDIwNzg2ODY4NzMsMTQzNTk2NjkzNyw1
-MjAzMTI3MTFdfQ==
+eyJoaXN0b3J5IjpbLTMwOTY0OTQ3MiwtMTIzNTQ2MDU0LDE1OT
+E1MDMzMjQsODM1OTY3MzY2LDEyOTg5MzcyOTEsLTEwMjIyNzAx
+OTgsMTk3MjQ4OTYyOCwtOTU0ODQ4NTM2LC0xMjk0NzI4MzkwLD
+IwMzg1MTMxMzYsMTU5OTEyNzU5OSwxOTc5MTA3ODU5LC0xNzc3
+ODUxMjAyLC0xODUyODc1MDU3LC0zMzQ0OTcwODQsMjExOTQ5Nz
+g5NywxNTM4NzkyMzQsLTE3NTU0MTk5ODYsMjA3ODY4Njg3Mywx
+NDM1OTY2OTM3XX0=
 -->
