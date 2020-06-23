@@ -575,13 +575,22 @@ Optimization =>
 2. dp
 3. special pointer
 This one is greedy + dp
-``
+```
+ for(int i = 0; i < n; i++){
+     for(int j = 0; j < i; j++){
+         if(nums[j] < nums[i]){
+             dp[i] = max(dp[i], dp[j] + 1);//start from itself or enlarge other starter in front it
+         }
+     }
+     res = max(res, dp[i]);
+ }
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODg1MDcxOSw4MzU5NjczNjYsMTI5OD
-kzNzI5MSwtMTAyMjI3MDE5OCwxOTcyNDg5NjI4LC05NTQ4NDg1
-MzYsLTEyOTQ3MjgzOTAsMjAzODUxMzEzNiwxNTk5MTI3NTk5LD
-E5NzkxMDc4NTksLTE3Nzc4NTEyMDIsLTE4NTI4NzUwNTcsLTMz
-NDQ5NzA4NCwyMTE5NDk3ODk3LDE1Mzg3OTIzNCwtMTc1NTQxOT
-k4NiwyMDc4Njg2ODczLDE0MzU5NjY5MzcsNTIwMzEyNzExLC0z
-NzM2NTg0ODldfQ==
+eyJoaXN0b3J5IjpbODE5NDkwMzcsODM1OTY3MzY2LDEyOTg5Mz
+cyOTEsLTEwMjIyNzAxOTgsMTk3MjQ4OTYyOCwtOTU0ODQ4NTM2
+LC0xMjk0NzI4MzkwLDIwMzg1MTMxMzYsMTU5OTEyNzU5OSwxOT
+c5MTA3ODU5LC0xNzc3ODUxMjAyLC0xODUyODc1MDU3LC0zMzQ0
+OTcwODQsMjExOTQ5Nzg5NywxNTM4NzkyMzQsLTE3NTU0MTk5OD
+YsMjA3ODY4Njg3MywxNDM1OTY2OTM3LDUyMDMxMjcxMSwtMzcz
+NjU4NDg5XX0=
 -->
