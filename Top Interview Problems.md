@@ -546,7 +546,7 @@ BST:
 2. within the range
 All these critira need to be covered in the helper function, via either the output, or the parameters
 
-### [283. Move Zeroes] (https://leetcode.com/problems/move-zeroes/)
+### [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 kinda like the quick sort, using a pointer and swap; done by in-place.
 Moving all non-zero numbers at the front `swap(nums[i], nums[leftNoZero]);`
 
@@ -554,12 +554,15 @@ Moving all non-zero numbers at the front `swap(nums[i], nums[leftNoZero]);`
 Two pointers(left & right)
 `(s[right] + 32 - 'a') % 32)`
 
+### [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTEwNzg1OSwtMTc3Nzg1MTIwMiwtMT
-g1Mjg3NTA1NywtMzM0NDk3MDg0LDIxMTk0OTc4OTcsMTUzODc5
-MjM0LC0xNzU1NDE5OTg2LDIwNzg2ODY4NzMsMTQzNTk2NjkzNy
-w1MjAzMTI3MTEsLTM3MzY1ODQ4OSwxNTg2NzQwNTg3LDMwMzg5
-MzAxNywxMDE3NDExNTI1LDYzMDEzMDI1MSwtMTk3MjA3NTk4Ny
-wxMDM0NjI5MDUxLC0xMzAxNzI0NjIwLDIxMzk5NDMxMTIsLTIw
-NDAwMzc0MV19
+eyJoaXN0b3J5IjpbMTU5OTEyNzU5OSwxOTc5MTA3ODU5LC0xNz
+c3ODUxMjAyLC0xODUyODc1MDU3LC0zMzQ0OTcwODQsMjExOTQ5
+Nzg5NywxNTM4NzkyMzQsLTE3NTU0MTk5ODYsMjA3ODY4Njg3My
+wxNDM1OTY2OTM3LDUyMDMxMjcxMSwtMzczNjU4NDg5LDE1ODY3
+NDA1ODcsMzAzODkzMDE3LDEwMTc0MTE1MjUsNjMwMTMwMjUxLC
+0xOTcyMDc1OTg3LDEwMzQ2MjkwNTEsLTEzMDE3MjQ2MjAsMjEz
+OTk0MzExMl19
 -->
