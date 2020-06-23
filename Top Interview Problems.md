@@ -585,12 +585,13 @@ This one is greedy + dp
      res = max(res, dp[i]);
  }
 ```
+dp is always like, using previous state to update the current one. While in this question, we are trying to find the largest previous state to update 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5NDkwMzcsODM1OTY3MzY2LDEyOTg5Mz
-cyOTEsLTEwMjIyNzAxOTgsMTk3MjQ4OTYyOCwtOTU0ODQ4NTM2
-LC0xMjk0NzI4MzkwLDIwMzg1MTMxMzYsMTU5OTEyNzU5OSwxOT
-c5MTA3ODU5LC0xNzc3ODUxMjAyLC0xODUyODc1MDU3LC0zMzQ0
-OTcwODQsMjExOTQ5Nzg5NywxNTM4NzkyMzQsLTE3NTU0MTk5OD
-YsMjA3ODY4Njg3MywxNDM1OTY2OTM3LDUyMDMxMjcxMSwtMzcz
-NjU4NDg5XX0=
+eyJoaXN0b3J5IjpbLTEwMzQzMjE0NDEsODM1OTY3MzY2LDEyOT
+g5MzcyOTEsLTEwMjIyNzAxOTgsMTk3MjQ4OTYyOCwtOTU0ODQ4
+NTM2LC0xMjk0NzI4MzkwLDIwMzg1MTMxMzYsMTU5OTEyNzU5OS
+wxOTc5MTA3ODU5LC0xNzc3ODUxMjAyLC0xODUyODc1MDU3LC0z
+MzQ0OTcwODQsMjExOTQ5Nzg5NywxNTM4NzkyMzQsLTE3NTU0MT
+k5ODYsMjA3ODY4Njg3MywxNDM1OTY2OTM3LDUyMDMxMjcxMSwt
+MzczNjU4NDg5XX0=
 -->
