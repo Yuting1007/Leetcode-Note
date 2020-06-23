@@ -562,12 +562,13 @@ I remembered I have watched a video about these kind of question (sorted in both
 The way for solving this sort of question is that, we start at the right upper corner or left dottom corner, then BS
 
 ### [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ3MjgzOTAsMjAzODUxMzEzNiwxNT
-k5MTI3NTk5LDE5NzkxMDc4NTksLTE3Nzc4NTEyMDIsLTE4NTI4
-NzUwNTcsLTMzNDQ5NzA4NCwyMTE5NDk3ODk3LDE1Mzg3OTIzNC
-wtMTc1NTQxOTk4NiwyMDc4Njg2ODczLDE0MzU5NjY5MzcsNTIw
-MzEyNzExLC0zNzM2NTg0ODksMTU4Njc0MDU4NywzMDM4OTMwMT
-csMTAxNzQxMTUyNSw2MzAxMzAyNTEsLTE5NzIwNzU5ODcsMTAz
-NDYyOTA1MV19
+eyJoaXN0b3J5IjpbLTk1NDg0ODUzNiwtMTI5NDcyODM5MCwyMD
+M4NTEzMTM2LDE1OTkxMjc1OTksMTk3OTEwNzg1OSwtMTc3Nzg1
+MTIwMiwtMTg1Mjg3NTA1NywtMzM0NDk3MDg0LDIxMTk0OTc4OT
+csMTUzODc5MjM0LC0xNzU1NDE5OTg2LDIwNzg2ODY4NzMsMTQz
+NTk2NjkzNyw1MjAzMTI3MTEsLTM3MzY1ODQ4OSwxNTg2NzQwNT
+g3LDMwMzg5MzAxNywxMDE3NDExNTI1LDYzMDEzMDI1MSwtMTk3
+MjA3NTk4N119
 -->
