@@ -563,9 +563,9 @@ The way for solving this sort of question is that, we start at the right upper c
 
 ### [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 题外话: 有时候string, array的问题 遇到什么最值 或者是 in-place解决的东西, 试试加上pointer with meaning
-
+this is is pretty straight forward
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzU0ODY3NjYsLTk1NDg0ODUzNiwtMT
+eyJoaXN0b3J5IjpbLTE0MTQxNDIxMDEsLTk1NDg0ODUzNiwtMT
 I5NDcyODM5MCwyMDM4NTEzMTM2LDE1OTkxMjc1OTksMTk3OTEw
 Nzg1OSwtMTc3Nzg1MTIwMiwtMTg1Mjg3NTA1NywtMzM0NDk3MD
 g0LDIxMTk0OTc4OTcsMTUzODc5MjM0LC0xNzU1NDE5OTg2LDIw
