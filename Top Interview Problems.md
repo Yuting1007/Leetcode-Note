@@ -587,13 +587,13 @@ This one is greedy + dp
 ```
 dp is always like, using previous state to update the current one. While in this question, we are trying to find the largest previous state to update the current state. Thus, two loops are needed.
 
-### [348. Design Tic-Tac-Toe][https://leetcode.com/problems/design-tic-tac-toe/](https://leetcode.com/problems/design-tic-tac-toe/)
+### [348. Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzMzNjY3MzEsODM1OTY3MzY2LDEyOT
-g5MzcyOTEsLTEwMjIyNzAxOTgsMTk3MjQ4OTYyOCwtOTU0ODQ4
-NTM2LC0xMjk0NzI4MzkwLDIwMzg1MTMxMzYsMTU5OTEyNzU5OS
-wxOTc5MTA3ODU5LC0xNzc3ODUxMjAyLC0xODUyODc1MDU3LC0z
-MzQ0OTcwODQsMjExOTQ5Nzg5NywxNTM4NzkyMzQsLTE3NTU0MT
-k5ODYsMjA3ODY4Njg3MywxNDM1OTY2OTM3LDUyMDMxMjcxMSwt
-MzczNjU4NDg5XX0=
+eyJoaXN0b3J5IjpbMTU5MTUwMzMyNCw4MzU5NjczNjYsMTI5OD
+kzNzI5MSwtMTAyMjI3MDE5OCwxOTcyNDg5NjI4LC05NTQ4NDg1
+MzYsLTEyOTQ3MjgzOTAsMjAzODUxMzEzNiwxNTk5MTI3NTk5LD
+E5NzkxMDc4NTksLTE3Nzc4NTEyMDIsLTE4NTI4NzUwNTcsLTMz
+NDQ5NzA4NCwyMTE5NDk3ODk3LDE1Mzg3OTIzNCwtMTc1NTQxOT
+k4NiwyMDc4Njg2ODczLDE0MzU5NjY5MzcsNTIwMzEyNzExLC0z
+NzM2NTg0ODldfQ==
 -->
