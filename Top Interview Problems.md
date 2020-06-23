@@ -567,12 +567,14 @@ this is is pretty straight forward. Use the first word as a base, compare with a
 
 ### [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 Defining uniqueness we use hashmap a lot.
+
+### [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjIyNzAxOTgsMTk3MjQ4OTYyOCwtOT
-U0ODQ4NTM2LC0xMjk0NzI4MzkwLDIwMzg1MTMxMzYsMTU5OTEy
-NzU5OSwxOTc5MTA3ODU5LC0xNzc3ODUxMjAyLC0xODUyODc1MD
-U3LC0zMzQ0OTcwODQsMjExOTQ5Nzg5NywxNTM4NzkyMzQsLTE3
-NTU0MTk5ODYsMjA3ODY4Njg3MywxNDM1OTY2OTM3LDUyMDMxMj
-cxMSwtMzczNjU4NDg5LDE1ODY3NDA1ODcsMzAzODkzMDE3LDEw
-MTc0MTE1MjVdfQ==
+eyJoaXN0b3J5IjpbMTI5ODkzNzI5MSwtMTAyMjI3MDE5OCwxOT
+cyNDg5NjI4LC05NTQ4NDg1MzYsLTEyOTQ3MjgzOTAsMjAzODUx
+MzEzNiwxNTk5MTI3NTk5LDE5NzkxMDc4NTksLTE3Nzc4NTEyMD
+IsLTE4NTI4NzUwNTcsLTMzNDQ5NzA4NCwyMTE5NDk3ODk3LDE1
+Mzg3OTIzNCwtMTc1NTQxOTk4NiwyMDc4Njg2ODczLDE0MzU5Nj
+Y5MzcsNTIwMzEyNzExLC0zNzM2NTg0ODksMTU4Njc0MDU4Nywz
+MDM4OTMwMTddfQ==
 -->
