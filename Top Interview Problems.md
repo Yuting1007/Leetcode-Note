@@ -555,10 +555,12 @@ Two pointers(left & right)
 `(s[right] + 32 - 'a') % 32)`
 
 ### [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
-new data
+new data structure needed
+
+### [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTE4ODY2NywxNTk5MTI3NTk5LDE5Nz
+eyJoaXN0b3J5IjpbLTgzMDE2NDE2MywxNTk5MTI3NTk5LDE5Nz
 kxMDc4NTksLTE3Nzc4NTEyMDIsLTE4NTI4NzUwNTcsLTMzNDQ5
 NzA4NCwyMTE5NDk3ODk3LDE1Mzg3OTIzNCwtMTc1NTQxOTk4Ni
 wyMDc4Njg2ODczLDE0MzU5NjY5MzcsNTIwMzEyNzExLC0zNzM2
