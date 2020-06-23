@@ -559,13 +559,13 @@ new data structure needed
 
 ### [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 I remembered I have watched a video about these kind of question (sorted in both row and col).
-The way for 
+The way for solving this sort of question is that, we start at the right upper corner or left dottom corner, then BS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODUxMzEzNiwxNTk5MTI3NTk5LDE5Nz
-kxMDc4NTksLTE3Nzc4NTEyMDIsLTE4NTI4NzUwNTcsLTMzNDQ5
-NzA4NCwyMTE5NDk3ODk3LDE1Mzg3OTIzNCwtMTc1NTQxOTk4Ni
-wyMDc4Njg2ODczLDE0MzU5NjY5MzcsNTIwMzEyNzExLC0zNzM2
-NTg0ODksMTU4Njc0MDU4NywzMDM4OTMwMTcsMTAxNzQxMTUyNS
-w2MzAxMzAyNTEsLTE5NzIwNzU5ODcsMTAzNDYyOTA1MSwtMTMw
-MTcyNDYyMF19
+eyJoaXN0b3J5IjpbMTYwMTQxOTU4MywyMDM4NTEzMTM2LDE1OT
+kxMjc1OTksMTk3OTEwNzg1OSwtMTc3Nzg1MTIwMiwtMTg1Mjg3
+NTA1NywtMzM0NDk3MDg0LDIxMTk0OTc4OTcsMTUzODc5MjM0LC
+0xNzU1NDE5OTg2LDIwNzg2ODY4NzMsMTQzNTk2NjkzNyw1MjAz
+MTI3MTEsLTM3MzY1ODQ4OSwxNTg2NzQwNTg3LDMwMzg5MzAxNy
+wxMDE3NDExNTI1LDYzMDEzMDI1MSwtMTk3MjA3NTk4NywxMDM0
+NjI5MDUxXX0=
 -->
