@@ -563,13 +563,13 @@ The way for solving this sort of question is that, we start at the right upper c
 
 ### [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 题外话: 有时候string, array的问题 遇到什么最值 或者是 in-place解决的东西, 试试加上pointer with meaning
-this is is pretty straight forward
+this is is pretty straight forward. Use the first word as a base, compare with all other word at the same place
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQxNDIxMDEsLTk1NDg0ODUzNiwtMT
-I5NDcyODM5MCwyMDM4NTEzMTM2LDE1OTkxMjc1OTksMTk3OTEw
-Nzg1OSwtMTc3Nzg1MTIwMiwtMTg1Mjg3NTA1NywtMzM0NDk3MD
-g0LDIxMTk0OTc4OTcsMTUzODc5MjM0LC0xNzU1NDE5OTg2LDIw
-Nzg2ODY4NzMsMTQzNTk2NjkzNyw1MjAzMTI3MTEsLTM3MzY1OD
-Q4OSwxNTg2NzQwNTg3LDMwMzg5MzAxNywxMDE3NDExNTI1LDYz
-MDEzMDI1MV19
+eyJoaXN0b3J5IjpbLTk1Nzk1OTY2NiwtOTU0ODQ4NTM2LC0xMj
+k0NzI4MzkwLDIwMzg1MTMxMzYsMTU5OTEyNzU5OSwxOTc5MTA3
+ODU5LC0xNzc3ODUxMjAyLC0xODUyODc1MDU3LC0zMzQ0OTcwOD
+QsMjExOTQ5Nzg5NywxNTM4NzkyMzQsLTE3NTU0MTk5ODYsMjA3
+ODY4Njg3MywxNDM1OTY2OTM3LDUyMDMxMjcxMSwtMzczNjU4ND
+g5LDE1ODY3NDA1ODcsMzAzODkzMDE3LDEwMTc0MTE1MjUsNjMw
+MTMwMjUxXX0=
 -->
