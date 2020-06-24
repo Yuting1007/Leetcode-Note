@@ -617,12 +617,14 @@ I prefer this solution, use inverse number (offset).
 这道题还有迭代的解法，让i初始化为n，然后看i是否是2的倍数，不是的话就让 res 乘以x。然后x乘以自己，i每次循环缩小一半，直到为0停止循环。最后看n的正负，如果为负，返回其倒数
 
 ### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+another optimization question => greedy, dp or special pointer!!
+Use dp in this case, think about the ne
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDI0MjA4MiwxNTEyMDMzNTk0LDE0Nj
-YzMTA3NzYsLTMwOTY0OTQ3MiwtMTIzNTQ2MDU0LDE1OTE1MDMz
-MjQsODM1OTY3MzY2LDEyOTg5MzcyOTEsLTEwMjIyNzAxOTgsMT
-k3MjQ4OTYyOCwtOTU0ODQ4NTM2LC0xMjk0NzI4MzkwLDIwMzg1
-MTMxMzYsMTU5OTEyNzU5OSwxOTc5MTA3ODU5LC0xNzc3ODUxMj
-AyLC0xODUyODc1MDU3LC0zMzQ0OTcwODQsMjExOTQ5Nzg5Nywx
-NTM4NzkyMzRdfQ==
+eyJoaXN0b3J5IjpbMTQxNTkzMDU2NywxNDM0MjQyMDgyLDE1MT
+IwMzM1OTQsMTQ2NjMxMDc3NiwtMzA5NjQ5NDcyLC0xMjM1NDYw
+NTQsMTU5MTUwMzMyNCw4MzU5NjczNjYsMTI5ODkzNzI5MSwtMT
+AyMjI3MDE5OCwxOTcyNDg5NjI4LC05NTQ4NDg1MzYsLTEyOTQ3
+MjgzOTAsMjAzODUxMzEzNiwxNTk5MTI3NTk5LDE5NzkxMDc4NT
+ksLTE3Nzc4NTEyMDIsLTE4NTI4NzUwNTcsLTMzNDQ5NzA4NCwy
+MTE5NDk3ODk3XX0=
 -->
