@@ -627,13 +627,13 @@ Use dp in this case, think about the negative and positive properties of numbers
  }
 ```
 **contiguous sequence**
-If encounter to this property, think about this: For each number, we have two options, 
+If encounter to this property, think about this: For each number, we have two options, including it (recursion) or not (abandon the previous one, start at the current point)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5NTAwMjY4LDE0MzQyNDIwODIsMTUxMj
-AzMzU5NCwxNDY2MzEwNzc2LC0zMDk2NDk0NzIsLTEyMzU0NjA1
-NCwxNTkxNTAzMzI0LDgzNTk2NzM2NiwxMjk4OTM3MjkxLC0xMD
-IyMjcwMTk4LDE5NzI0ODk2MjgsLTk1NDg0ODUzNiwtMTI5NDcy
-ODM5MCwyMDM4NTEzMTM2LDE1OTkxMjc1OTksMTk3OTEwNzg1OS
-wtMTc3Nzg1MTIwMiwtMTg1Mjg3NTA1NywtMzM0NDk3MDg0LDIx
-MTk0OTc4OTddfQ==
+eyJoaXN0b3J5IjpbLTE0MjEzNTQyMzgsMjU5NTAwMjY4LDE0Mz
+QyNDIwODIsMTUxMjAzMzU5NCwxNDY2MzEwNzc2LC0zMDk2NDk0
+NzIsLTEyMzU0NjA1NCwxNTkxNTAzMzI0LDgzNTk2NzM2NiwxMj
+k4OTM3MjkxLC0xMDIyMjcwMTk4LDE5NzI0ODk2MjgsLTk1NDg0
+ODUzNiwtMTI5NDcyODM5MCwyMDM4NTEzMTM2LDE1OTkxMjc1OT
+ksMTk3OTEwNzg1OSwtMTc3Nzg1MTIwMiwtMTg1Mjg3NTA1Nywt
+MzM0NDk3MDg0XX0=
 -->
