@@ -618,9 +618,18 @@ I prefer this solution, use inverse number (offset).
 
 ### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 another optimization question => greedy, dp or special pointer!!
-Use dp in this case, think about the ne
+Use dp in this case, think about the negative and positive properties of numbers
+```
+ for(int i = 1; i < n; i++){
+     maxDP[i] = max(max(maxDP[i-1]*nums[i], minDP[i-1]*nums[i]), nums[i]);
+     minDP[i] = min(min(maxDP[i-1]*nums[i], minDP[i-1]*nums[i]), nums[i]);   
+     res = max(maxDP[i], res);
+ }
+```
+**contiguous sequence**
+If encounter to this property, think about this:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTkzMDU2NywxNDM0MjQyMDgyLDE1MT
+eyJoaXN0b3J5IjpbMTIxOTI1NzgxMywxNDM0MjQyMDgyLDE1MT
 IwMzM1OTQsMTQ2NjMxMDc3NiwtMzA5NjQ5NDcyLC0xMjM1NDYw
 NTQsMTU5MTUwMzMyNCw4MzU5NjczNjYsMTI5ODkzNzI5MSwtMT
 AyMjI3MDE5OCwxOTcyNDg5NjI4LC05NTQ4NDg1MzYsLTEyOTQ3
