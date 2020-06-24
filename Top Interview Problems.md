@@ -627,13 +627,13 @@ Use dp in this case, think about the negative and positive properties of numbers
  }
 ```
 **contiguous sequence**
-If encounter to this property, think about this:
+If encounter to this property, think about this: For each number, we have two options, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTI1NzgxMywxNDM0MjQyMDgyLDE1MT
-IwMzM1OTQsMTQ2NjMxMDc3NiwtMzA5NjQ5NDcyLC0xMjM1NDYw
-NTQsMTU5MTUwMzMyNCw4MzU5NjczNjYsMTI5ODkzNzI5MSwtMT
-AyMjI3MDE5OCwxOTcyNDg5NjI4LC05NTQ4NDg1MzYsLTEyOTQ3
-MjgzOTAsMjAzODUxMzEzNiwxNTk5MTI3NTk5LDE5NzkxMDc4NT
-ksLTE3Nzc4NTEyMDIsLTE4NTI4NzUwNTcsLTMzNDQ5NzA4NCwy
-MTE5NDk3ODk3XX0=
+eyJoaXN0b3J5IjpbMjU5NTAwMjY4LDE0MzQyNDIwODIsMTUxMj
+AzMzU5NCwxNDY2MzEwNzc2LC0zMDk2NDk0NzIsLTEyMzU0NjA1
+NCwxNTkxNTAzMzI0LDgzNTk2NzM2NiwxMjk4OTM3MjkxLC0xMD
+IyMjcwMTk4LDE5NzI0ODk2MjgsLTk1NDg0ODUzNiwtMTI5NDcy
+ODM5MCwyMDM4NTEzMTM2LDE1OTkxMjc1OTksMTk3OTEwNzg1OS
+wtMTc3Nzg1MTIwMiwtMTg1Mjg3NTA1NywtMzM0NDk3MDg0LDIx
+MTk0OTc4OTddfQ==
 -->
