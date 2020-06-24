@@ -590,12 +590,34 @@ dp is always like, using previous state to update the current one. While in this
 ### [348. Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)
 **DESIGN CLASS**
 [Notes](https://www.cnblogs.com/grandyang/p/5467118.html)
+```
+class TicTacToe {
+public:
+    /** Initialize your data structure here. */
+    TicTacToe(int n): rows(n), cols(n), N(n), diag(0), rev_diag(0) {}
+
+    int move(int row, int col, int player) {
+        int add = player == 1 ? 1 : -1;
+        rows[row] += add; 
+        cols[col] += add;
+        diag += (row == col ? add : 0);
+        rev_diag += (row == N - col - 1 ? add : 0);
+        return (abs(rows[row]) == N || abs(cols[col]) == N || abs(diag) == N || abs(rev_diag) == N) ? player : 0;
+    }
+
+private:
+    vector<int> rows, cols;
+    int diag, rev_diag, N;
+};
+```
+I prefer this solution, use inverse number (offset).
+如果
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjMxMDc3NiwtMzA5NjQ5NDcyLC0xMj
-M1NDYwNTQsMTU5MTUwMzMyNCw4MzU5NjczNjYsMTI5ODkzNzI5
-MSwtMTAyMjI3MDE5OCwxOTcyNDg5NjI4LC05NTQ4NDg1MzYsLT
-EyOTQ3MjgzOTAsMjAzODUxMzEzNiwxNTk5MTI3NTk5LDE5Nzkx
-MDc4NTksLTE3Nzc4NTEyMDIsLTE4NTI4NzUwNTcsLTMzNDQ5Nz
-A4NCwyMTE5NDk3ODk3LDE1Mzg3OTIzNCwtMTc1NTQxOTk4Niwy
-MDc4Njg2ODczXX0=
+eyJoaXN0b3J5IjpbLTE0MjI2NzI1MDMsMTQ2NjMxMDc3NiwtMz
+A5NjQ5NDcyLC0xMjM1NDYwNTQsMTU5MTUwMzMyNCw4MzU5Njcz
+NjYsMTI5ODkzNzI5MSwtMTAyMjI3MDE5OCwxOTcyNDg5NjI4LC
+05NTQ4NDg1MzYsLTEyOTQ3MjgzOTAsMjAzODUxMzEzNiwxNTk5
+MTI3NTk5LDE5NzkxMDc4NTksLTE3Nzc4NTEyMDIsLTE4NTI4Nz
+UwNTcsLTMzNDQ5NzA4NCwyMTE5NDk3ODk3LDE1Mzg3OTIzNCwt
+MTc1NTQxOTk4Nl19
 -->
