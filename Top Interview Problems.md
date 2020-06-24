@@ -616,9 +616,9 @@ I prefer this solution, use inverse number (offset).
 ### [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)
 这道题还有迭代的解法，让i初始化为n，然后看i是否是2的倍数，不是的话就让 res 乘以x。然后x乘以自己，i每次循环缩小一半，直到为0停止循环。最后看n的正负，如果为负，返回其倒数
 
-### [152. Maximum Product Subarray][https://leetcode.com/problems/maximum-product-subarray/](https://leetcode.com/problems/maximum-product-subarray/)
+### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Nzg4NTQ1NiwxNTEyMDMzNTk0LDE0Nj
+eyJoaXN0b3J5IjpbMTQzNDI0MjA4MiwxNTEyMDMzNTk0LDE0Nj
 YzMTA3NzYsLTMwOTY0OTQ3MiwtMTIzNTQ2MDU0LDE1OTE1MDMz
 MjQsODM1OTY3MzY2LDEyOTg5MzcyOTEsLTEwMjIyNzAxOTgsMT
 k3MjQ4OTYyOCwtOTU0ODQ4NTM2LC0xMjk0NzI4MzkwLDIwMzg1
