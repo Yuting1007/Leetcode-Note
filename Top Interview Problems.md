@@ -642,12 +642,14 @@ It is asking for iteration.  We could as a stack to assist iteration.
 我目前的想法: 排序然后找 但是这样肯定会超时
 解题的想法应该是: 先BF, big O, 然后分析inefficiency (也就是找找看有哪些重复工作), 在思考如何改进
 [花花](https://www.youtube.com/watch?v=rc2QdQ7U78I)
+
+### [204. Count Primes](https://leetcode.com/problems/count-primes/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODA4NzA5LDE5MDU3MzYxNjksLTE2OT
-c0NTk4MDYsLTU1ODY5MDc4NiwtNzAyMjQ1MjM5LDQxOTk3MjEz
-MywxODkxMDk3MzQzLC0xNDIxMzU0MjM4LDI1OTUwMDI2OCwxND
-M0MjQyMDgyLDE1MTIwMzM1OTQsMTQ2NjMxMDc3NiwtMzA5NjQ5
-NDcyLC0xMjM1NDYwNTQsMTU5MTUwMzMyNCw4MzU5NjczNjYsMT
-I5ODkzNzI5MSwtMTAyMjI3MDE5OCwxOTcyNDg5NjI4LC05NTQ4
-NDg1MzZdfQ==
+eyJoaXN0b3J5IjpbNzY4NjMzMjQwLDEwMDgwODcwOSwxOTA1Nz
+M2MTY5LC0xNjk3NDU5ODA2LC01NTg2OTA3ODYsLTcwMjI0NTIz
+OSw0MTk5NzIxMzMsMTg5MTA5NzM0MywtMTQyMTM1NDIzOCwyNT
+k1MDAyNjgsMTQzNDI0MjA4MiwxNTEyMDMzNTk0LDE0NjYzMTA3
+NzYsLTMwOTY0OTQ3MiwtMTIzNTQ2MDU0LDE1OTE1MDMzMjQsOD
+M1OTY3MzY2LDEyOTg5MzcyOTEsLTEwMjIyNzAxOTgsMTk3MjQ4
+OTYyOF19
 -->
