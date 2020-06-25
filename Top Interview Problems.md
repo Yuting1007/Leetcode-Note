@@ -641,13 +641,13 @@ It is asking for iteration.  We could as a stack to assist iteration.
 ### [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 我目前的想法: 排序然后找 但是这样肯定会超时
 解题的想法应该是: 先BF, big O, 然后分析inefficiency (也就是找找看有哪些重复工作), 在思考如何改进
-hua'hua
+[花花](https://www.youtube.com/watch?v=rc2QdQ7U78I)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTc2MzQ5MiwxOTA1NzM2MTY5LC0xNj
-k3NDU5ODA2LC01NTg2OTA3ODYsLTcwMjI0NTIzOSw0MTk5NzIx
-MzMsMTg5MTA5NzM0MywtMTQyMTM1NDIzOCwyNTk1MDAyNjgsMT
-QzNDI0MjA4MiwxNTEyMDMzNTk0LDE0NjYzMTA3NzYsLTMwOTY0
-OTQ3MiwtMTIzNTQ2MDU0LDE1OTE1MDMzMjQsODM1OTY3MzY2LD
-EyOTg5MzcyOTEsLTEwMjIyNzAxOTgsMTk3MjQ4OTYyOCwtOTU0
-ODQ4NTM2XX0=
+eyJoaXN0b3J5IjpbMTAwODA4NzA5LDE5MDU3MzYxNjksLTE2OT
+c0NTk4MDYsLTU1ODY5MDc4NiwtNzAyMjQ1MjM5LDQxOTk3MjEz
+MywxODkxMDk3MzQzLC0xNDIxMzU0MjM4LDI1OTUwMDI2OCwxND
+M0MjQyMDgyLDE1MTIwMzM1OTQsMTQ2NjMxMDc3NiwtMzA5NjQ5
+NDcyLC0xMjM1NDYwNTQsMTU5MTUwMzMyNCw4MzU5NjczNjYsMT
+I5ODkzNzI5MSwtMTAyMjI3MDE5OCwxOTcyNDg5NjI4LC05NTQ4
+NDg1MzZdfQ==
 -->
