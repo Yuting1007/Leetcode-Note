@@ -630,12 +630,14 @@ Use dp in this case, think about the negative and positive properties of numbers
 If encounter to this property, think about this: For each number, we have two options, including it (recursion) or not (abandon the previous one, start at the current point)
 
 ### [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
+**DESIGN**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTA5NzM0MywtMTQyMTM1NDIzOCwyNT
-k1MDAyNjgsMTQzNDI0MjA4MiwxNTEyMDMzNTk0LDE0NjYzMTA3
-NzYsLTMwOTY0OTQ3MiwtMTIzNTQ2MDU0LDE1OTE1MDMzMjQsOD
-M1OTY3MzY2LDEyOTg5MzcyOTEsLTEwMjIyNzAxOTgsMTk3MjQ4
-OTYyOCwtOTU0ODQ4NTM2LC0xMjk0NzI4MzkwLDIwMzg1MTMxMz
-YsMTU5OTEyNzU5OSwxOTc5MTA3ODU5LC0xNzc3ODUxMjAyLC0x
-ODUyODc1MDU3XX0=
+eyJoaXN0b3J5IjpbMTM3ODA5NDYyMSwxODkxMDk3MzQzLC0xND
+IxMzU0MjM4LDI1OTUwMDI2OCwxNDM0MjQyMDgyLDE1MTIwMzM1
+OTQsMTQ2NjMxMDc3NiwtMzA5NjQ5NDcyLC0xMjM1NDYwNTQsMT
+U5MTUwMzMyNCw4MzU5NjczNjYsMTI5ODkzNzI5MSwtMTAyMjI3
+MDE5OCwxOTcyNDg5NjI4LC05NTQ4NDg1MzYsLTEyOTQ3MjgzOT
+AsMjAzODUxMzEzNiwxNTk5MTI3NTk5LDE5NzkxMDc4NTksLTE3
+Nzc4NTEyMDJdfQ==
 -->
