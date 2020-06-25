@@ -628,12 +628,14 @@ Use dp in this case, think about the negative and positive properties of numbers
 ```
 **contiguous sequence**
 If encounter to this property, think about this: For each number, we have two options, including it (recursion) or not (abandon the previous one, start at the current point)
+
+### [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjEzNTQyMzgsMjU5NTAwMjY4LDE0Mz
-QyNDIwODIsMTUxMjAzMzU5NCwxNDY2MzEwNzc2LC0zMDk2NDk0
-NzIsLTEyMzU0NjA1NCwxNTkxNTAzMzI0LDgzNTk2NzM2NiwxMj
-k4OTM3MjkxLC0xMDIyMjcwMTk4LDE5NzI0ODk2MjgsLTk1NDg0
-ODUzNiwtMTI5NDcyODM5MCwyMDM4NTEzMTM2LDE1OTkxMjc1OT
-ksMTk3OTEwNzg1OSwtMTc3Nzg1MTIwMiwtMTg1Mjg3NTA1Nywt
-MzM0NDk3MDg0XX0=
+eyJoaXN0b3J5IjpbMTg5MTA5NzM0MywtMTQyMTM1NDIzOCwyNT
+k1MDAyNjgsMTQzNDI0MjA4MiwxNTEyMDMzNTk0LDE0NjYzMTA3
+NzYsLTMwOTY0OTQ3MiwtMTIzNTQ2MDU0LDE1OTE1MDMzMjQsOD
+M1OTY3MzY2LDEyOTg5MzcyOTEsLTEwMjIyNzAxOTgsMTk3MjQ4
+OTYyOCwtOTU0ODQ4NTM2LC0xMjk0NzI4MzkwLDIwMzg1MTMxMz
+YsMTU5OTEyNzU5OSwxOTc5MTA3ODU5LC0xNzc3ODUxMjAyLC0x
+ODUyODc1MDU3XX0=
 -->
