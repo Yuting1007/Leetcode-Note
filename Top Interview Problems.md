@@ -631,13 +631,13 @@ If encounter to this property, think about this: For each number, we have two op
 
 ### [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 **DESIGN**
-It is asking for iteration.  We could as a stack 
+It is asking for iteration.  We could as a stack to assist iteration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5OTcyMTMzLDE4OTEwOTczNDMsLTE0Mj
-EzNTQyMzgsMjU5NTAwMjY4LDE0MzQyNDIwODIsMTUxMjAzMzU5
-NCwxNDY2MzEwNzc2LC0zMDk2NDk0NzIsLTEyMzU0NjA1NCwxNT
-kxNTAzMzI0LDgzNTk2NzM2NiwxMjk4OTM3MjkxLC0xMDIyMjcw
-MTk4LDE5NzI0ODk2MjgsLTk1NDg0ODUzNiwtMTI5NDcyODM5MC
-wyMDM4NTEzMTM2LDE1OTkxMjc1OTksMTk3OTEwNzg1OSwtMTc3
-Nzg1MTIwMl19
+eyJoaXN0b3J5IjpbMTA1MTk5Mjk2NCw0MTk5NzIxMzMsMTg5MT
+A5NzM0MywtMTQyMTM1NDIzOCwyNTk1MDAyNjgsMTQzNDI0MjA4
+MiwxNTEyMDMzNTk0LDE0NjYzMTA3NzYsLTMwOTY0OTQ3MiwtMT
+IzNTQ2MDU0LDE1OTE1MDMzMjQsODM1OTY3MzY2LDEyOTg5Mzcy
+OTEsLTEwMjIyNzAxOTgsMTk3MjQ4OTYyOCwtOTU0ODQ4NTM2LC
+0xMjk0NzI4MzkwLDIwMzg1MTMxMzYsMTU5OTEyNzU5OSwxOTc5
+MTA3ODU5XX0=
 -->
