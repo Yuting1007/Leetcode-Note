@@ -640,12 +640,13 @@ It is asking for iteration.  We could as a stack to assist iteration.
 
 ### [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 我目前的想法: 排序然后找 但是这样肯定会超时
+解题的想法应该是: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc0NTk4MDYsLTU1ODY5MDc4NiwtNz
-AyMjQ1MjM5LDQxOTk3MjEzMywxODkxMDk3MzQzLC0xNDIxMzU0
-MjM4LDI1OTUwMDI2OCwxNDM0MjQyMDgyLDE1MTIwMzM1OTQsMT
-Q2NjMxMDc3NiwtMzA5NjQ5NDcyLC0xMjM1NDYwNTQsMTU5MTUw
-MzMyNCw4MzU5NjczNjYsMTI5ODkzNzI5MSwtMTAyMjI3MDE5OC
-wxOTcyNDg5NjI4LC05NTQ4NDg1MzYsLTEyOTQ3MjgzOTAsMjAz
-ODUxMzEzNl19
+eyJoaXN0b3J5IjpbLTMxODEyOTI4MywtMTY5NzQ1OTgwNiwtNT
+U4NjkwNzg2LC03MDIyNDUyMzksNDE5OTcyMTMzLDE4OTEwOTcz
+NDMsLTE0MjEzNTQyMzgsMjU5NTAwMjY4LDE0MzQyNDIwODIsMT
+UxMjAzMzU5NCwxNDY2MzEwNzc2LC0zMDk2NDk0NzIsLTEyMzU0
+NjA1NCwxNTkxNTAzMzI0LDgzNTk2NzM2NiwxMjk4OTM3MjkxLC
+0xMDIyMjcwMTk4LDE5NzI0ODk2MjgsLTk1NDg0ODUzNiwtMTI5
+NDcyODM5MF19
 -->
