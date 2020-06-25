@@ -631,9 +631,9 @@ If encounter to this property, think about this: For each number, we have two op
 
 ### [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 **DESIGN**
-It is asking for iteration. 
+It is asking for iteration.  We could as a stack 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1OTIyODQzLDE4OTEwOTczNDMsLTE0Mj
+eyJoaXN0b3J5IjpbNDE5OTcyMTMzLDE4OTEwOTczNDMsLTE0Mj
 EzNTQyMzgsMjU5NTAwMjY4LDE0MzQyNDIwODIsMTUxMjAzMzU5
 NCwxNDY2MzEwNzc2LC0zMDk2NDk0NzIsLTEyMzU0NjA1NCwxNT
 kxNTAzMzI0LDgzNTk2NzM2NiwxMjk4OTM3MjkxLC0xMDIyMjcw
