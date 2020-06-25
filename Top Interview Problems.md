@@ -637,12 +637,14 @@ Main function : initiate the data structre
 ```
 It is asking for iteration.  We could as a stack to assist iteration.
 每层都押入栈 nested在hasNext的时候压入
+
+### [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjI0NTIzOSw0MTk5NzIxMzMsMTg5MT
-A5NzM0MywtMTQyMTM1NDIzOCwyNTk1MDAyNjgsMTQzNDI0MjA4
-MiwxNTEyMDMzNTk0LDE0NjYzMTA3NzYsLTMwOTY0OTQ3MiwtMT
-IzNTQ2MDU0LDE1OTE1MDMzMjQsODM1OTY3MzY2LDEyOTg5Mzcy
-OTEsLTEwMjIyNzAxOTgsMTk3MjQ4OTYyOCwtOTU0ODQ4NTM2LC
-0xMjk0NzI4MzkwLDIwMzg1MTMxMzYsMTU5OTEyNzU5OSwxOTc5
-MTA3ODU5XX0=
+eyJoaXN0b3J5IjpbLTU1ODY5MDc4NiwtNzAyMjQ1MjM5LDQxOT
+k3MjEzMywxODkxMDk3MzQzLC0xNDIxMzU0MjM4LDI1OTUwMDI2
+OCwxNDM0MjQyMDgyLDE1MTIwMzM1OTQsMTQ2NjMxMDc3NiwtMz
+A5NjQ5NDcyLC0xMjM1NDYwNTQsMTU5MTUwMzMyNCw4MzU5Njcz
+NjYsMTI5ODkzNzI5MSwtMTAyMjI3MDE5OCwxOTcyNDg5NjI4LC
+05NTQ4NDg1MzYsLTEyOTQ3MjgzOTAsMjAzODUxMzEzNiwxNTk5
+MTI3NTk5XX0=
 -->
