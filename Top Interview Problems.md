@@ -640,9 +640,9 @@ It is asking for iteration.  We could as a stack to assist iteration.
 
 ### [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 我目前的想法: 排序然后找 但是这样肯定会超时
-解题的想法应该是: 
+解题的想法应该是: 先BF, big O, 然后分析inefficiency (也就是找找看有哪些重复工作), 在思考如何改进
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODEyOTI4MywtMTY5NzQ1OTgwNiwtNT
+eyJoaXN0b3J5IjpbMTkwNTczNjE2OSwtMTY5NzQ1OTgwNiwtNT
 U4NjkwNzg2LC03MDIyNDUyMzksNDE5OTcyMTMzLDE4OTEwOTcz
 NDMsLTE0MjEzNTQyMzgsMjU5NTAwMjY4LDE0MzQyNDIwODIsMT
 UxMjAzMzU5NCwxNDY2MzEwNzc2LC0zMDk2NDk0NzIsLTEyMzU0
