@@ -639,12 +639,13 @@ It is asking for iteration.  We could as a stack to assist iteration.
 每层都押入栈 nested在hasNext的时候压入
 
 ### [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+我目前的想法: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODY5MDc4NiwtNzAyMjQ1MjM5LDQxOT
-k3MjEzMywxODkxMDk3MzQzLC0xNDIxMzU0MjM4LDI1OTUwMDI2
-OCwxNDM0MjQyMDgyLDE1MTIwMzM1OTQsMTQ2NjMxMDc3NiwtMz
-A5NjQ5NDcyLC0xMjM1NDYwNTQsMTU5MTUwMzMyNCw4MzU5Njcz
-NjYsMTI5ODkzNzI5MSwtMTAyMjI3MDE5OCwxOTcyNDg5NjI4LC
-05NTQ4NDg1MzYsLTEyOTQ3MjgzOTAsMjAzODUxMzEzNiwxNTk5
-MTI3NTk5XX0=
+eyJoaXN0b3J5IjpbLTE4NDM3NTA5NjAsLTU1ODY5MDc4NiwtNz
+AyMjQ1MjM5LDQxOTk3MjEzMywxODkxMDk3MzQzLC0xNDIxMzU0
+MjM4LDI1OTUwMDI2OCwxNDM0MjQyMDgyLDE1MTIwMzM1OTQsMT
+Q2NjMxMDc3NiwtMzA5NjQ5NDcyLC0xMjM1NDYwNTQsMTU5MTUw
+MzMyNCw4MzU5NjczNjYsMTI5ODkzNzI5MSwtMTAyMjI3MDE5OC
+wxOTcyNDg5NjI4LC05NTQ4NDg1MzYsLTEyOTQ3MjgzOTAsMjAz
+ODUxMzEzNl19
 -->
