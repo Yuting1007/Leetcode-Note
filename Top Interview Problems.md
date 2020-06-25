@@ -634,12 +634,11 @@ If encounter to this property, think about this: For each number, we have two op
 ```
 Private : the data structure (could be something for assisting or container)
 Main function : initiate the data structre
-
 ```
 It is asking for iteration.  We could as a stack to assist iteration.
-
+每层都押入栈 nested在hasNext的时候压入
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDk4NzA1Nyw0MTk5NzIxMzMsMTg5MT
+eyJoaXN0b3J5IjpbLTcwMjI0NTIzOSw0MTk5NzIxMzMsMTg5MT
 A5NzM0MywtMTQyMTM1NDIzOCwyNTk1MDAyNjgsMTQzNDI0MjA4
 MiwxNTEyMDMzNTk0LDE0NjYzMTA3NzYsLTMwOTY0OTQ3MiwtMT
 IzNTQ2MDU0LDE1OTE1MDMzMjQsODM1OTY3MzY2LDEyOTg5Mzcy
