@@ -632,16 +632,18 @@ If encounter to this property, think about this: For each number, we have two op
 ### [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 **DESIGN**
 ```
-Private : the data structure (could be somethin
+Private : the data structure (could be something for assisting or container)
+Main function : initiate the data structre
+
 ```
 It is asking for iteration.  We could as a stack to assist iteration.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxOTc2NjI4LDQxOTk3MjEzMywxODkxMD
-k3MzQzLC0xNDIxMzU0MjM4LDI1OTUwMDI2OCwxNDM0MjQyMDgy
-LDE1MTIwMzM1OTQsMTQ2NjMxMDc3NiwtMzA5NjQ5NDcyLC0xMj
-M1NDYwNTQsMTU5MTUwMzMyNCw4MzU5NjczNjYsMTI5ODkzNzI5
-MSwtMTAyMjI3MDE5OCwxOTcyNDg5NjI4LC05NTQ4NDg1MzYsLT
-EyOTQ3MjgzOTAsMjAzODUxMzEzNiwxNTk5MTI3NTk5LDE5Nzkx
-MDc4NTldfQ==
+eyJoaXN0b3J5IjpbMTMyNDk4NzA1Nyw0MTk5NzIxMzMsMTg5MT
+A5NzM0MywtMTQyMTM1NDIzOCwyNTk1MDAyNjgsMTQzNDI0MjA4
+MiwxNTEyMDMzNTk0LDE0NjYzMTA3NzYsLTMwOTY0OTQ3MiwtMT
+IzNTQ2MDU0LDE1OTE1MDMzMjQsODM1OTY3MzY2LDEyOTg5Mzcy
+OTEsLTEwMjIyNzAxOTgsMTk3MjQ4OTYyOCwtOTU0ODQ4NTM2LC
+0xMjk0NzI4MzkwLDIwMzg1MTMxMzYsMTU5OTEyNzU5OSwxOTc5
+MTA3ODU5XX0=
 -->
