@@ -639,9 +639,9 @@ It is asking for iteration.  We could as a stack to assist iteration.
 每层都押入栈 nested在hasNext的时候压入
 
 ### [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-我目前的想法: 
+我目前的想法: 排序然后找 但是这样肯定会超时
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM3NTA5NjAsLTU1ODY5MDc4NiwtNz
+eyJoaXN0b3J5IjpbLTE2OTc0NTk4MDYsLTU1ODY5MDc4NiwtNz
 AyMjQ1MjM5LDQxOTk3MjEzMywxODkxMDk3MzQzLC0xNDIxMzU0
 MjM4LDI1OTUwMDI2OCwxNDM0MjQyMDgyLDE1MTIwMzM1OTQsMT
 Q2NjMxMDc3NiwtMzA5NjQ5NDcyLC0xMjM1NDYwNTQsMTU5MTUw
