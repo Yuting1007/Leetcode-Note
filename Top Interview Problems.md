@@ -654,8 +654,9 @@ It is asking for iteration.  We could as a stack to assist iteration.
 x^x = 0, 0^x = x
 
 ### [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2ODM5NTM1LDU4NDUyMTEwNiwxNTEwNT
+eyJoaXN0b3J5IjpbNzE0ODc4MTczLDU4NDUyMTEwNiwxNTEwNT
 UwOTY3LDE4MTUwMzg1NTAsMTAwODA4NzA5LDE5MDU3MzYxNjks
 LTE2OTc0NTk4MDYsLTU1ODY5MDc4NiwtNzAyMjQ1MjM5LDQxOT
 k3MjEzMywxODkxMDk3MzQzLC0xNDIxMzU0MjM4LDI1OTUwMDI2
