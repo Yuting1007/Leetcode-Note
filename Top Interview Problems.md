@@ -647,13 +647,15 @@ It is asking for iteration.  We could as a stack to assist iteration.
 
 我们从2开始遍历到根号n，先找到第一个质数2，然后将其所有的倍数全部标记出来，然后到下一个质数3，标记其所有倍数，一次类推，直到根号n，此时数组中未被标记的数字就是质数。我们需要一个 n-1 长度的 bool 型数组来记录每个数字是否被标记，长度为 n-1 的原因是题目说是小于n的质数个数，并不包括n
 
-这种干脆记下来好啦
+这种干脆记下来好啦!!
+
+### [136. Single Number](https://leetcode.com/problems/single-number/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDU1MDk2NywxODE1MDM4NTUwLDEwMD
-gwODcwOSwxOTA1NzM2MTY5LC0xNjk3NDU5ODA2LC01NTg2OTA3
-ODYsLTcwMjI0NTIzOSw0MTk5NzIxMzMsMTg5MTA5NzM0MywtMT
-QyMTM1NDIzOCwyNTk1MDAyNjgsMTQzNDI0MjA4MiwxNTEyMDMz
-NTk0LDE0NjYzMTA3NzYsLTMwOTY0OTQ3MiwtMTIzNTQ2MDU0LD
-E1OTE1MDMzMjQsODM1OTY3MzY2LDEyOTg5MzcyOTEsLTEwMjIy
-NzAxOThdfQ==
+eyJoaXN0b3J5IjpbNTg0NTIxMTA2LDE1MTA1NTA5NjcsMTgxNT
+AzODU1MCwxMDA4MDg3MDksMTkwNTczNjE2OSwtMTY5NzQ1OTgw
+NiwtNTU4NjkwNzg2LC03MDIyNDUyMzksNDE5OTcyMTMzLDE4OT
+EwOTczNDMsLTE0MjEzNTQyMzgsMjU5NTAwMjY4LDE0MzQyNDIw
+ODIsMTUxMjAzMzU5NCwxNDY2MzEwNzc2LC0zMDk2NDk0NzIsLT
+EyMzU0NjA1NCwxNTkxNTAzMzI0LDgzNTk2NzM2NiwxMjk4OTM3
+MjkxXX0=
 -->
