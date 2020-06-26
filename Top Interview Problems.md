@@ -656,13 +656,13 @@ x^x = 0, 0^x = x
 ### [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 [notes](https://www.cnblogs.com/grandyang/p/4389572.html)
 flip via  diagonal, then flip each row; 
-or, flip via reverse diagonal
+or, flip via reverse diagonal then flip the whole matrix
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njc3NTY4OTAsNzE0ODc4MTczLDU4ND
-UyMTEwNiwxNTEwNTUwOTY3LDE4MTUwMzg1NTAsMTAwODA4NzA5
-LDE5MDU3MzYxNjksLTE2OTc0NTk4MDYsLTU1ODY5MDc4NiwtNz
-AyMjQ1MjM5LDQxOTk3MjEzMywxODkxMDk3MzQzLC0xNDIxMzU0
-MjM4LDI1OTUwMDI2OCwxNDM0MjQyMDgyLDE1MTIwMzM1OTQsMT
-Q2NjMxMDc3NiwtMzA5NjQ5NDcyLC0xMjM1NDYwNTQsMTU5MTUw
-MzMyNF19
+eyJoaXN0b3J5IjpbNDg4Mzc0MjEzLDcxNDg3ODE3Myw1ODQ1Mj
+ExMDYsMTUxMDU1MDk2NywxODE1MDM4NTUwLDEwMDgwODcwOSwx
+OTA1NzM2MTY5LC0xNjk3NDU5ODA2LC01NTg2OTA3ODYsLTcwMj
+I0NTIzOSw0MTk5NzIxMzMsMTg5MTA5NzM0MywtMTQyMTM1NDIz
+OCwyNTk1MDAyNjgsMTQzNDI0MjA4MiwxNTEyMDMzNTk0LDE0Nj
+YzMTA3NzYsLTMwOTY0OTQ3MiwtMTIzNTQ2MDU0LDE1OTE1MDMz
+MjRdfQ==
 -->
