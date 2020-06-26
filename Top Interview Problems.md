@@ -650,12 +650,16 @@ It is asking for iteration.  We could as a stack to assist iteration.
 这种干脆记下来好啦!!
 
 ### [136. Single Number](https://leetcode.com/problems/single-number/)
+这个也是一个知识点 记住就好啦
+x^x = 0, 0^x = x
+
+### [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0NTIxMTA2LDE1MTA1NTA5NjcsMTgxNT
-AzODU1MCwxMDA4MDg3MDksMTkwNTczNjE2OSwtMTY5NzQ1OTgw
-NiwtNTU4NjkwNzg2LC03MDIyNDUyMzksNDE5OTcyMTMzLDE4OT
-EwOTczNDMsLTE0MjEzNTQyMzgsMjU5NTAwMjY4LDE0MzQyNDIw
-ODIsMTUxMjAzMzU5NCwxNDY2MzEwNzc2LC0zMDk2NDk0NzIsLT
-EyMzU0NjA1NCwxNTkxNTAzMzI0LDgzNTk2NzM2NiwxMjk4OTM3
-MjkxXX0=
+eyJoaXN0b3J5IjpbNDc2ODM5NTM1LDU4NDUyMTEwNiwxNTEwNT
+UwOTY3LDE4MTUwMzg1NTAsMTAwODA4NzA5LDE5MDU3MzYxNjks
+LTE2OTc0NTk4MDYsLTU1ODY5MDc4NiwtNzAyMjQ1MjM5LDQxOT
+k3MjEzMywxODkxMDk3MzQzLC0xNDIxMzU0MjM4LDI1OTUwMDI2
+OCwxNDM0MjQyMDgyLDE1MTIwMzM1OTQsMTQ2NjMxMDc3NiwtMz
+A5NjQ5NDcyLC0xMjM1NDYwNTQsMTU5MTUwMzMyNCw4MzU5Njcz
+NjZdfQ==
 -->
