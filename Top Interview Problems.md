@@ -654,13 +654,14 @@ It is asking for iteration.  We could as a stack to assist iteration.
 x^x = 0, 0^x = x
 
 ### [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
-no
+[notes](https://www.cnblogs.com/grandyang/p/4389572.html)
+flip via  diagonal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5NjEwNDkyLDcxNDg3ODE3Myw1ODQ1Mj
-ExMDYsMTUxMDU1MDk2NywxODE1MDM4NTUwLDEwMDgwODcwOSwx
-OTA1NzM2MTY5LC0xNjk3NDU5ODA2LC01NTg2OTA3ODYsLTcwMj
-I0NTIzOSw0MTk5NzIxMzMsMTg5MTA5NzM0MywtMTQyMTM1NDIz
-OCwyNTk1MDAyNjgsMTQzNDI0MjA4MiwxNTEyMDMzNTk0LDE0Nj
-YzMTA3NzYsLTMwOTY0OTQ3MiwtMTIzNTQ2MDU0LDE1OTE1MDMz
-MjRdfQ==
+eyJoaXN0b3J5IjpbMTUzNzA3MTcxNSw3MTQ4NzgxNzMsNTg0NT
+IxMTA2LDE1MTA1NTA5NjcsMTgxNTAzODU1MCwxMDA4MDg3MDks
+MTkwNTczNjE2OSwtMTY5NzQ1OTgwNiwtNTU4NjkwNzg2LC03MD
+IyNDUyMzksNDE5OTcyMTMzLDE4OTEwOTczNDMsLTE0MjEzNTQy
+MzgsMjU5NTAwMjY4LDE0MzQyNDIwODIsMTUxMjAzMzU5NCwxND
+Y2MzEwNzc2LC0zMDk2NDk0NzIsLTEyMzU0NjA1NCwxNTkxNTAz
+MzI0XX0=
 -->
