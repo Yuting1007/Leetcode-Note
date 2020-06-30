@@ -665,13 +665,16 @@ BF: 有一个left pointer表示左边的边界, 右边用count记录unique numbe
 改进想法 dp??
 [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
 greedy algorithm
-但是! 超时啦
+但是! 超时啦~
+O(n) 的做法是 维护一个size = k 的hashmap
+
+###3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODk3MTE2OTEsLTExOTY2MzU1MTUsNT
-A2Mjg1MTg2LDEyNDI5OTU4MzcsNDg4Mzc0MjEzLDcxNDg3ODE3
-Myw1ODQ1MjExMDYsMTUxMDU1MDk2NywxODE1MDM4NTUwLDEwMD
-gwODcwOSwxOTA1NzM2MTY5LC0xNjk3NDU5ODA2LC01NTg2OTA3
-ODYsLTcwMjI0NTIzOSw0MTk5NzIxMzMsMTg5MTA5NzM0MywtMT
-QyMTM1NDIzOCwyNTk1MDAyNjgsMTQzNDI0MjA4MiwxNTEyMDMz
-NTk0XX0=
+eyJoaXN0b3J5IjpbMTE0NTkwMTA3MCwtMjA4OTcxMTY5MSwtMT
+E5NjYzNTUxNSw1MDYyODUxODYsMTI0Mjk5NTgzNyw0ODgzNzQy
+MTMsNzE0ODc4MTczLDU4NDUyMTEwNiwxNTEwNTUwOTY3LDE4MT
+UwMzg1NTAsMTAwODA4NzA5LDE5MDU3MzYxNjksLTE2OTc0NTk4
+MDYsLTU1ODY5MDc4NiwtNzAyMjQ1MjM5LDQxOTk3MjEzMywxOD
+kxMDk3MzQzLC0xNDIxMzU0MjM4LDI1OTUwMDI2OCwxNDM0MjQy
+MDgyXX0=
 -->
