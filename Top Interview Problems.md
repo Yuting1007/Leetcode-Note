@@ -697,9 +697,9 @@ BF : O(n^2)
 *BS insert sorting*
 
 ### [78. Subsets](https://leetcode.com/problems/subsets/)
-
+This is a tipical backtracking. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Mzg4MzgxOCwtMTA4ODU1ODI5NiwtMT
+eyJoaXN0b3J5IjpbLTMyODk5ODk4OSwtMTA4ODU1ODI5NiwtMT
 IyMDM1MjI2OSwtMTQxMDE5ODUxNSwtNzg3NjI1ODE5LDEzMTI5
 Nzk0LDIzOTgwMTExMiwtMTgxMTU3NDQ1MSwtMTA3OTIyOTc5Ny
 wtMjA4OTcxMTY5MSwtMTE5NjYzNTUxNSw1MDYyODUxODYsMTI0
