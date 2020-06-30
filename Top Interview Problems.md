@@ -678,13 +678,13 @@ This is a hint for just using vector to store indegree, otherwise, a hashmap is 
 ### [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 This is a tricky one!! fast-slow pointer is easy to recap, but how can I compare them?
 Use a **stack** to reverse the order!!
-handling 
+handling **odd and even** numbers of elements in linked list is also interesting!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTQwNzQxNiwtMTgxMTU3NDQ1MSwtMT
-A3OTIyOTc5NywtMjA4OTcxMTY5MSwtMTE5NjYzNTUxNSw1MDYy
-ODUxODYsMTI0Mjk5NTgzNyw0ODgzNzQyMTMsNzE0ODc4MTczLD
-U4NDUyMTEwNiwxNTEwNTUwOTY3LDE4MTUwMzg1NTAsMTAwODA4
-NzA5LDE5MDU3MzYxNjksLTE2OTc0NTk4MDYsLTU1ODY5MDc4Ni
-wtNzAyMjQ1MjM5LDQxOTk3MjEzMywxODkxMDk3MzQzLC0xNDIx
-MzU0MjM4XX0=
+eyJoaXN0b3J5IjpbMjM5ODAxMTEyLC0xODExNTc0NDUxLC0xMD
+c5MjI5Nzk3LC0yMDg5NzExNjkxLC0xMTk2NjM1NTE1LDUwNjI4
+NTE4NiwxMjQyOTk1ODM3LDQ4ODM3NDIxMyw3MTQ4NzgxNzMsNT
+g0NTIxMTA2LDE1MTA1NTA5NjcsMTgxNTAzODU1MCwxMDA4MDg3
+MDksMTkwNTczNjE2OSwtMTY5NzQ1OTgwNiwtNTU4NjkwNzg2LC
+03MDIyNDUyMzksNDE5OTcyMTMzLDE4OTEwOTczNDMsLTE0MjEz
+NTQyMzhdfQ==
 -->
