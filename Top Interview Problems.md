@@ -698,12 +698,15 @@ BF : O(n^2)
 
 ### [78. Subsets](https://leetcode.com/problems/subsets/)
 This is a tipical backtracking. 
+[Subsets II](https://leetcode.com/problems/subsets-ii/) remove duplicates
+
+### [55. Jump Game](https://leetcode.com/problems/jump-game/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODk5ODk4OSwtMTA4ODU1ODI5NiwtMT
-IyMDM1MjI2OSwtMTQxMDE5ODUxNSwtNzg3NjI1ODE5LDEzMTI5
-Nzk0LDIzOTgwMTExMiwtMTgxMTU3NDQ1MSwtMTA3OTIyOTc5Ny
-wtMjA4OTcxMTY5MSwtMTE5NjYzNTUxNSw1MDYyODUxODYsMTI0
-Mjk5NTgzNyw0ODgzNzQyMTMsNzE0ODc4MTczLDU4NDUyMTEwNi
-wxNTEwNTUwOTY3LDE4MTUwMzg1NTAsMTAwODA4NzA5LDE5MDU3
-MzYxNjldfQ==
+eyJoaXN0b3J5IjpbLTc4OTk0NTA3NCwtMzI4OTk4OTg5LC0xMD
+g4NTU4Mjk2LC0xMjIwMzUyMjY5LC0xNDEwMTk4NTE1LC03ODc2
+MjU4MTksMTMxMjk3OTQsMjM5ODAxMTEyLC0xODExNTc0NDUxLC
+0xMDc5MjI5Nzk3LC0yMDg5NzExNjkxLC0xMTk2NjM1NTE1LDUw
+NjI4NTE4NiwxMjQyOTk1ODM3LDQ4ODM3NDIxMyw3MTQ4NzgxNz
+MsNTg0NTIxMTA2LDE1MTA1NTA5NjcsMTgxNTAzODU1MCwxMDA4
+MDg3MDldfQ==
 -->
