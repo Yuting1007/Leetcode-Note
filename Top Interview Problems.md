@@ -672,9 +672,10 @@ O(n) 的做法是 维护一个size = k 的hashmap
 有向图的遍历 => indegree, bfs(queue)
 [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
 这就是经典的拓扑排序了, 可以背下来说实话
-
+`There are a total of _n_ courses you have to take, labeled from 0 to n-1.`
+This is a hint for just using vector to store indegree, otherwise, a hashmap is needed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzUxNzEzMCwtMTA3OTIyOTc5NywtMj
+eyJoaXN0b3J5IjpbLTM1NzI2NTg2MCwtMTA3OTIyOTc5NywtMj
 A4OTcxMTY5MSwtMTE5NjYzNTUxNSw1MDYyODUxODYsMTI0Mjk5
 NTgzNyw0ODgzNzQyMTMsNzE0ODc4MTczLDU4NDUyMTEwNiwxNT
 EwNTUwOTY3LDE4MTUwMzg1NTAsMTAwODA4NzA5LDE5MDU3MzYx
