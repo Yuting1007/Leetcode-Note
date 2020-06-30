@@ -695,12 +695,14 @@ sort(nums.begin(), nums.end(), [](int a, int b) {
 BF : O(n^2)
 这题的改进方法真的没有想到, 参考了解答之后, 发现居然是用BS, 思路是将给定数组从最后一个开始，用二分法插入到一个新的数组，这样新数组就是有序的，那么此时该数字在新数组中的坐标就是原数组中其右边所有较小数字的个数.
 *BS insert sorting*
+
+### [78. Subsets](https://leetcode.com/problems/subsets/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjAzNTIyNjksLTE0MTAxOTg1MTUsLT
-c4NzYyNTgxOSwxMzEyOTc5NCwyMzk4MDExMTIsLTE4MTE1NzQ0
-NTEsLTEwNzkyMjk3OTcsLTIwODk3MTE2OTEsLTExOTY2MzU1MT
-UsNTA2Mjg1MTg2LDEyNDI5OTU4MzcsNDg4Mzc0MjEzLDcxNDg3
-ODE3Myw1ODQ1MjExMDYsMTUxMDU1MDk2NywxODE1MDM4NTUwLD
-EwMDgwODcwOSwxOTA1NzM2MTY5LC0xNjk3NDU5ODA2LC01NTg2
-OTA3ODZdfQ==
+eyJoaXN0b3J5IjpbLTEwODg1NTgyOTYsLTEyMjAzNTIyNjksLT
+E0MTAxOTg1MTUsLTc4NzYyNTgxOSwxMzEyOTc5NCwyMzk4MDEx
+MTIsLTE4MTE1NzQ0NTEsLTEwNzkyMjk3OTcsLTIwODk3MTE2OT
+EsLTExOTY2MzU1MTUsNTA2Mjg1MTg2LDEyNDI5OTU4MzcsNDg4
+Mzc0MjEzLDcxNDg3ODE3Myw1ODQ1MjExMDYsMTUxMDU1MDk2Ny
+wxODE1MDM4NTUwLDEwMDgwODcwOSwxOTA1NzM2MTY5LC0xNjk3
+NDU5ODA2XX0=
 -->
