@@ -670,13 +670,15 @@ O(n) 的做法是 维护一个size = k 的hashmap
 
 ### [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 有向图的遍历 => indegree, bfs(queue)
+[207. Course Schedule](https://leetcode.com/problems/course-schedule/)
+这就是经典的拓扑排序了, 可以背下来说实话
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTMwODcxLC0xMDc5MjI5Nzk3LC0yMD
-g5NzExNjkxLC0xMTk2NjM1NTE1LDUwNjI4NTE4NiwxMjQyOTk1
-ODM3LDQ4ODM3NDIxMyw3MTQ4NzgxNzMsNTg0NTIxMTA2LDE1MT
-A1NTA5NjcsMTgxNTAzODU1MCwxMDA4MDg3MDksMTkwNTczNjE2
-OSwtMTY5NzQ1OTgwNiwtNTU4NjkwNzg2LC03MDIyNDUyMzksND
-E5OTcyMTMzLDE4OTEwOTczNDMsLTE0MjEzNTQyMzgsMjU5NTAw
-MjY4XX0=
+eyJoaXN0b3J5IjpbLTgwNzUxNzEzMCwtMTA3OTIyOTc5NywtMj
+A4OTcxMTY5MSwtMTE5NjYzNTUxNSw1MDYyODUxODYsMTI0Mjk5
+NTgzNyw0ODgzNzQyMTMsNzE0ODc4MTczLDU4NDUyMTEwNiwxNT
+EwNTUwOTY3LDE4MTUwMzg1NTAsMTAwODA4NzA5LDE5MDU3MzYx
+NjksLTE2OTc0NTk4MDYsLTU1ODY5MDc4NiwtNzAyMjQ1MjM5LD
+QxOTk3MjEzMywxODkxMDk3MzQzLC0xNDIxMzU0MjM4LDI1OTUw
+MDI2OF19
 -->
