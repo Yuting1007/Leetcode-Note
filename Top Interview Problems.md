@@ -684,9 +684,10 @@ handling **odd and even** numbers of elements in linked list is also interesting
 我现在的想法:
 按照digits sort 就好, 也就是说自定义排序. 可以把数字转成vector嘛??
 [notes](https://www.cnblogs.com/grandyang/p/4225047.html)
-
+实际上是要把他们转换成字符串 string
+The way for creating self-defined sort is int 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2NzI2MTg1LC03ODc2MjU4MTksMTMxMj
+eyJoaXN0b3J5IjpbNjkxNDk3ODM5LC03ODc2MjU4MTksMTMxMj
 k3OTQsMjM5ODAxMTEyLC0xODExNTc0NDUxLC0xMDc5MjI5Nzk3
 LC0yMDg5NzExNjkxLC0xMTk2NjM1NTE1LDUwNjI4NTE4NiwxMj
 QyOTk1ODM3LDQ4ODM3NDIxMyw3MTQ4NzgxNzMsNTg0NTIxMTA2
