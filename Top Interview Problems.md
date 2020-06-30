@@ -676,12 +676,15 @@ O(n) 的做法是 维护一个size = k 的hashmap
 This is a hint for just using vector to store indegree, otherwise, a hashmap is needed.
 
 ### [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+This is a tricky one!! fast-slow pointer is easy to recap, but how can I compare them?
+Use a **stack** to reverse the order!!
+handling 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTE1NzQ0NTEsLTEwNzkyMjk3OTcsLT
-IwODk3MTE2OTEsLTExOTY2MzU1MTUsNTA2Mjg1MTg2LDEyNDI5
-OTU4MzcsNDg4Mzc0MjEzLDcxNDg3ODE3Myw1ODQ1MjExMDYsMT
-UxMDU1MDk2NywxODE1MDM4NTUwLDEwMDgwODcwOSwxOTA1NzM2
-MTY5LC0xNjk3NDU5ODA2LC01NTg2OTA3ODYsLTcwMjI0NTIzOS
-w0MTk5NzIxMzMsMTg5MTA5NzM0MywtMTQyMTM1NDIzOCwyNTk1
-MDAyNjhdfQ==
+eyJoaXN0b3J5IjpbMjA2OTQwNzQxNiwtMTgxMTU3NDQ1MSwtMT
+A3OTIyOTc5NywtMjA4OTcxMTY5MSwtMTE5NjYzNTUxNSw1MDYy
+ODUxODYsMTI0Mjk5NTgzNyw0ODgzNzQyMTMsNzE0ODc4MTczLD
+U4NDUyMTEwNiwxNTEwNTUwOTY3LDE4MTUwMzg1NTAsMTAwODA4
+NzA5LDE5MDU3MzYxNjksLTE2OTc0NTk4MDYsLTU1ODY5MDc4Ni
+wtNzAyMjQ1MjM5LDQxOTk3MjEzMywxODkxMDk3MzQzLC0xNDIx
+MzU0MjM4XX0=
 -->
