@@ -693,12 +693,14 @@ sort(nums.begin(), nums.end(), [](int a, int b) {
 ``` 
 ### [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 BF : O(n^2)
+这题的改进方法真的没有想到, 参考了解答之后, 发现居然是用BS, 思路是将给定数组从最后一个开始，用二分法插入到一个新的数组，这样新数组就是有序的，那么此时该数字在新数组中的坐标就是原数组中其右边所有较小数字的个数.
+*BS insert sorting*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTIyNjIwMSwtMTQxMDE5ODUxNSwtNz
-g3NjI1ODE5LDEzMTI5Nzk0LDIzOTgwMTExMiwtMTgxMTU3NDQ1
-MSwtMTA3OTIyOTc5NywtMjA4OTcxMTY5MSwtMTE5NjYzNTUxNS
-w1MDYyODUxODYsMTI0Mjk5NTgzNyw0ODgzNzQyMTMsNzE0ODc4
-MTczLDU4NDUyMTEwNiwxNTEwNTUwOTY3LDE4MTUwMzg1NTAsMT
-AwODA4NzA5LDE5MDU3MzYxNjksLTE2OTc0NTk4MDYsLTU1ODY5
-MDc4Nl19
+eyJoaXN0b3J5IjpbLTEyMjAzNTIyNjksLTE0MTAxOTg1MTUsLT
+c4NzYyNTgxOSwxMzEyOTc5NCwyMzk4MDExMTIsLTE4MTE1NzQ0
+NTEsLTEwNzkyMjk3OTcsLTIwODk3MTE2OTEsLTExOTY2MzU1MT
+UsNTA2Mjg1MTg2LDEyNDI5OTU4MzcsNDg4Mzc0MjEzLDcxNDg3
+ODE3Myw1ODQ1MjExMDYsMTUxMDU1MDk2NywxODE1MDM4NTUwLD
+EwMDgwODcwOSwxOTA1NzM2MTY5LC0xNjk3NDU5ODA2LC01NTg2
+OTA3ODZdfQ==
 -->
