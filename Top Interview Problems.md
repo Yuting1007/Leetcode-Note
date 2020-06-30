@@ -657,12 +657,14 @@ x^x = 0, 0^x = x
 [notes](https://www.cnblogs.com/grandyang/p/4389572.html)
 flip via  diagonal, then flip each row; 
 or, flip via reverse diagonal then flip the whole matrix
+
+### [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4Mzc0MjEzLDcxNDg3ODE3Myw1ODQ1Mj
-ExMDYsMTUxMDU1MDk2NywxODE1MDM4NTUwLDEwMDgwODcwOSwx
-OTA1NzM2MTY5LC0xNjk3NDU5ODA2LC01NTg2OTA3ODYsLTcwMj
-I0NTIzOSw0MTk5NzIxMzMsMTg5MTA5NzM0MywtMTQyMTM1NDIz
-OCwyNTk1MDAyNjgsMTQzNDI0MjA4MiwxNTEyMDMzNTk0LDE0Nj
-YzMTA3NzYsLTMwOTY0OTQ3MiwtMTIzNTQ2MDU0LDE1OTE1MDMz
-MjRdfQ==
+eyJoaXN0b3J5IjpbLTQ3OTk5NjcsNDg4Mzc0MjEzLDcxNDg3OD
+E3Myw1ODQ1MjExMDYsMTUxMDU1MDk2NywxODE1MDM4NTUwLDEw
+MDgwODcwOSwxOTA1NzM2MTY5LC0xNjk3NDU5ODA2LC01NTg2OT
+A3ODYsLTcwMjI0NTIzOSw0MTk5NzIxMzMsMTg5MTA5NzM0Mywt
+MTQyMTM1NDIzOCwyNTk1MDAyNjgsMTQzNDI0MjA4MiwxNTEyMD
+MzNTk0LDE0NjYzMTA3NzYsLTMwOTY0OTQ3MiwtMTIzNTQ2MDU0
+XX0=
 -->
