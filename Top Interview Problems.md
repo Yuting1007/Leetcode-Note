@@ -682,13 +682,14 @@ handling **odd and even** numbers of elements in linked list is also interesting
 
 ### [179. Largest Number](https://leetcode.com/problems/largest-number/)
 我现在的想法:
-按照digits sort 就好, 也就是说自定义排序
+按照digits sort 就好, 也就是说自定义排序. 可以把数字转成vector嘛??
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjk3OTQsMjM5ODAxMTEyLC0xODExNT
-c0NDUxLC0xMDc5MjI5Nzk3LC0yMDg5NzExNjkxLC0xMTk2NjM1
-NTE1LDUwNjI4NTE4NiwxMjQyOTk1ODM3LDQ4ODM3NDIxMyw3MT
-Q4NzgxNzMsNTg0NTIxMTA2LDE1MTA1NTA5NjcsMTgxNTAzODU1
-MCwxMDA4MDg3MDksMTkwNTczNjE2OSwtMTY5NzQ1OTgwNiwtNT
-U4NjkwNzg2LC03MDIyNDUyMzksNDE5OTcyMTMzLDE4OTEwOTcz
-NDNdfQ==
+eyJoaXN0b3J5IjpbLTc4NzYyNTgxOSwxMzEyOTc5NCwyMzk4MD
+ExMTIsLTE4MTE1NzQ0NTEsLTEwNzkyMjk3OTcsLTIwODk3MTE2
+OTEsLTExOTY2MzU1MTUsNTA2Mjg1MTg2LDEyNDI5OTU4MzcsND
+g4Mzc0MjEzLDcxNDg3ODE3Myw1ODQ1MjExMDYsMTUxMDU1MDk2
+NywxODE1MDM4NTUwLDEwMDgwODcwOSwxOTA1NzM2MTY5LC0xNj
+k3NDU5ODA2LC01NTg2OTA3ODYsLTcwMjI0NTIzOSw0MTk5NzIx
+MzNdfQ==
 -->
