@@ -685,13 +685,18 @@ handling **odd and even** numbers of elements in linked list is also interesting
 按照digits sort 就好, 也就是说自定义排序. 可以把数字转成vector嘛??
 [notes](https://www.cnblogs.com/grandyang/p/4225047.html)
 实际上是要把他们转换成字符串 string
-The way for creating self-defined sort is int 
+The way for creating self-defined sort is interesting
+```
+sort(nums.begin(), nums.end(), [](int a, int b) { 
+	return to_string(a) + to_string(b) > to_string(b) + to_string(a); 
+});
+``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxNDk3ODM5LC03ODc2MjU4MTksMTMxMj
-k3OTQsMjM5ODAxMTEyLC0xODExNTc0NDUxLC0xMDc5MjI5Nzk3
-LC0yMDg5NzExNjkxLC0xMTk2NjM1NTE1LDUwNjI4NTE4NiwxMj
-QyOTk1ODM3LDQ4ODM3NDIxMyw3MTQ4NzgxNzMsNTg0NTIxMTA2
-LDE1MTA1NTA5NjcsMTgxNTAzODU1MCwxMDA4MDg3MDksMTkwNT
-czNjE2OSwtMTY5NzQ1OTgwNiwtNTU4NjkwNzg2LC03MDIyNDUy
-MzldfQ==
+eyJoaXN0b3J5IjpbLTE0MTAxOTg1MTUsLTc4NzYyNTgxOSwxMz
+EyOTc5NCwyMzk4MDExMTIsLTE4MTE1NzQ0NTEsLTEwNzkyMjk3
+OTcsLTIwODk3MTE2OTEsLTExOTY2MzU1MTUsNTA2Mjg1MTg2LD
+EyNDI5OTU4MzcsNDg4Mzc0MjEzLDcxNDg3ODE3Myw1ODQ1MjEx
+MDYsMTUxMDU1MDk2NywxODE1MDM4NTUwLDEwMDgwODcwOSwxOT
+A1NzM2MTY5LC0xNjk3NDU5ODA2LC01NTg2OTA3ODYsLTcwMjI0
+NTIzOV19
 -->
