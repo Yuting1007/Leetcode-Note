@@ -681,12 +681,14 @@ Use a **stack** to reverse the order!!
 handling **odd and even** numbers of elements in linked list is also interesting!
 
 ### [179. Largest Number](https://leetcode.com/problems/largest-number/)
+我现在的想法:
+按照digits sort 就好了
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2NDk2ODYyLDIzOTgwMTExMiwtMTgxMT
-U3NDQ1MSwtMTA3OTIyOTc5NywtMjA4OTcxMTY5MSwtMTE5NjYz
-NTUxNSw1MDYyODUxODYsMTI0Mjk5NTgzNyw0ODgzNzQyMTMsNz
-E0ODc4MTczLDU4NDUyMTEwNiwxNTEwNTUwOTY3LDE4MTUwMzg1
-NTAsMTAwODA4NzA5LDE5MDU3MzYxNjksLTE2OTc0NTk4MDYsLT
-U1ODY5MDc4NiwtNzAyMjQ1MjM5LDQxOTk3MjEzMywxODkxMDk3
-MzQzXX0=
+eyJoaXN0b3J5IjpbLTE1NzI5Mzg5MzcsMjM5ODAxMTEyLC0xOD
+ExNTc0NDUxLC0xMDc5MjI5Nzk3LC0yMDg5NzExNjkxLC0xMTk2
+NjM1NTE1LDUwNjI4NTE4NiwxMjQyOTk1ODM3LDQ4ODM3NDIxMy
+w3MTQ4NzgxNzMsNTg0NTIxMTA2LDE1MTA1NTA5NjcsMTgxNTAz
+ODU1MCwxMDA4MDg3MDksMTkwNTczNjE2OSwtMTY5NzQ1OTgwNi
+wtNTU4NjkwNzg2LC03MDIyNDUyMzksNDE5OTcyMTMzLDE4OTEw
+OTczNDNdfQ==
 -->
