@@ -682,13 +682,13 @@ handling **odd and even** numbers of elements in linked list is also interesting
 
 ### [179. Largest Number](https://leetcode.com/problems/largest-number/)
 我现在的想法:
-按照digits sort 就好了
+按照digits sort 就好, 也就是说自定义排序
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI5Mzg5MzcsMjM5ODAxMTEyLC0xOD
-ExNTc0NDUxLC0xMDc5MjI5Nzk3LC0yMDg5NzExNjkxLC0xMTk2
-NjM1NTE1LDUwNjI4NTE4NiwxMjQyOTk1ODM3LDQ4ODM3NDIxMy
-w3MTQ4NzgxNzMsNTg0NTIxMTA2LDE1MTA1NTA5NjcsMTgxNTAz
-ODU1MCwxMDA4MDg3MDksMTkwNTczNjE2OSwtMTY5NzQ1OTgwNi
-wtNTU4NjkwNzg2LC03MDIyNDUyMzksNDE5OTcyMTMzLDE4OTEw
-OTczNDNdfQ==
+eyJoaXN0b3J5IjpbMTMxMjk3OTQsMjM5ODAxMTEyLC0xODExNT
+c0NDUxLC0xMDc5MjI5Nzk3LC0yMDg5NzExNjkxLC0xMTk2NjM1
+NTE1LDUwNjI4NTE4NiwxMjQyOTk1ODM3LDQ4ODM3NDIxMyw3MT
+Q4NzgxNzMsNTg0NTIxMTA2LDE1MTA1NTA5NjcsMTgxNTAzODU1
+MCwxMDA4MDg3MDksMTkwNTczNjE2OSwtMTY5NzQ1OTgwNiwtNT
+U4NjkwNzg2LC03MDIyNDUyMzksNDE5OTcyMTMzLDE4OTEwOTcz
+NDNdfQ==
 -->
