@@ -662,13 +662,14 @@ or, flip via reverse diagonal then flip the whole matrix
 我目前的想法
 BF: 有一个left pointer表示左边的边界, 右边用count记录unique number, 这样的话 应该是O(n) 
 重复操作 会扫过同样的区域
-改进想法 dp
+改进想法 dp??
+[159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2Mjg1MTg2LDEyNDI5OTU4MzcsNDg4Mz
-c0MjEzLDcxNDg3ODE3Myw1ODQ1MjExMDYsMTUxMDU1MDk2Nywx
-ODE1MDM4NTUwLDEwMDgwODcwOSwxOTA1NzM2MTY5LC0xNjk3ND
-U5ODA2LC01NTg2OTA3ODYsLTcwMjI0NTIzOSw0MTk5NzIxMzMs
-MTg5MTA5NzM0MywtMTQyMTM1NDIzOCwyNTk1MDAyNjgsMTQzND
-I0MjA4MiwxNTEyMDMzNTk0LDE0NjYzMTA3NzYsLTMwOTY0OTQ3
-Ml19
+eyJoaXN0b3J5IjpbLTExOTY2MzU1MTUsNTA2Mjg1MTg2LDEyND
+I5OTU4MzcsNDg4Mzc0MjEzLDcxNDg3ODE3Myw1ODQ1MjExMDYs
+MTUxMDU1MDk2NywxODE1MDM4NTUwLDEwMDgwODcwOSwxOTA1Nz
+M2MTY5LC0xNjk3NDU5ODA2LC01NTg2OTA3ODYsLTcwMjI0NTIz
+OSw0MTk5NzIxMzMsMTg5MTA5NzM0MywtMTQyMTM1NDIzOCwyNT
+k1MDAyNjgsMTQzNDI0MjA4MiwxNTEyMDMzNTk0LDE0NjYzMTA3
+NzZdfQ==
 -->
