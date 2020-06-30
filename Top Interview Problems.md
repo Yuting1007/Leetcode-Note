@@ -664,12 +664,14 @@ BF: 有一个left pointer表示左边的边界, 右边用count记录unique numbe
 重复操作 会扫过同样的区域
 改进想法 dp??
 [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
+greedy algorithm
+但是! 超时啦
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTY2MzU1MTUsNTA2Mjg1MTg2LDEyND
-I5OTU4MzcsNDg4Mzc0MjEzLDcxNDg3ODE3Myw1ODQ1MjExMDYs
-MTUxMDU1MDk2NywxODE1MDM4NTUwLDEwMDgwODcwOSwxOTA1Nz
-M2MTY5LC0xNjk3NDU5ODA2LC01NTg2OTA3ODYsLTcwMjI0NTIz
-OSw0MTk5NzIxMzMsMTg5MTA5NzM0MywtMTQyMTM1NDIzOCwyNT
-k1MDAyNjgsMTQzNDI0MjA4MiwxNTEyMDMzNTk0LDE0NjYzMTA3
-NzZdfQ==
+eyJoaXN0b3J5IjpbLTIwODk3MTE2OTEsLTExOTY2MzU1MTUsNT
+A2Mjg1MTg2LDEyNDI5OTU4MzcsNDg4Mzc0MjEzLDcxNDg3ODE3
+Myw1ODQ1MjExMDYsMTUxMDU1MDk2NywxODE1MDM4NTUwLDEwMD
+gwODcwOSwxOTA1NzM2MTY5LC0xNjk3NDU5ODA2LC01NTg2OTA3
+ODYsLTcwMjI0NTIzOSw0MTk5NzIxMzMsMTg5MTA5NzM0MywtMT
+QyMTM1NDIzOCwyNTk1MDAyNjgsMTQzNDI0MjA4MiwxNTEyMDMz
+NTk0XX0=
 -->
