@@ -679,12 +679,14 @@ This is a hint for just using vector to store indegree, otherwise, a hashmap is 
 This is a tricky one!! fast-slow pointer is easy to recap, but how can I compare them?
 Use a **stack** to reverse the order!!
 handling **odd and even** numbers of elements in linked list is also interesting!
+
+### [179. Largest Number](https://leetcode.com/problems/largest-number/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5ODAxMTEyLC0xODExNTc0NDUxLC0xMD
-c5MjI5Nzk3LC0yMDg5NzExNjkxLC0xMTk2NjM1NTE1LDUwNjI4
-NTE4NiwxMjQyOTk1ODM3LDQ4ODM3NDIxMyw3MTQ4NzgxNzMsNT
-g0NTIxMTA2LDE1MTA1NTA5NjcsMTgxNTAzODU1MCwxMDA4MDg3
-MDksMTkwNTczNjE2OSwtMTY5NzQ1OTgwNiwtNTU4NjkwNzg2LC
-03MDIyNDUyMzksNDE5OTcyMTMzLDE4OTEwOTczNDMsLTE0MjEz
-NTQyMzhdfQ==
+eyJoaXN0b3J5IjpbOTg2NDk2ODYyLDIzOTgwMTExMiwtMTgxMT
+U3NDQ1MSwtMTA3OTIyOTc5NywtMjA4OTcxMTY5MSwtMTE5NjYz
+NTUxNSw1MDYyODUxODYsMTI0Mjk5NTgzNyw0ODgzNzQyMTMsNz
+E0ODc4MTczLDU4NDUyMTEwNiwxNTEwNTUwOTY3LDE4MTUwMzg1
+NTAsMTAwODA4NzA5LDE5MDU3MzYxNjksLTE2OTc0NTk4MDYsLT
+U1ODY5MDc4NiwtNzAyMjQ1MjM5LDQxOTk3MjEzMywxODkxMDk3
+MzQzXX0=
 -->
