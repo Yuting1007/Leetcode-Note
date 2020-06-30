@@ -661,12 +661,13 @@ or, flip via reverse diagonal then flip the whole matrix
 ### [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
 我目前的想法
 BF: 有一个left pointer表示左边的边界, 右边用count记录unique number, 这样的话 应该是O(n) 
+重复操作 会
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjI3NTk2OTUsMTI0Mjk5NTgzNyw0OD
-gzNzQyMTMsNzE0ODc4MTczLDU4NDUyMTEwNiwxNTEwNTUwOTY3
-LDE4MTUwMzg1NTAsMTAwODA4NzA5LDE5MDU3MzYxNjksLTE2OT
-c0NTk4MDYsLTU1ODY5MDc4NiwtNzAyMjQ1MjM5LDQxOTk3MjEz
-MywxODkxMDk3MzQzLC0xNDIxMzU0MjM4LDI1OTUwMDI2OCwxND
-M0MjQyMDgyLDE1MTIwMzM1OTQsMTQ2NjMxMDc3NiwtMzA5NjQ5
-NDcyXX0=
+eyJoaXN0b3J5IjpbMTg1MjMyMzQ0NiwxMjQyOTk1ODM3LDQ4OD
+M3NDIxMyw3MTQ4NzgxNzMsNTg0NTIxMTA2LDE1MTA1NTA5Njcs
+MTgxNTAzODU1MCwxMDA4MDg3MDksMTkwNTczNjE2OSwtMTY5Nz
+Q1OTgwNiwtNTU4NjkwNzg2LC03MDIyNDUyMzksNDE5OTcyMTMz
+LDE4OTEwOTczNDMsLTE0MjEzNTQyMzgsMjU5NTAwMjY4LDE0Mz
+QyNDIwODIsMTUxMjAzMzU5NCwxNDY2MzEwNzc2LC0zMDk2NDk0
+NzJdfQ==
 -->
