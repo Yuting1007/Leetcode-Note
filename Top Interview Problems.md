@@ -691,9 +691,10 @@ sort(nums.begin(), nums.end(), [](int a, int b) {
 	return to_string(a) + to_string(b) > to_string(b) + to_string(a); 
 });
 ``` 
-
+### [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+BF : O(n^2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjQ4ODk2NSwtMTQxMDE5ODUxNSwtNz
+eyJoaXN0b3J5IjpbLTg1MTIyNjIwMSwtMTQxMDE5ODUxNSwtNz
 g3NjI1ODE5LDEzMTI5Nzk0LDIzOTgwMTExMiwtMTgxMTU3NDQ1
 MSwtMTA3OTIyOTc5NywtMjA4OTcxMTY5MSwtMTE5NjYzNTUxNS
 w1MDYyODUxODYsMTI0Mjk5NTgzNyw0ODgzNzQyMTMsNzE0ODc4
