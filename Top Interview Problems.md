@@ -674,12 +674,14 @@ O(n) 的做法是 维护一个size = k 的hashmap
 这就是经典的拓扑排序了, 可以背下来说实话
 `There are a total of _n_ courses you have to take, labeled from 0 to n-1.`
 This is a hint for just using vector to store indegree, otherwise, a hashmap is needed.
+
+### [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzI2NTg2MCwtMTA3OTIyOTc5NywtMj
-A4OTcxMTY5MSwtMTE5NjYzNTUxNSw1MDYyODUxODYsMTI0Mjk5
-NTgzNyw0ODgzNzQyMTMsNzE0ODc4MTczLDU4NDUyMTEwNiwxNT
-EwNTUwOTY3LDE4MTUwMzg1NTAsMTAwODA4NzA5LDE5MDU3MzYx
-NjksLTE2OTc0NTk4MDYsLTU1ODY5MDc4NiwtNzAyMjQ1MjM5LD
-QxOTk3MjEzMywxODkxMDk3MzQzLC0xNDIxMzU0MjM4LDI1OTUw
-MDI2OF19
+eyJoaXN0b3J5IjpbLTE4MTE1NzQ0NTEsLTEwNzkyMjk3OTcsLT
+IwODk3MTE2OTEsLTExOTY2MzU1MTUsNTA2Mjg1MTg2LDEyNDI5
+OTU4MzcsNDg4Mzc0MjEzLDcxNDg3ODE3Myw1ODQ1MjExMDYsMT
+UxMDU1MDk2NywxODE1MDM4NTUwLDEwMDgwODcwOSwxOTA1NzM2
+MTY5LC0xNjk3NDU5ODA2LC01NTg2OTA3ODYsLTcwMjI0NTIzOS
+w0MTk5NzIxMzMsMTg5MTA5NzM0MywtMTQyMTM1NDIzOCwyNTk1
+MDAyNjhdfQ==
 -->
