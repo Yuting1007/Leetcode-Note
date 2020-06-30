@@ -660,13 +660,13 @@ or, flip via reverse diagonal then flip the whole matrix
 
 ### [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
 我目前的想法
-BF: 
+BF: yo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0Mjk5NTgzNyw0ODgzNzQyMTMsNzE0OD
-c4MTczLDU4NDUyMTEwNiwxNTEwNTUwOTY3LDE4MTUwMzg1NTAs
-MTAwODA4NzA5LDE5MDU3MzYxNjksLTE2OTc0NTk4MDYsLTU1OD
-Y5MDc4NiwtNzAyMjQ1MjM5LDQxOTk3MjEzMywxODkxMDk3MzQz
-LC0xNDIxMzU0MjM4LDI1OTUwMDI2OCwxNDM0MjQyMDgyLDE1MT
-IwMzM1OTQsMTQ2NjMxMDc3NiwtMzA5NjQ5NDcyLC0xMjM1NDYw
-NTRdfQ==
+eyJoaXN0b3J5IjpbLTIwNDI5MTUyMjUsMTI0Mjk5NTgzNyw0OD
+gzNzQyMTMsNzE0ODc4MTczLDU4NDUyMTEwNiwxNTEwNTUwOTY3
+LDE4MTUwMzg1NTAsMTAwODA4NzA5LDE5MDU3MzYxNjksLTE2OT
+c0NTk4MDYsLTU1ODY5MDc4NiwtNzAyMjQ1MjM5LDQxOTk3MjEz
+MywxODkxMDk3MzQzLC0xNDIxMzU0MjM4LDI1OTUwMDI2OCwxND
+M0MjQyMDgyLDE1MTIwMzM1OTQsMTQ2NjMxMDc3NiwtMzA5NjQ5
+NDcyXX0=
 -->
