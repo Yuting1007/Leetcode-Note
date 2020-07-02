@@ -709,8 +709,13 @@ This is a tipical backtracking.
 不是很关心每个位子的剩余跳力, 只想知道能不能到达队尾, 也就是说只对最远能够到达的位置感兴趣
 那么可以设一个新的variable called reach indicating the fatherest pace we can reach
 ```
+for (int i = 0; i < n; ++i) {
+    if (i > reach || reach >= n - 1) break;
+    reach = max(reach, i + nums[i]);
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA3MjE4NjAsMTUxMTkxMzIyNSwtMT
+eyJoaXN0b3J5IjpbLTE1NjU2NzE2MDQsMTUxMTkxMzIyNSwtMT
 E3NTgwMDcyMywxOTY1MTI2MDQ5LC03ODk5NDUwNzQsLTMyODk5
 ODk4OSwtMTA4ODU1ODI5NiwtMTIyMDM1MjI2OSwtMTQxMDE5OD
 UxNSwtNzg3NjI1ODE5LDEzMTI5Nzk0LDIzOTgwMTExMiwtMTgx
