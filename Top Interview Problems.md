@@ -721,13 +721,17 @@ I have not idea about this one.....:)
 ### [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
 This one is interesting,
 1. adding
-persudo 
+pseudo code:
+```
+for(each char in S)
+	if is a numeric value: push into every string in res
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTEwMjc3MiwtMTk5MDQ1ODU0NiwtMT
-U2NTY3MTYwNCwxNTExOTEzMjI1LC0xMTc1ODAwNzIzLDE5NjUx
-MjYwNDksLTc4OTk0NTA3NCwtMzI4OTk4OTg5LC0xMDg4NTU4Mj
-k2LC0xMjIwMzUyMjY5LC0xNDEwMTk4NTE1LC03ODc2MjU4MTks
-MTMxMjk3OTQsMjM5ODAxMTEyLC0xODExNTc0NDUxLC0xMDc5Mj
-I5Nzk3LC0yMDg5NzExNjkxLC0xMTk2NjM1NTE1LDUwNjI4NTE4
-NiwxMjQyOTk1ODM3XX0=
+eyJoaXN0b3J5IjpbLTIxNDU0NzM1OTcsLTE5OTA0NTg1NDYsLT
+E1NjU2NzE2MDQsMTUxMTkxMzIyNSwtMTE3NTgwMDcyMywxOTY1
+MTI2MDQ5LC03ODk5NDUwNzQsLTMyODk5ODk4OSwtMTA4ODU1OD
+I5NiwtMTIyMDM1MjI2OSwtMTQxMDE5ODUxNSwtNzg3NjI1ODE5
+LDEzMTI5Nzk0LDIzOTgwMTExMiwtMTgxMTU3NDQ1MSwtMTA3OT
+IyOTc5NywtMjA4OTcxMTY5MSwtMTE5NjYzNTUxNSw1MDYyODUx
+ODYsMTI0Mjk5NTgzN119
 -->
