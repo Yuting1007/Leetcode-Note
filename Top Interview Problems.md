@@ -735,18 +735,20 @@ for(each char in S)
 pseudo code:
 ```
 main function:
-	helper(res, curr, index, S);
+	helper(res, index, S);
 helper fucntion:
 	//stop
-	index == 
+	index == S.size();
+	res.push_back(s);
+	return; //backtracking
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjA5MTk0NCwtMTk5MDQ1ODU0NiwtMT
-U2NTY3MTYwNCwxNTExOTEzMjI1LC0xMTc1ODAwNzIzLDE5NjUx
-MjYwNDksLTc4OTk0NTA3NCwtMzI4OTk4OTg5LC0xMDg4NTU4Mj
-k2LC0xMjIwMzUyMjY5LC0xNDEwMTk4NTE1LC03ODc2MjU4MTks
-MTMxMjk3OTQsMjM5ODAxMTEyLC0xODExNTc0NDUxLC0xMDc5Mj
-I5Nzk3LC0yMDg5NzExNjkxLC0xMTk2NjM1NTE1LDUwNjI4NTE4
-NiwxMjQyOTk1ODM3XX0=
+eyJoaXN0b3J5IjpbNjQ2OTYxNTgyLC05MzIwOTE5NDQsLTE5OT
+A0NTg1NDYsLTE1NjU2NzE2MDQsMTUxMTkxMzIyNSwtMTE3NTgw
+MDcyMywxOTY1MTI2MDQ5LC03ODk5NDUwNzQsLTMyODk5ODk4OS
+wtMTA4ODU1ODI5NiwtMTIyMDM1MjI2OSwtMTQxMDE5ODUxNSwt
+Nzg3NjI1ODE5LDEzMTI5Nzk0LDIzOTgwMTExMiwtMTgxMTU3ND
+Q1MSwtMTA3OTIyOTc5NywtMjA4OTcxMTY5MSwtMTE5NjYzNTUx
+NSw1MDYyODUxODZdfQ==
 -->
