@@ -752,9 +752,12 @@ This question is a combination of two classic function:
 2. merge two linked list in ascending order
 
 ### [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+This is one a classic BFS!!
+Should be very familar to you!
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTYxMDExNywtNjM5MjE4MTYzLDM0Nj
+eyJoaXN0b3J5IjpbMTkwNTkyNTAyMCwtNjM5MjE4MTYzLDM0Nj
 IyNTA2OSwxOTY0MTcxOTM3LC05MzIwOTE5NDQsLTE5OTA0NTg1
 NDYsLTE1NjU2NzE2MDQsMTUxMTkxMzIyNSwtMTE3NTgwMDcyMy
 wxOTY1MTI2MDQ5LC03ODk5NDUwNzQsLTMyODk5ODk4OSwtMTA4
