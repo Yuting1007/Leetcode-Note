@@ -702,16 +702,18 @@ This is a tipical backtracking.
 
 ### [55. Jump Game](https://leetcode.com/problems/jump-game/)
 这种1D Array 的问题可以思考dp, greedy algorithm
-dp:
+1. dp:
 剩余跳力, 一旦出现了负值, 就说明有个点跳不动, `return false`
 `dp[i] = max(dp[i-1], nums[i-1]) - 1`
-greedy algorithm: 
+2. greedy algorithm: 
+不是很关心每个位子的剩余跳力, 只想知道能不能到达队尾, 也就是说只对最远能够到达的位置感兴趣
+那么
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDcxOTYzNDUsLTExNzU4MDA3MjMsMT
-k2NTEyNjA0OSwtNzg5OTQ1MDc0LC0zMjg5OTg5ODksLTEwODg1
-NTgyOTYsLTEyMjAzNTIyNjksLTE0MTAxOTg1MTUsLTc4NzYyNT
-gxOSwxMzEyOTc5NCwyMzk4MDExMTIsLTE4MTE1NzQ0NTEsLTEw
-NzkyMjk3OTcsLTIwODk3MTE2OTEsLTExOTY2MzU1MTUsNTA2Mj
-g1MTg2LDEyNDI5OTU4MzcsNDg4Mzc0MjEzLDcxNDg3ODE3Myw1
-ODQ1MjExMDZdfQ==
+eyJoaXN0b3J5IjpbMTUxMTkxMzIyNSwtMTE3NTgwMDcyMywxOT
+Y1MTI2MDQ5LC03ODk5NDUwNzQsLTMyODk5ODk4OSwtMTA4ODU1
+ODI5NiwtMTIyMDM1MjI2OSwtMTQxMDE5ODUxNSwtNzg3NjI1OD
+E5LDEzMTI5Nzk0LDIzOTgwMTExMiwtMTgxMTU3NDQ1MSwtMTA3
+OTIyOTc5NywtMjA4OTcxMTY5MSwtMTE5NjYzNTUxNSw1MDYyOD
+UxODYsMTI0Mjk5NTgzNyw0ODgzNzQyMTMsNzE0ODc4MTczLDU4
+NDUyMTEwNl19
 -->
