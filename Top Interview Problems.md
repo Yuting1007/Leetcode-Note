@@ -748,10 +748,13 @@ helper fucntion:
 当只有一个结点的时候就是有序的
 从中间断开, 分成两部分，左右两边再分别调用排序的递归函数 sortList()，得到各自有序的链表后，再进行 merge()，这样整体就是有序的了.
 This question is a combination of two classic function:
+1. cut from middle fpr a linked list
+2. merge two linked list in ascending order
 
+### [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTMzNjA4NiwtNjM5MjE4MTYzLDM0Nj
+eyJoaXN0b3J5IjpbLTQxNTYxMDExNywtNjM5MjE4MTYzLDM0Nj
 IyNTA2OSwxOTY0MTcxOTM3LC05MzIwOTE5NDQsLTE5OTA0NTg1
 NDYsLTE1NjU2NzE2MDQsMTUxMTkxMzIyNSwtMTE3NTgwMDcyMy
 wxOTY1MTI2MDQ5LC03ODk5NDUwNzQsLTMyODk5ODk4OSwtMTA4
