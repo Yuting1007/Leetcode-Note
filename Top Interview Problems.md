@@ -734,11 +734,15 @@ for(each char in S)
 2. recursion && backtracking
 pseudo code:
 ```
-main func
+main function:
+	helper(res, curr, index, S);
+helper fucntion:
+	//stop
+	index == 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjUwNDQwNywtMTk5MDQ1ODU0NiwtMT
+eyJoaXN0b3J5IjpbLTkzMjA5MTk0NCwtMTk5MDQ1ODU0NiwtMT
 U2NTY3MTYwNCwxNTExOTEzMjI1LC0xMTc1ODAwNzIzLDE5NjUx
 MjYwNDksLTc4OTk0NTA3NCwtMzI4OTk4OTg5LC0xMDg4NTU4Mj
 k2LC0xMjIwMzUyMjY5LC0xNDEwMTk4NTE1LC03ODc2MjU4MTks
