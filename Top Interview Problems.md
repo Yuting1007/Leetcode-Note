@@ -707,13 +707,14 @@ This is a tipical backtracking.
 `dp[i] = max(dp[i-1], nums[i-1]) - 1`
 2. greedy algorithm: 
 不是很关心每个位子的剩余跳力, 只想知道能不能到达队尾, 也就是说只对最远能够到达的位置感兴趣
-那么
+那么可以设一个新的variable called reach indicating the fatherest pace we can reach
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTkxMzIyNSwtMTE3NTgwMDcyMywxOT
-Y1MTI2MDQ5LC03ODk5NDUwNzQsLTMyODk5ODk4OSwtMTA4ODU1
-ODI5NiwtMTIyMDM1MjI2OSwtMTQxMDE5ODUxNSwtNzg3NjI1OD
-E5LDEzMTI5Nzk0LDIzOTgwMTExMiwtMTgxMTU3NDQ1MSwtMTA3
-OTIyOTc5NywtMjA4OTcxMTY5MSwtMTE5NjYzNTUxNSw1MDYyOD
-UxODYsMTI0Mjk5NTgzNyw0ODgzNzQyMTMsNzE0ODc4MTczLDU4
-NDUyMTEwNl19
+eyJoaXN0b3J5IjpbLTE3ODA3MjE4NjAsMTUxMTkxMzIyNSwtMT
+E3NTgwMDcyMywxOTY1MTI2MDQ5LC03ODk5NDUwNzQsLTMyODk5
+ODk4OSwtMTA4ODU1ODI5NiwtMTIyMDM1MjI2OSwtMTQxMDE5OD
+UxNSwtNzg3NjI1ODE5LDEzMTI5Nzk0LDIzOTgwMTExMiwtMTgx
+MTU3NDQ1MSwtMTA3OTIyOTc5NywtMjA4OTcxMTY5MSwtMTE5Nj
+YzNTUxNSw1MDYyODUxODYsMTI0Mjk5NTgzNyw0ODgzNzQyMTMs
+NzE0ODc4MTczXX0=
 -->
