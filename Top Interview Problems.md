@@ -703,10 +703,11 @@ This is a tipical backtracking.
 ### [55. Jump Game](https://leetcode.com/problems/jump-game/)
 这种1D Array 的问题可以思考dp, greedy algorithm
 dp:
-剩余跳力
+剩余跳力, 一旦出现了负值, 就说明有个点跳不动, `return false`
 `dp[i] = max(dp[i-1], nums[i-1]) - 1`
+greedy algorithm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjE4MDIzNDksMTk2NTEyNjA0OSwtNz
+eyJoaXN0b3J5IjpbLTExNzU4MDA3MjMsMTk2NTEyNjA0OSwtNz
 g5OTQ1MDc0LC0zMjg5OTg5ODksLTEwODg1NTgyOTYsLTEyMjAz
 NTIyNjksLTE0MTAxOTg1MTUsLTc4NzYyNTgxOSwxMzEyOTc5NC
 wyMzk4MDExMTIsLTE4MTE1NzQ0NTEsLTEwNzkyMjk3OTcsLTIw
