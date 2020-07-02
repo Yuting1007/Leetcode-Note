@@ -701,13 +701,13 @@ This is a tipical backtracking.
 [Subsets II](https://leetcode.com/problems/subsets-ii/) remove duplicates
 
 ### [55. Jump Game](https://leetcode.com/problems/jump-game/)
-这种array 
+这种1D Array 的问题可以思考dp, greedy algorithm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTEyNjA0OSwtNzg5OTQ1MDc0LC0zMj
-g5OTg5ODksLTEwODg1NTgyOTYsLTEyMjAzNTIyNjksLTE0MTAx
-OTg1MTUsLTc4NzYyNTgxOSwxMzEyOTc5NCwyMzk4MDExMTIsLT
-E4MTE1NzQ0NTEsLTEwNzkyMjk3OTcsLTIwODk3MTE2OTEsLTEx
-OTY2MzU1MTUsNTA2Mjg1MTg2LDEyNDI5OTU4MzcsNDg4Mzc0Mj
-EzLDcxNDg3ODE3Myw1ODQ1MjExMDYsMTUxMDU1MDk2NywxODE1
-MDM4NTUwXX0=
+eyJoaXN0b3J5IjpbLTkxODcxOTQ1MywxOTY1MTI2MDQ5LC03OD
+k5NDUwNzQsLTMyODk5ODk4OSwtMTA4ODU1ODI5NiwtMTIyMDM1
+MjI2OSwtMTQxMDE5ODUxNSwtNzg3NjI1ODE5LDEzMTI5Nzk0LD
+IzOTgwMTExMiwtMTgxMTU3NDQ1MSwtMTA3OTIyOTc5NywtMjA4
+OTcxMTY5MSwtMTE5NjYzNTUxNSw1MDYyODUxODYsMTI0Mjk5NT
+gzNyw0ODgzNzQyMTMsNzE0ODc4MTczLDU4NDUyMTEwNiwxNTEw
+NTUwOTY3XX0=
 -->
