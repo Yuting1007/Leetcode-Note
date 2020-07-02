@@ -724,14 +724,19 @@ This one is interesting,
 pseudo code:
 ```
 for(each char in S)
+	len = the current length of res vector
 	if is a numeric value: push into every string in res
+	else :
+		enlarge the res vector to 2 times;
+		push the lowercase char to res[i];
+		push the uppercase char to res[i+len];
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDU0NzM1OTcsLTE5OTA0NTg1NDYsLT
-E1NjU2NzE2MDQsMTUxMTkxMzIyNSwtMTE3NTgwMDcyMywxOTY1
-MTI2MDQ5LC03ODk5NDUwNzQsLTMyODk5ODk4OSwtMTA4ODU1OD
-I5NiwtMTIyMDM1MjI2OSwtMTQxMDE5ODUxNSwtNzg3NjI1ODE5
-LDEzMTI5Nzk0LDIzOTgwMTExMiwtMTgxMTU3NDQ1MSwtMTA3OT
-IyOTc5NywtMjA4OTcxMTY5MSwtMTE5NjYzNTUxNSw1MDYyODUx
-ODYsMTI0Mjk5NTgzN119
+eyJoaXN0b3J5IjpbMTM2Mjk0MzIzLC0xOTkwNDU4NTQ2LC0xNT
+Y1NjcxNjA0LDE1MTE5MTMyMjUsLTExNzU4MDA3MjMsMTk2NTEy
+NjA0OSwtNzg5OTQ1MDc0LC0zMjg5OTg5ODksLTEwODg1NTgyOT
+YsLTEyMjAzNTIyNjksLTE0MTAxOTg1MTUsLTc4NzYyNTgxOSwx
+MzEyOTc5NCwyMzk4MDExMTIsLTE4MTE1NzQ0NTEsLTEwNzkyMj
+k3OTcsLTIwODk3MTE2OTEsLTExOTY2MzU1MTUsNTA2Mjg1MTg2
+LDEyNDI5OTU4MzddfQ==
 -->
