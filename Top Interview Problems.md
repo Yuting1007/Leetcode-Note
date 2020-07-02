@@ -721,9 +721,9 @@ I have not idea about this one.....:)
 ### [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
 This one is interesting,
 1. adding
-For each character in the string, we determine wether i
+persudo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzgxODIyOSwtMTk5MDQ1ODU0NiwtMT
+eyJoaXN0b3J5IjpbLTk4NTEwMjc3MiwtMTk5MDQ1ODU0NiwtMT
 U2NTY3MTYwNCwxNTExOTEzMjI1LC0xMTc1ODAwNzIzLDE5NjUx
 MjYwNDksLTc4OTk0NTA3NCwtMzI4OTk4OTg5LC0xMDg4NTU4Mj
 k2LC0xMjIwMzUyMjY5LC0xNDEwMTk4NTE1LC03ODc2MjU4MTks
