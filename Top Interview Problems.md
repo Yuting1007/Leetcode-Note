@@ -710,16 +710,18 @@ This is a tipical backtracking.
 那么可以设一个新的variable called reach indicating the fatherest pace we can reach
 ```
 for (int i = 0; i < n; ++i) {
-    if (i > reach || reach >= n - 1) break;
+    if (i > reach || reach >= n - 1) break; //where to stop
     reach = max(reach, i + nums[i]);
 }
 ```
+
+### [166. Fraction to Recurring Decimal]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjU2NzE2MDQsMTUxMTkxMzIyNSwtMT
-E3NTgwMDcyMywxOTY1MTI2MDQ5LC03ODk5NDUwNzQsLTMyODk5
-ODk4OSwtMTA4ODU1ODI5NiwtMTIyMDM1MjI2OSwtMTQxMDE5OD
-UxNSwtNzg3NjI1ODE5LDEzMTI5Nzk0LDIzOTgwMTExMiwtMTgx
-MTU3NDQ1MSwtMTA3OTIyOTc5NywtMjA4OTcxMTY5MSwtMTE5Nj
-YzNTUxNSw1MDYyODUxODYsMTI0Mjk5NTgzNyw0ODgzNzQyMTMs
-NzE0ODc4MTczXX0=
+eyJoaXN0b3J5IjpbLTE0OTg0NTEzMjksLTE1NjU2NzE2MDQsMT
+UxMTkxMzIyNSwtMTE3NTgwMDcyMywxOTY1MTI2MDQ5LC03ODk5
+NDUwNzQsLTMyODk5ODk4OSwtMTA4ODU1ODI5NiwtMTIyMDM1Mj
+I2OSwtMTQxMDE5ODUxNSwtNzg3NjI1ODE5LDEzMTI5Nzk0LDIz
+OTgwMTExMiwtMTgxMTU3NDQ1MSwtMTA3OTIyOTc5NywtMjA4OT
+cxMTY5MSwtMTE5NjYzNTUxNSw1MDYyODUxODYsMTI0Mjk5NTgz
+Nyw0ODgzNzQyMTNdfQ==
 -->
