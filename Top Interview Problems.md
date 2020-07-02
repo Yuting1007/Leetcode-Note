@@ -720,13 +720,14 @@ I have not idea about this one.....:)
 
 ### [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
 This one is interesting,
-1. 
+1. adding
+For each character in the string, we determine wether i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4Njk5MzgxLC0xOTkwNDU4NTQ2LC0xNT
-Y1NjcxNjA0LDE1MTE5MTMyMjUsLTExNzU4MDA3MjMsMTk2NTEy
-NjA0OSwtNzg5OTQ1MDc0LC0zMjg5OTg5ODksLTEwODg1NTgyOT
-YsLTEyMjAzNTIyNjksLTE0MTAxOTg1MTUsLTc4NzYyNTgxOSwx
-MzEyOTc5NCwyMzk4MDExMTIsLTE4MTE1NzQ0NTEsLTEwNzkyMj
-k3OTcsLTIwODk3MTE2OTEsLTExOTY2MzU1MTUsNTA2Mjg1MTg2
-LDEyNDI5OTU4MzddfQ==
+eyJoaXN0b3J5IjpbLTY2NzgxODIyOSwtMTk5MDQ1ODU0NiwtMT
+U2NTY3MTYwNCwxNTExOTEzMjI1LC0xMTc1ODAwNzIzLDE5NjUx
+MjYwNDksLTc4OTk0NTA3NCwtMzI4OTk4OTg5LC0xMDg4NTU4Mj
+k2LC0xMjIwMzUyMjY5LC0xNDEwMTk4NTE1LC03ODc2MjU4MTks
+MTMxMjk3OTQsMjM5ODAxMTEyLC0xODExNTc0NDUxLC0xMDc5Mj
+I5Nzk3LC0yMDg5NzExNjkxLC0xMTk2NjM1NTE1LDUwNjI4NTE4
+NiwxMjQyOTk1ODM3XX0=
 -->
