@@ -761,14 +761,17 @@ Should be very familar to you!
 
 ### [134. Gas Station](https://leetcode.com/problems/gas-station/)
 
+### [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
+Classic topology sort.
+1. initiate the graph `vector<vector<int`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODc2NDcxNywtMjAyMDIyMTkzNiwyMD
-k4ODI2NDI0LDE5MDU5MjUwMjAsLTYzOTIxODE2MywzNDYyMjUw
-NjksMTk2NDE3MTkzNywtOTMyMDkxOTQ0LC0xOTkwNDU4NTQ2LC
-0xNTY1NjcxNjA0LDE1MTE5MTMyMjUsLTExNzU4MDA3MjMsMTk2
-NTEyNjA0OSwtNzg5OTQ1MDc0LC0zMjg5OTg5ODksLTEwODg1NT
-gyOTYsLTEyMjAzNTIyNjksLTE0MTAxOTg1MTUsLTc4NzYyNTgx
-OSwxMzEyOTc5NF19
+eyJoaXN0b3J5IjpbMzYyNTI2NDkyLDE4NTg3NjQ3MTcsLTIwMj
+AyMjE5MzYsMjA5ODgyNjQyNCwxOTA1OTI1MDIwLC02MzkyMTgx
+NjMsMzQ2MjI1MDY5LDE5NjQxNzE5MzcsLTkzMjA5MTk0NCwtMT
+k5MDQ1ODU0NiwtMTU2NTY3MTYwNCwxNTExOTEzMjI1LC0xMTc1
+ODAwNzIzLDE5NjUxMjYwNDksLTc4OTk0NTA3NCwtMzI4OTk4OT
+g5LC0xMDg4NTU4Mjk2LC0xMjIwMzUyMjY5LC0xNDEwMTk4NTE1
+LC03ODc2MjU4MTldfQ==
 -->
