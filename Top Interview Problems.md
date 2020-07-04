@@ -766,11 +766,12 @@ Classic topology sort.
 1. initiate the graph `vector<vector<int>> graph(numCourses, vector<int>());`
 2. initiate the `vector<int> indegree(numCourses);`
 3. push all 0 indegree nodes in queue
-4. looping the queue, pop the top intro 
+4. looping the queue, pop the top into res and decrease its edge ends indegree by 1; push to queue if it is zero
+5. After the loop, if all indegree are zero => true, otherwise => fals
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQwMDAzMSwxODU4NzY0NzE3LC0yMD
+eyJoaXN0b3J5IjpbMTUwMzMzMDY5OCwxODU4NzY0NzE3LC0yMD
 IwMjIxOTM2LDIwOTg4MjY0MjQsMTkwNTkyNTAyMCwtNjM5MjE4
 MTYzLDM0NjIyNTA2OSwxOTY0MTcxOTM3LC05MzIwOTE5NDQsLT
 E5OTA0NTg1NDYsLTE1NjU2NzE2MDQsMTUxMTkxMzIyNSwtMTE3
