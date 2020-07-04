@@ -767,15 +767,15 @@ Classic topology sort.
 2. initiate the `vector<int> indegree(numCourses);`
 3. push all 0 indegree nodes in queue
 4. looping the queue, pop the top into res and decrease its edge ends indegree by 1; push to queue if it is zero
-5. After the loop, if all indegree are zero => true, otherwise => fals
+5. After the loop, if all indegree are zero => true, otherwise => false
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzMzMDY5OCwxODU4NzY0NzE3LC0yMD
-IwMjIxOTM2LDIwOTg4MjY0MjQsMTkwNTkyNTAyMCwtNjM5MjE4
-MTYzLDM0NjIyNTA2OSwxOTY0MTcxOTM3LC05MzIwOTE5NDQsLT
-E5OTA0NTg1NDYsLTE1NjU2NzE2MDQsMTUxMTkxMzIyNSwtMTE3
-NTgwMDcyMywxOTY1MTI2MDQ5LC03ODk5NDUwNzQsLTMyODk5OD
-k4OSwtMTA4ODU1ODI5NiwtMTIyMDM1MjI2OSwtMTQxMDE5ODUx
-NSwtNzg3NjI1ODE5XX0=
+eyJoaXN0b3J5IjpbLTEzODk4NTEyNjcsMTg1ODc2NDcxNywtMj
+AyMDIyMTkzNiwyMDk4ODI2NDI0LDE5MDU5MjUwMjAsLTYzOTIx
+ODE2MywzNDYyMjUwNjksMTk2NDE3MTkzNywtOTMyMDkxOTQ0LC
+0xOTkwNDU4NTQ2LC0xNTY1NjcxNjA0LDE1MTE5MTMyMjUsLTEx
+NzU4MDA3MjMsMTk2NTEyNjA0OSwtNzg5OTQ1MDc0LC0zMjg5OT
+g5ODksLTEwODg1NTgyOTYsLTEyMjAzNTIyNjksLTE0MTAxOTg1
+MTUsLTc4NzYyNTgxOV19
 -->
