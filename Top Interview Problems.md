@@ -759,10 +759,12 @@ Should be very familar to you!
 我的想法: 可以确定root (the first element in preorder), 然后大概就是recusion?
 [note](https://www.youtube.com/watch?v=GeltTz3Z1rw)
 
+### [134. Gas Station](https://leetcode.com/problems/gas-station/)
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDE1NjI3OCwtMjAyMDIyMTkzNiwyMD
+eyJoaXN0b3J5IjpbMTg1ODc2NDcxNywtMjAyMDIyMTkzNiwyMD
 k4ODI2NDI0LDE5MDU5MjUwMjAsLTYzOTIxODE2MywzNDYyMjUw
 NjksMTk2NDE3MTkzNywtOTMyMDkxOTQ0LC0xOTkwNDU4NTQ2LC
 0xNTY1NjcxNjA0LDE1MTE5MTMyMjUsLTExNzU4MDA3MjMsMTk2
