@@ -763,15 +763,18 @@ Should be very familar to you!
 
 ### [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
 Classic topology sort.
-1. initiate the graph `vector<vector<int`
+1. initiate the graph `vector<vector<int>> graph(numCourses, vector<int>());`
+2. initiate the `vector<int> indegree(numCourses);`
+3. push all 0 indegree nodes in queue
+4. looping the queue, pop the top intro 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyNTI2NDkyLDE4NTg3NjQ3MTcsLTIwMj
-AyMjE5MzYsMjA5ODgyNjQyNCwxOTA1OTI1MDIwLC02MzkyMTgx
-NjMsMzQ2MjI1MDY5LDE5NjQxNzE5MzcsLTkzMjA5MTk0NCwtMT
-k5MDQ1ODU0NiwtMTU2NTY3MTYwNCwxNTExOTEzMjI1LC0xMTc1
-ODAwNzIzLDE5NjUxMjYwNDksLTc4OTk0NTA3NCwtMzI4OTk4OT
-g5LC0xMDg4NTU4Mjk2LC0xMjIwMzUyMjY5LC0xNDEwMTk4NTE1
-LC03ODc2MjU4MTldfQ==
+eyJoaXN0b3J5IjpbLTEyMTQwMDAzMSwxODU4NzY0NzE3LC0yMD
+IwMjIxOTM2LDIwOTg4MjY0MjQsMTkwNTkyNTAyMCwtNjM5MjE4
+MTYzLDM0NjIyNTA2OSwxOTY0MTcxOTM3LC05MzIwOTE5NDQsLT
+E5OTA0NTg1NDYsLTE1NjU2NzE2MDQsMTUxMTkxMzIyNSwtMTE3
+NTgwMDcyMywxOTY1MTI2MDQ5LC03ODk5NDUwNzQsLTMyODk5OD
+k4OSwtMTA4ODU1ODI5NiwtMTIyMDM1MjI2OSwtMTQxMDE5ODUx
+NSwtNzg3NjI1ODE5XX0=
 -->
