@@ -755,15 +755,17 @@ This question is a combination of two classic function:
 This is one a classic BFS!!
 Should be very familar to you!
 
-### [105. Construct Binary Tree from Preorder and Inorder Traversal]
+### [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+我的想法:
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM4NDA3MDAsMTkwNTkyNTAyMCwtNj
-M5MjE4MTYzLDM0NjIyNTA2OSwxOTY0MTcxOTM3LC05MzIwOTE5
-NDQsLTE5OTA0NTg1NDYsLTE1NjU2NzE2MDQsMTUxMTkxMzIyNS
-wtMTE3NTgwMDcyMywxOTY1MTI2MDQ5LC03ODk5NDUwNzQsLTMy
-ODk5ODk4OSwtMTA4ODU1ODI5NiwtMTIyMDM1MjI2OSwtMTQxMD
-E5ODUxNSwtNzg3NjI1ODE5LDEzMTI5Nzk0LDIzOTgwMTExMiwt
-MTgxMTU3NDQ1MV19
+eyJoaXN0b3J5IjpbNDIxNDgxNjYyLDE5MDU5MjUwMjAsLTYzOT
+IxODE2MywzNDYyMjUwNjksMTk2NDE3MTkzNywtOTMyMDkxOTQ0
+LC0xOTkwNDU4NTQ2LC0xNTY1NjcxNjA0LDE1MTE5MTMyMjUsLT
+ExNzU4MDA3MjMsMTk2NTEyNjA0OSwtNzg5OTQ1MDc0LC0zMjg5
+OTg5ODksLTEwODg1NTgyOTYsLTEyMjAzNTIyNjksLTE0MTAxOT
+g1MTUsLTc4NzYyNTgxOSwxMzEyOTc5NCwyMzk4MDExMTIsLTE4
+MTE1NzQ0NTFdfQ==
 -->
