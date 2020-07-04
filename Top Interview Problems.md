@@ -756,16 +756,16 @@ This is one a classic BFS!!
 Should be very familar to you!
 
 ### [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-我的想法: 可以确定root (the first element in preorder)
+我的想法: 可以确定root (the first element in preorder), 然后大概就是recusion?
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODgyNjQyNCwxOTA1OTI1MDIwLC02Mz
-kyMTgxNjMsMzQ2MjI1MDY5LDE5NjQxNzE5MzcsLTkzMjA5MTk0
-NCwtMTk5MDQ1ODU0NiwtMTU2NTY3MTYwNCwxNTExOTEzMjI1LC
-0xMTc1ODAwNzIzLDE5NjUxMjYwNDksLTc4OTk0NTA3NCwtMzI4
-OTk4OTg5LC0xMDg4NTU4Mjk2LC0xMjIwMzUyMjY5LC0xNDEwMT
-k4NTE1LC03ODc2MjU4MTksMTMxMjk3OTQsMjM5ODAxMTEyLC0x
-ODExNTc0NDUxXX0=
+eyJoaXN0b3J5IjpbLTIwMjAyMjE5MzYsMjA5ODgyNjQyNCwxOT
+A1OTI1MDIwLC02MzkyMTgxNjMsMzQ2MjI1MDY5LDE5NjQxNzE5
+MzcsLTkzMjA5MTk0NCwtMTk5MDQ1ODU0NiwtMTU2NTY3MTYwNC
+wxNTExOTEzMjI1LC0xMTc1ODAwNzIzLDE5NjUxMjYwNDksLTc4
+OTk0NTA3NCwtMzI4OTk4OTg5LC0xMDg4NTU4Mjk2LC0xMjIwMz
+UyMjY5LC0xNDEwMTk4NTE1LC03ODc2MjU4MTksMTMxMjk3OTQs
+MjM5ODAxMTEyXX0=
 -->
