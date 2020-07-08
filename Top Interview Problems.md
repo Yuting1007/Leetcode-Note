@@ -805,8 +805,10 @@ what is this??
 I feel like, if we need a specific node from a linked list, usually we need to apply fast-slow pointer approach.
 
 ### [344. Reverse String](https://leetcode.com/problems/reverse-string/)
+My thoughts : we can use a stack or two pointers (left and right)
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDEwMDEwOTgsLTUzMjY5MzY3NiwtMT
+eyJoaXN0b3J5IjpbLTIxMzU0NTExNjEsLTUzMjY5MzY3NiwtMT
 E0MDE2MDQ4NSwxMDA5MjI3NCwxODIyODgxOTI0LDQwNzEzODI1
 NywtMjAwODU1OTIyMiwtOTQwMDkwNTc3LDgzNzU4MDE2MSwtMT
 M4OTg1MTI2NywxODU4NzY0NzE3LC0yMDIwMjIxOTM2LDIwOTg4
