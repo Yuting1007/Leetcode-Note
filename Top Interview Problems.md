@@ -788,12 +788,15 @@ classic dp, seperate the vector into odd and even
 
 ### [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 Since we can complete as many as transactions as I like, I can collect every profit.
+
+### [268. Missing Number](https://leetcode.com/problems/missing-number/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDg1NTkyMjIsLTk0MDA5MDU3Nyw4Mz
-c1ODAxNjEsLTEzODk4NTEyNjcsMTg1ODc2NDcxNywtMjAyMDIy
-MTkzNiwyMDk4ODI2NDI0LDE5MDU5MjUwMjAsLTYzOTIxODE2My
-wzNDYyMjUwNjksMTk2NDE3MTkzNywtOTMyMDkxOTQ0LC0xOTkw
-NDU4NTQ2LC0xNTY1NjcxNjA0LDE1MTE5MTMyMjUsLTExNzU4MD
-A3MjMsMTk2NTEyNjA0OSwtNzg5OTQ1MDc0LC0zMjg5OTg5ODks
-LTEwODg1NTgyOTZdfQ==
+eyJoaXN0b3J5IjpbNDA3MTM4MjU3LC0yMDA4NTU5MjIyLC05ND
+AwOTA1NzcsODM3NTgwMTYxLC0xMzg5ODUxMjY3LDE4NTg3NjQ3
+MTcsLTIwMjAyMjE5MzYsMjA5ODgyNjQyNCwxOTA1OTI1MDIwLC
+02MzkyMTgxNjMsMzQ2MjI1MDY5LDE5NjQxNzE5MzcsLTkzMjA5
+MTk0NCwtMTk5MDQ1ODU0NiwtMTU2NTY3MTYwNCwxNTExOTEzMj
+I1LC0xMTc1ODAwNzIzLDE5NjUxMjYwNDksLTc4OTk0NTA3NCwt
+MzI4OTk4OTg5XX0=
 -->
