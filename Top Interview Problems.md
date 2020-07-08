@@ -799,8 +799,12 @@ The point for this question is that *checking for duplicates* => hashmap
 int cols[9][9]={0}; //cols[3][8] means whether number 9('8'+1) in col 3 has appeared.
 int blocks[3][3][9]={0};//blocks[0][2][5] means whether number '6' in block 0,2 (row 0~2,col 6~8) has appeared.
 ```
+what is this??
+
+### [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDUxNTI1NjEsMTAwOTIyNzQsMTgyMj
+eyJoaXN0b3J5IjpbLTExNDAxNjA0ODUsMTAwOTIyNzQsMTgyMj
 g4MTkyNCw0MDcxMzgyNTcsLTIwMDg1NTkyMjIsLTk0MDA5MDU3
 Nyw4Mzc1ODAxNjEsLTEzODk4NTEyNjcsMTg1ODc2NDcxNywtMj
 AyMDIyMTkzNiwyMDk4ODI2NDI0LDE5MDU5MjUwMjAsLTYzOTIx
