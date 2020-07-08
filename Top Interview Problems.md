@@ -791,12 +791,15 @@ Since we can complete as many as transactions as I like, I can collect every pro
 
 ### [268. Missing Number](https://leetcode.com/problems/missing-number/)
 BS: compare the number with the index
+
+### [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+The point for this question is that *checking for duplicates*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjg4MTkyNCw0MDcxMzgyNTcsLTIwMD
-g1NTkyMjIsLTk0MDA5MDU3Nyw4Mzc1ODAxNjEsLTEzODk4NTEy
-NjcsMTg1ODc2NDcxNywtMjAyMDIyMTkzNiwyMDk4ODI2NDI0LD
-E5MDU5MjUwMjAsLTYzOTIxODE2MywzNDYyMjUwNjksMTk2NDE3
-MTkzNywtOTMyMDkxOTQ0LC0xOTkwNDU4NTQ2LC0xNTY1NjcxNj
-A0LDE1MTE5MTMyMjUsLTExNzU4MDA3MjMsMTk2NTEyNjA0OSwt
-Nzg5OTQ1MDc0XX0=
+eyJoaXN0b3J5IjpbMTAwOTIyNzQsMTgyMjg4MTkyNCw0MDcxMz
+gyNTcsLTIwMDg1NTkyMjIsLTk0MDA5MDU3Nyw4Mzc1ODAxNjEs
+LTEzODk4NTEyNjcsMTg1ODc2NDcxNywtMjAyMDIyMTkzNiwyMD
+k4ODI2NDI0LDE5MDU5MjUwMjAsLTYzOTIxODE2MywzNDYyMjUw
+NjksMTk2NDE3MTkzNywtOTMyMDkxOTQ0LC0xOTkwNDU4NTQ2LC
+0xNTY1NjcxNjA0LDE1MTE5MTMyMjUsLTExNzU4MDA3MjMsMTk2
+NTEyNjA0OV19
 -->
