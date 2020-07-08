@@ -802,13 +802,13 @@ int blocks[3][3][9]={0};//blocks[0][2][5] means whether number '6' in block 0,2 
 what is this??
 
 ### [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-
+I feel like, if we need a specific node from a linked list, usually we need to apply fast-slow pointer approach.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDAxNjA0ODUsMTAwOTIyNzQsMTgyMj
-g4MTkyNCw0MDcxMzgyNTcsLTIwMDg1NTkyMjIsLTk0MDA5MDU3
-Nyw4Mzc1ODAxNjEsLTEzODk4NTEyNjcsMTg1ODc2NDcxNywtMj
-AyMDIyMTkzNiwyMDk4ODI2NDI0LDE5MDU5MjUwMjAsLTYzOTIx
-ODE2MywzNDYyMjUwNjksMTk2NDE3MTkzNywtOTMyMDkxOTQ0LC
-0xOTkwNDU4NTQ2LC0xNTY1NjcxNjA0LDE1MTE5MTMyMjUsLTEx
-NzU4MDA3MjNdfQ==
+eyJoaXN0b3J5IjpbLTUzMjY5MzY3NiwtMTE0MDE2MDQ4NSwxMD
+A5MjI3NCwxODIyODgxOTI0LDQwNzEzODI1NywtMjAwODU1OTIy
+MiwtOTQwMDkwNTc3LDgzNzU4MDE2MSwtMTM4OTg1MTI2NywxOD
+U4NzY0NzE3LC0yMDIwMjIxOTM2LDIwOTg4MjY0MjQsMTkwNTky
+NTAyMCwtNjM5MjE4MTYzLDM0NjIyNTA2OSwxOTY0MTcxOTM3LC
+05MzIwOTE5NDQsLTE5OTA0NTg1NDYsLTE1NjU2NzE2MDQsMTUx
+MTkxMzIyNV19
 -->
