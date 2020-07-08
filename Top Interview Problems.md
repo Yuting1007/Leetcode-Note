@@ -806,13 +806,14 @@ I feel like, if we need a specific node from a linked list, usually we need to a
 
 ### [344. Reverse String](https://leetcode.com/problems/reverse-string/)
 My thoughts : we can use a stack or two pointers (left and right)
-### 
+
+### [277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzU0NTExNjEsLTUzMjY5MzY3NiwtMT
-E0MDE2MDQ4NSwxMDA5MjI3NCwxODIyODgxOTI0LDQwNzEzODI1
-NywtMjAwODU1OTIyMiwtOTQwMDkwNTc3LDgzNzU4MDE2MSwtMT
-M4OTg1MTI2NywxODU4NzY0NzE3LC0yMDIwMjIxOTM2LDIwOTg4
-MjY0MjQsMTkwNTkyNTAyMCwtNjM5MjE4MTYzLDM0NjIyNTA2OS
-wxOTY0MTcxOTM3LC05MzIwOTE5NDQsLTE5OTA0NTg1NDYsLTE1
-NjU2NzE2MDRdfQ==
+eyJoaXN0b3J5IjpbMTc0NzI1Mjg2OCwtNTMyNjkzNjc2LC0xMT
+QwMTYwNDg1LDEwMDkyMjc0LDE4MjI4ODE5MjQsNDA3MTM4MjU3
+LC0yMDA4NTU5MjIyLC05NDAwOTA1NzcsODM3NTgwMTYxLC0xMz
+g5ODUxMjY3LDE4NTg3NjQ3MTcsLTIwMjAyMjE5MzYsMjA5ODgy
+NjQyNCwxOTA1OTI1MDIwLC02MzkyMTgxNjMsMzQ2MjI1MDY5LD
+E5NjQxNzE5MzcsLTkzMjA5MTk0NCwtMTk5MDQ1ODU0NiwtMTU2
+NTY3MTYwNF19
 -->
