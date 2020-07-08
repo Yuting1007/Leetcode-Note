@@ -790,13 +790,13 @@ classic dp, seperate the vector into odd and even
 Since we can complete as many as transactions as I like, I can collect every profit.
 
 ### [268. Missing Number](https://leetcode.com/problems/missing-number/)
-BS: 
+BS: c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxOTc5NTE0LDQwNzEzODI1NywtMjAwOD
-U1OTIyMiwtOTQwMDkwNTc3LDgzNzU4MDE2MSwtMTM4OTg1MTI2
-NywxODU4NzY0NzE3LC0yMDIwMjIxOTM2LDIwOTg4MjY0MjQsMT
-kwNTkyNTAyMCwtNjM5MjE4MTYzLDM0NjIyNTA2OSwxOTY0MTcx
-OTM3LC05MzIwOTE5NDQsLTE5OTA0NTg1NDYsLTE1NjU2NzE2MD
-QsMTUxMTkxMzIyNSwtMTE3NTgwMDcyMywxOTY1MTI2MDQ5LC03
-ODk5NDUwNzRdfQ==
+eyJoaXN0b3J5IjpbLTExNTM0NjUzNyw0MDcxMzgyNTcsLTIwMD
+g1NTkyMjIsLTk0MDA5MDU3Nyw4Mzc1ODAxNjEsLTEzODk4NTEy
+NjcsMTg1ODc2NDcxNywtMjAyMDIyMTkzNiwyMDk4ODI2NDI0LD
+E5MDU5MjUwMjAsLTYzOTIxODE2MywzNDYyMjUwNjksMTk2NDE3
+MTkzNywtOTMyMDkxOTQ0LC0xOTkwNDU4NTQ2LC0xNTY1NjcxNj
+A0LDE1MTE5MTMyMjUsLTExNzU4MDA3MjMsMTk2NTEyNjA0OSwt
+Nzg5OTQ1MDc0XX0=
 -->
