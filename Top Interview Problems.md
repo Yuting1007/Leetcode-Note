@@ -808,12 +808,14 @@ I feel like, if we need a specific node from a linked list, usually we need to a
 My thoughts : we can use a stack or two pointers (left and right)
 
 ### [277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
+This is kinda like the map-reduce function that I made~
+since the input is an array and the graph information can be given by an API. we can just use two pointers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzI1Mjg2OCwtNTMyNjkzNjc2LC0xMT
-QwMTYwNDg1LDEwMDkyMjc0LDE4MjI4ODE5MjQsNDA3MTM4MjU3
-LC0yMDA4NTU5MjIyLC05NDAwOTA1NzcsODM3NTgwMTYxLC0xMz
-g5ODUxMjY3LDE4NTg3NjQ3MTcsLTIwMjAyMjE5MzYsMjA5ODgy
-NjQyNCwxOTA1OTI1MDIwLC02MzkyMTgxNjMsMzQ2MjI1MDY5LD
-E5NjQxNzE5MzcsLTkzMjA5MTk0NCwtMTk5MDQ1ODU0NiwtMTU2
-NTY3MTYwNF19
+eyJoaXN0b3J5IjpbMjA2MDUyMjQ1MSwxNzQ3MjUyODY4LC01Mz
+I2OTM2NzYsLTExNDAxNjA0ODUsMTAwOTIyNzQsMTgyMjg4MTky
+NCw0MDcxMzgyNTcsLTIwMDg1NTkyMjIsLTk0MDA5MDU3Nyw4Mz
+c1ODAxNjEsLTEzODk4NTEyNjcsMTg1ODc2NDcxNywtMjAyMDIy
+MTkzNiwyMDk4ODI2NDI0LDE5MDU5MjUwMjAsLTYzOTIxODE2My
+wzNDYyMjUwNjksMTk2NDE3MTkzNywtOTMyMDkxOTQ0LC0xOTkw
+NDU4NTQ2XX0=
 -->
