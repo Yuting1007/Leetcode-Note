@@ -769,13 +769,28 @@ Classic topology sort.
 4. looping the queue, pop the top into res and decrease its edge ends indegree by 1; push to queue if it is zero
 5. After the loop, if all indegree are zero => true, otherwise => false
 
+### [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+My thoughts, use hashmap and offset. 
 
+### [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
+This one I have full remeber to it! Kinda like a quick sort
+Use three pointers, red(starts at 0), blue(starts at len -1) and curr(starts at 0)
+Then swap and move pointers
+
+### [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
+????
+
+### [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+This is also a very classic application of stack!!
+
+### [198. House Robber](https://leetcode.com/problems/house-robber/)
+classic dp, seperate the vector into odd and even
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODk4NTEyNjcsMTg1ODc2NDcxNywtMj
-AyMDIyMTkzNiwyMDk4ODI2NDI0LDE5MDU5MjUwMjAsLTYzOTIx
-ODE2MywzNDYyMjUwNjksMTk2NDE3MTkzNywtOTMyMDkxOTQ0LC
-0xOTkwNDU4NTQ2LC0xNTY1NjcxNjA0LDE1MTE5MTMyMjUsLTEx
-NzU4MDA3MjMsMTk2NTEyNjA0OSwtNzg5OTQ1MDc0LC0zMjg5OT
-g5ODksLTEwODg1NTgyOTYsLTEyMjAzNTIyNjksLTE0MTAxOTg1
-MTUsLTc4NzYyNTgxOV19
+eyJoaXN0b3J5IjpbODM3NTgwMTYxLC0xMzg5ODUxMjY3LDE4NT
+g3NjQ3MTcsLTIwMjAyMjE5MzYsMjA5ODgyNjQyNCwxOTA1OTI1
+MDIwLC02MzkyMTgxNjMsMzQ2MjI1MDY5LDE5NjQxNzE5MzcsLT
+kzMjA5MTk0NCwtMTk5MDQ1ODU0NiwtMTU2NTY3MTYwNCwxNTEx
+OTEzMjI1LC0xMTc1ODAwNzIzLDE5NjUxMjYwNDksLTc4OTk0NT
+A3NCwtMzI4OTk4OTg5LC0xMDg4NTU4Mjk2LC0xMjIwMzUyMjY5
+LC0xNDEwMTk4NTE1XX0=
 -->
