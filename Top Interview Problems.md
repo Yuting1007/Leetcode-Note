@@ -790,9 +790,9 @@ classic dp, seperate the vector into odd and even
 Since we can complete as many as transactions as I like, I can collect every profit.
 
 ### [268. Missing Number](https://leetcode.com/problems/missing-number/)
-BS: c
+BS: compare the number with the index
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM0NjUzNyw0MDcxMzgyNTcsLTIwMD
+eyJoaXN0b3J5IjpbMTgyMjg4MTkyNCw0MDcxMzgyNTcsLTIwMD
 g1NTkyMjIsLTk0MDA5MDU3Nyw4Mzc1ODAxNjEsLTEzODk4NTEy
 NjcsMTg1ODc2NDcxNywtMjAyMDIyMTkzNiwyMDk4ODI2NDI0LD
 E5MDU5MjUwMjAsLTYzOTIxODE2MywzNDYyMjUwNjksMTk2NDE3
