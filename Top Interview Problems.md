@@ -793,13 +793,18 @@ Since we can complete as many as transactions as I like, I can collect every pro
 BS: compare the number with the index
 
 ### [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
-The point for this question is that *checking for duplicates*
+The point for this question is that *checking for duplicates* => hashmap
+```
+   int rows[9][9]={0}; //rows[5][0] means whether number 1('0'+1) in row 5 has appeared.
+int cols[9][9]={0}; //cols[3][8] means whether number 9('8'+1) in col 3 has appeared.
+int blocks[3][3][9]={0};//blocks[0][2][5] means whether number '6' in block 0,2 (row 0~2,col 6~8) has appeared.
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTIyNzQsMTgyMjg4MTkyNCw0MDcxMz
-gyNTcsLTIwMDg1NTkyMjIsLTk0MDA5MDU3Nyw4Mzc1ODAxNjEs
-LTEzODk4NTEyNjcsMTg1ODc2NDcxNywtMjAyMDIyMTkzNiwyMD
-k4ODI2NDI0LDE5MDU5MjUwMjAsLTYzOTIxODE2MywzNDYyMjUw
-NjksMTk2NDE3MTkzNywtOTMyMDkxOTQ0LC0xOTkwNDU4NTQ2LC
-0xNTY1NjcxNjA0LDE1MTE5MTMyMjUsLTExNzU4MDA3MjMsMTk2
-NTEyNjA0OV19
+eyJoaXN0b3J5IjpbLTE3MDUxNTI1NjEsMTAwOTIyNzQsMTgyMj
+g4MTkyNCw0MDcxMzgyNTcsLTIwMDg1NTkyMjIsLTk0MDA5MDU3
+Nyw4Mzc1ODAxNjEsLTEzODk4NTEyNjcsMTg1ODc2NDcxNywtMj
+AyMDIyMTkzNiwyMDk4ODI2NDI0LDE5MDU5MjUwMjAsLTYzOTIx
+ODE2MywzNDYyMjUwNjksMTk2NDE3MTkzNywtOTMyMDkxOTQ0LC
+0xOTkwNDU4NTQ2LC0xNTY1NjcxNjA0LDE1MTE5MTMyMjUsLTEx
+NzU4MDA3MjNdfQ==
 -->
