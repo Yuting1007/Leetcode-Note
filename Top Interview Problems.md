@@ -810,12 +810,15 @@ My thoughts : we can use a stack or two pointers (left and right)
 ### [277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
 This is kinda like the map-reduce function that I made~
 since the input is an array and the graph information can be given by an API. we can just use two pointers (current candidate, another candidate) and use tag(1 or 0).
+
+### [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+we can implement this by either recursion or iteration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQyNzg4NDEsMTc0NzI1Mjg2OCwtNT
-MyNjkzNjc2LC0xMTQwMTYwNDg1LDEwMDkyMjc0LDE4MjI4ODE5
-MjQsNDA3MTM4MjU3LC0yMDA4NTU5MjIyLC05NDAwOTA1NzcsOD
-M3NTgwMTYxLC0xMzg5ODUxMjY3LDE4NTg3NjQ3MTcsLTIwMjAy
-MjE5MzYsMjA5ODgyNjQyNCwxOTA1OTI1MDIwLC02MzkyMTgxNj
-MsMzQ2MjI1MDY5LDE5NjQxNzE5MzcsLTkzMjA5MTk0NCwtMTk5
-MDQ1ODU0Nl19
+eyJoaXN0b3J5IjpbLTMxNjQ3Mjg0MywxNzQ3MjUyODY4LC01Mz
+I2OTM2NzYsLTExNDAxNjA0ODUsMTAwOTIyNzQsMTgyMjg4MTky
+NCw0MDcxMzgyNTcsLTIwMDg1NTkyMjIsLTk0MDA5MDU3Nyw4Mz
+c1ODAxNjEsLTEzODk4NTEyNjcsMTg1ODc2NDcxNywtMjAyMDIy
+MTkzNiwyMDk4ODI2NDI0LDE5MDU5MjUwMjAsLTYzOTIxODE2My
+wzNDYyMjUwNjksMTk2NDE3MTkzNywtOTMyMDkxOTQ0LC0xOTkw
+NDU4NTQ2XX0=
 -->
