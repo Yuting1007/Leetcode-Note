@@ -787,12 +787,13 @@ This is also a very classic application of stack!!
 classic dp, seperate the vector into odd and even
 
 ### [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+Since we can complete as many as transactions as I like, I can collect every profit.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDA5MDU3Nyw4Mzc1ODAxNjEsLTEzOD
-k4NTEyNjcsMTg1ODc2NDcxNywtMjAyMDIyMTkzNiwyMDk4ODI2
-NDI0LDE5MDU5MjUwMjAsLTYzOTIxODE2MywzNDYyMjUwNjksMT
-k2NDE3MTkzNywtOTMyMDkxOTQ0LC0xOTkwNDU4NTQ2LC0xNTY1
-NjcxNjA0LDE1MTE5MTMyMjUsLTExNzU4MDA3MjMsMTk2NTEyNj
-A0OSwtNzg5OTQ1MDc0LC0zMjg5OTg5ODksLTEwODg1NTgyOTYs
-LTEyMjAzNTIyNjldfQ==
+eyJoaXN0b3J5IjpbLTIwMDg1NTkyMjIsLTk0MDA5MDU3Nyw4Mz
+c1ODAxNjEsLTEzODk4NTEyNjcsMTg1ODc2NDcxNywtMjAyMDIy
+MTkzNiwyMDk4ODI2NDI0LDE5MDU5MjUwMjAsLTYzOTIxODE2My
+wzNDYyMjUwNjksMTk2NDE3MTkzNywtOTMyMDkxOTQ0LC0xOTkw
+NDU4NTQ2LC0xNTY1NjcxNjA0LDE1MTE5MTMyMjUsLTExNzU4MD
+A3MjMsMTk2NTEyNjA0OSwtNzg5OTQ1MDc0LC0zMjg5OTg5ODks
+LTEwODg1NTgyOTZdfQ==
 -->
