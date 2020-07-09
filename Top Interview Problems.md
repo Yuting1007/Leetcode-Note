@@ -819,13 +819,13 @@ classic dp question with initiation.
 
 ### [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)
 Find the smallest element => priority queue
-Also, since the matrix is sorted, we can use 
+Also, since the matrix is sorted, we can use BS (check this later)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTIyMjU2NzAsLTE1MDQxMDYzMTgsLT
-MxNjQ3Mjg0MywxNzQ3MjUyODY4LC01MzI2OTM2NzYsLTExNDAx
-NjA0ODUsMTAwOTIyNzQsMTgyMjg4MTkyNCw0MDcxMzgyNTcsLT
-IwMDg1NTkyMjIsLTk0MDA5MDU3Nyw4Mzc1ODAxNjEsLTEzODk4
-NTEyNjcsMTg1ODc2NDcxNywtMjAyMDIyMTkzNiwyMDk4ODI2ND
-I0LDE5MDU5MjUwMjAsLTYzOTIxODE2MywzNDYyMjUwNjksMTk2
-NDE3MTkzN119
+eyJoaXN0b3J5IjpbLTE5NDAxMzE3MiwtMTUwNDEwNjMxOCwtMz
+E2NDcyODQzLDE3NDcyNTI4NjgsLTUzMjY5MzY3NiwtMTE0MDE2
+MDQ4NSwxMDA5MjI3NCwxODIyODgxOTI0LDQwNzEzODI1NywtMj
+AwODU1OTIyMiwtOTQwMDkwNTc3LDgzNzU4MDE2MSwtMTM4OTg1
+MTI2NywxODU4NzY0NzE3LC0yMDIwMjIxOTM2LDIwOTg4MjY0Mj
+QsMTkwNTkyNTAyMCwtNjM5MjE4MTYzLDM0NjIyNTA2OSwxOTY0
+MTcxOTM3XX0=
 -->
