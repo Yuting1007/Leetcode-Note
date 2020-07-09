@@ -817,14 +817,15 @@ we can implement this by either recursion or iteration
 ### [62](https://leetcode.com/problems/unique-paths/)
 classic dp question with initiation.
 
-### [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
-Since the 
+### [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)
+Find the smallest element => priority queue
+Also, since the matrix is sorted, we can use 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQxMDYzMTgsLTMxNjQ3Mjg0MywxNz
-Q3MjUyODY4LC01MzI2OTM2NzYsLTExNDAxNjA0ODUsMTAwOTIy
-NzQsMTgyMjg4MTkyNCw0MDcxMzgyNTcsLTIwMDg1NTkyMjIsLT
-k0MDA5MDU3Nyw4Mzc1ODAxNjEsLTEzODk4NTEyNjcsMTg1ODc2
-NDcxNywtMjAyMDIyMTkzNiwyMDk4ODI2NDI0LDE5MDU5MjUwMj
-AsLTYzOTIxODE2MywzNDYyMjUwNjksMTk2NDE3MTkzNywtOTMy
-MDkxOTQ0XX0=
+eyJoaXN0b3J5IjpbLTEwMTIyMjU2NzAsLTE1MDQxMDYzMTgsLT
+MxNjQ3Mjg0MywxNzQ3MjUyODY4LC01MzI2OTM2NzYsLTExNDAx
+NjA0ODUsMTAwOTIyNzQsMTgyMjg4MTkyNCw0MDcxMzgyNTcsLT
+IwMDg1NTkyMjIsLTk0MDA5MDU3Nyw4Mzc1ODAxNjEsLTEzODk4
+NTEyNjcsMTg1ODc2NDcxNywtMjAyMDIyMTkzNiwyMDk4ODI2ND
+I0LDE5MDU5MjUwMjAsLTYzOTIxODE2MywzNDYyMjUwNjksMTk2
+NDE3MTkzN119
 -->
