@@ -815,13 +815,16 @@ since the input is an array and the graph information can be given by an API. we
 we can implement this by either recursion or iteration
 
 ### [62](https://leetcode.com/problems/unique-paths/)
-classic dp question with
+classic dp question with initiation.
+
+### [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+Since the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjA1MDExNSwtMzE2NDcyODQzLDE3ND
-cyNTI4NjgsLTUzMjY5MzY3NiwtMTE0MDE2MDQ4NSwxMDA5MjI3
-NCwxODIyODgxOTI0LDQwNzEzODI1NywtMjAwODU1OTIyMiwtOT
-QwMDkwNTc3LDgzNzU4MDE2MSwtMTM4OTg1MTI2NywxODU4NzY0
-NzE3LC0yMDIwMjIxOTM2LDIwOTg4MjY0MjQsMTkwNTkyNTAyMC
-wtNjM5MjE4MTYzLDM0NjIyNTA2OSwxOTY0MTcxOTM3LC05MzIw
-OTE5NDRdfQ==
+eyJoaXN0b3J5IjpbLTE1MDQxMDYzMTgsLTMxNjQ3Mjg0MywxNz
+Q3MjUyODY4LC01MzI2OTM2NzYsLTExNDAxNjA0ODUsMTAwOTIy
+NzQsMTgyMjg4MTkyNCw0MDcxMzgyNTcsLTIwMDg1NTkyMjIsLT
+k0MDA5MDU3Nyw4Mzc1ODAxNjEsLTEzODk4NTEyNjcsMTg1ODc2
+NDcxNywtMjAyMDIyMTkzNiwyMDk4ODI2NDI0LDE5MDU5MjUwMj
+AsLTYzOTIxODE2MywzNDYyMjUwNjksMTk2NDE3MTkzNywtOTMy
+MDkxOTQ0XX0=
 -->
