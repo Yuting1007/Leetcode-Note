@@ -813,12 +813,15 @@ since the input is an array and the graph information can be given by an API. we
 
 ### [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 we can implement this by either recursion or iteration
+
+### [62](https://leetcode.com/problems/unique-paths/)
+classic dp question with
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjQ3Mjg0MywxNzQ3MjUyODY4LC01Mz
-I2OTM2NzYsLTExNDAxNjA0ODUsMTAwOTIyNzQsMTgyMjg4MTky
-NCw0MDcxMzgyNTcsLTIwMDg1NTkyMjIsLTk0MDA5MDU3Nyw4Mz
-c1ODAxNjEsLTEzODk4NTEyNjcsMTg1ODc2NDcxNywtMjAyMDIy
-MTkzNiwyMDk4ODI2NDI0LDE5MDU5MjUwMjAsLTYzOTIxODE2My
-wzNDYyMjUwNjksMTk2NDE3MTkzNywtOTMyMDkxOTQ0LC0xOTkw
-NDU4NTQ2XX0=
+eyJoaXN0b3J5IjpbMTY5MjA1MDExNSwtMzE2NDcyODQzLDE3ND
+cyNTI4NjgsLTUzMjY5MzY3NiwtMTE0MDE2MDQ4NSwxMDA5MjI3
+NCwxODIyODgxOTI0LDQwNzEzODI1NywtMjAwODU1OTIyMiwtOT
+QwMDkwNTc3LDgzNzU4MDE2MSwtMTM4OTg1MTI2NywxODU4NzY0
+NzE3LC0yMDIwMjIxOTM2LDIwOTg4MjY0MjQsMTkwNTkyNTAyMC
+wtNjM5MjE4MTYzLDM0NjIyNTA2OSwxOTY0MTcxOTM3LC05MzIw
+OTE5NDRdfQ==
 -->
