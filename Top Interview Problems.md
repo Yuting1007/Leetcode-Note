@@ -827,12 +827,15 @@ tuantuan chance!
 ### [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
 
 ### [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
+tuantuan chance!!
+[水塘抽样][https://www.cnblogs.com/grandyang/p/5783392.html](https://www.cnblogs.com/grandyang/p/5783392.html)？？？
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5OTE3MDY1LC04NzUyMzYwOTYsMTgzMT
-g3ODAxNywtMTk0MDEzMTcyLC0xNTA0MTA2MzE4LC0zMTY0NzI4
-NDMsMTc0NzI1Mjg2OCwtNTMyNjkzNjc2LC0xMTQwMTYwNDg1LD
-EwMDkyMjc0LDE4MjI4ODE5MjQsNDA3MTM4MjU3LC0yMDA4NTU5
-MjIyLC05NDAwOTA1NzcsODM3NTgwMTYxLC0xMzg5ODUxMjY3LD
-E4NTg3NjQ3MTcsLTIwMjAyMjE5MzYsMjA5ODgyNjQyNCwxOTA1
-OTI1MDIwXX0=
+eyJoaXN0b3J5IjpbLTEyNzUwMzkwNjMsMzM5OTE3MDY1LC04Nz
+UyMzYwOTYsMTgzMTg3ODAxNywtMTk0MDEzMTcyLC0xNTA0MTA2
+MzE4LC0zMTY0NzI4NDMsMTc0NzI1Mjg2OCwtNTMyNjkzNjc2LC
+0xMTQwMTYwNDg1LDEwMDkyMjc0LDE4MjI4ODE5MjQsNDA3MTM4
+MjU3LC0yMDA4NTU5MjIyLC05NDAwOTA1NzcsODM3NTgwMTYxLC
+0xMzg5ODUxMjY3LDE4NTg3NjQ3MTcsLTIwMjAyMjE5MzYsMjA5
+ODgyNjQyNF19
 -->
