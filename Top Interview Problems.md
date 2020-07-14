@@ -820,12 +820,14 @@ classic dp question with initiation.
 ### [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)
 Find the smallest element => priority queue
 Also, since the matrix is sorted, we can use BS (check this later)
+
+### [395. Longest Substring with At Least K Repeating Characters][https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMTg3ODAxNywtMTk0MDEzMTcyLC0xNT
-A0MTA2MzE4LC0zMTY0NzI4NDMsMTc0NzI1Mjg2OCwtNTMyNjkz
-Njc2LC0xMTQwMTYwNDg1LDEwMDkyMjc0LDE4MjI4ODE5MjQsND
-A3MTM4MjU3LC0yMDA4NTU5MjIyLC05NDAwOTA1NzcsODM3NTgw
-MTYxLC0xMzg5ODUxMjY3LDE4NTg3NjQ3MTcsLTIwMjAyMjE5Mz
-YsMjA5ODgyNjQyNCwxOTA1OTI1MDIwLC02MzkyMTgxNjMsMzQ2
-MjI1MDY5XX0=
+eyJoaXN0b3J5IjpbMTYzNDkxNDk5LDE4MzE4NzgwMTcsLTE5ND
+AxMzE3MiwtMTUwNDEwNjMxOCwtMzE2NDcyODQzLDE3NDcyNTI4
+NjgsLTUzMjY5MzY3NiwtMTE0MDE2MDQ4NSwxMDA5MjI3NCwxOD
+IyODgxOTI0LDQwNzEzODI1NywtMjAwODU1OTIyMiwtOTQwMDkw
+NTc3LDgzNzU4MDE2MSwtMTM4OTg1MTI2NywxODU4NzY0NzE3LC
+0yMDIwMjIxOTM2LDIwOTg4MjY0MjQsMTkwNTkyNTAyMCwtNjM5
+MjE4MTYzXX0=
 -->
