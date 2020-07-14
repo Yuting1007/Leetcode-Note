@@ -814,18 +814,18 @@ since the input is an array and the graph information can be given by an API. we
 ### [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 we can implement this by either recursion or iteration
 
-### [62](https://leetcode.com/problems/unique-paths/)
+### [62.Unique Paths](https://leetcode.com/problems/unique-paths/)
 classic dp question with initiation.
 
 ### [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)
 Find the smallest element => priority queue
 Also, since the matrix is sorted, we can use BS (check this later)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDAxMzE3MiwtMTUwNDEwNjMxOCwtMz
-E2NDcyODQzLDE3NDcyNTI4NjgsLTUzMjY5MzY3NiwtMTE0MDE2
-MDQ4NSwxMDA5MjI3NCwxODIyODgxOTI0LDQwNzEzODI1NywtMj
-AwODU1OTIyMiwtOTQwMDkwNTc3LDgzNzU4MDE2MSwtMTM4OTg1
-MTI2NywxODU4NzY0NzE3LC0yMDIwMjIxOTM2LDIwOTg4MjY0Mj
-QsMTkwNTkyNTAyMCwtNjM5MjE4MTYzLDM0NjIyNTA2OSwxOTY0
-MTcxOTM3XX0=
+eyJoaXN0b3J5IjpbMTgzMTg3ODAxNywtMTk0MDEzMTcyLC0xNT
+A0MTA2MzE4LC0zMTY0NzI4NDMsMTc0NzI1Mjg2OCwtNTMyNjkz
+Njc2LC0xMTQwMTYwNDg1LDEwMDkyMjc0LDE4MjI4ODE5MjQsND
+A3MTM4MjU3LC0yMDA4NTU5MjIyLC05NDAwOTA1NzcsODM3NTgw
+MTYxLC0xMzg5ODUxMjY3LDE4NTg3NjQ3MTcsLTIwMjAyMjE5Mz
+YsMjA5ODgyNjQyNCwxOTA1OTI1MDIwLC02MzkyMTgxNjMsMzQ2
+MjI1MDY5XX0=
 -->
