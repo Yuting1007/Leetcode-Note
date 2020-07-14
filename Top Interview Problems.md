@@ -821,6 +821,8 @@ classic dp question with initiation.
 Find the smallest element => priority queue
 Also, since the matrix is sorted, we can use BS (check this later)
 
+# 
+The following questions will be answered in JavaScript
 ### [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
 tuantuan chance!
 
@@ -837,11 +839,11 @@ tuantuan chance!!
 reverse the whole array => reverse the first k element => reverse the last n-l elements
 reverse func is just swapping
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzI4MDIxODMsMTA1MDMxNDUzMSw3MD
-MxNjY5MTksMTczNjIwNzIzNywyMTQwNzI0MDQ2LDMzOTkxNzA2
-NSwtODc1MjM2MDk2LDE4MzE4NzgwMTcsLTE5NDAxMzE3MiwtMT
-UwNDEwNjMxOCwtMzE2NDcyODQzLDE3NDcyNTI4NjgsLTUzMjY5
-MzY3NiwtMTE0MDE2MDQ4NSwxMDA5MjI3NCwxODIyODgxOTI0LD
-QwNzEzODI1NywtMjAwODU1OTIyMiwtOTQwMDkwNTc3LDgzNzU4
-MDE2MV19
+eyJoaXN0b3J5IjpbMTU1MzAxNzk3MSwtMTkzMjgwMjE4MywxMD
+UwMzE0NTMxLDcwMzE2NjkxOSwxNzM2MjA3MjM3LDIxNDA3MjQw
+NDYsMzM5OTE3MDY1LC04NzUyMzYwOTYsMTgzMTg3ODAxNywtMT
+k0MDEzMTcyLC0xNTA0MTA2MzE4LC0zMTY0NzI4NDMsMTc0NzI1
+Mjg2OCwtNTMyNjkzNjc2LC0xMTQwMTYwNDg1LDEwMDkyMjc0LD
+E4MjI4ODE5MjQsNDA3MTM4MjU3LC0yMDA4NTU5MjIyLC05NDAw
+OTA1NzddfQ==
 -->
