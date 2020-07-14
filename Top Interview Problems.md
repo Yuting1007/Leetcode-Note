@@ -833,13 +833,13 @@ tuantuan chance!!
 ### [169. Majority Element](https://leetcode.com/problems/majority-element/)
 [Moore Voting](https://www.cnblogs.com/grandyang/p/4233501.html)
 
-
+### [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDMxNDUzMSw3MDMxNjY5MTksMTczNj
-IwNzIzNywyMTQwNzI0MDQ2LDMzOTkxNzA2NSwtODc1MjM2MDk2
-LDE4MzE4NzgwMTcsLTE5NDAxMzE3MiwtMTUwNDEwNjMxOCwtMz
-E2NDcyODQzLDE3NDcyNTI4NjgsLTUzMjY5MzY3NiwtMTE0MDE2
-MDQ4NSwxMDA5MjI3NCwxODIyODgxOTI0LDQwNzEzODI1NywtMj
-AwODU1OTIyMiwtOTQwMDkwNTc3LDgzNzU4MDE2MSwtMTM4OTg1
-MTI2N119
+eyJoaXN0b3J5IjpbMTEyNDgzNTcwNiwxMDUwMzE0NTMxLDcwMz
+E2NjkxOSwxNzM2MjA3MjM3LDIxNDA3MjQwNDYsMzM5OTE3MDY1
+LC04NzUyMzYwOTYsMTgzMTg3ODAxNywtMTk0MDEzMTcyLC0xNT
+A0MTA2MzE4LC0zMTY0NzI4NDMsMTc0NzI1Mjg2OCwtNTMyNjkz
+Njc2LC0xMTQwMTYwNDg1LDEwMDkyMjc0LDE4MjI4ODE5MjQsND
+A3MTM4MjU3LC0yMDA4NTU5MjIyLC05NDAwOTA1NzcsODM3NTgw
+MTYxXX0=
 -->
