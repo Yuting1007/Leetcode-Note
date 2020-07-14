@@ -831,13 +831,13 @@ tuantuan chance!!
 [水塘抽样](https://www.cnblogs.com/grandyang/p/5783392.html)？？？
 
 ### [169. Majority Element](https://leetcode.com/problems/majority-element/)
-
+[Moore Voting](https://www.cnblogs.com/grandyang/p/4233501.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjIwNzIzNywyMTQwNzI0MDQ2LDMzOT
-kxNzA2NSwtODc1MjM2MDk2LDE4MzE4NzgwMTcsLTE5NDAxMzE3
-MiwtMTUwNDEwNjMxOCwtMzE2NDcyODQzLDE3NDcyNTI4NjgsLT
-UzMjY5MzY3NiwtMTE0MDE2MDQ4NSwxMDA5MjI3NCwxODIyODgx
-OTI0LDQwNzEzODI1NywtMjAwODU1OTIyMiwtOTQwMDkwNTc3LD
-gzNzU4MDE2MSwtMTM4OTg1MTI2NywxODU4NzY0NzE3LC0yMDIw
-MjIxOTM2XX0=
+eyJoaXN0b3J5IjpbNzAzMTY2OTE5LDE3MzYyMDcyMzcsMjE0MD
+cyNDA0NiwzMzk5MTcwNjUsLTg3NTIzNjA5NiwxODMxODc4MDE3
+LC0xOTQwMTMxNzIsLTE1MDQxMDYzMTgsLTMxNjQ3Mjg0MywxNz
+Q3MjUyODY4LC01MzI2OTM2NzYsLTExNDAxNjA0ODUsMTAwOTIy
+NzQsMTgyMjg4MTkyNCw0MDcxMzgyNTcsLTIwMDg1NTkyMjIsLT
+k0MDA5MDU3Nyw4Mzc1ODAxNjEsLTEzODk4NTEyNjcsMTg1ODc2
+NDcxN119
 -->
