@@ -834,12 +834,16 @@ tuantuan chance!!
 [Moore Voting](https://www.cnblogs.com/grandyang/p/4233501.html)
 
 ### [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+reverse the whole array
+reverse the first k elements
+reverse the last n-l elements
+reverse func is just swapping
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDgzNTcwNiwxMDUwMzE0NTMxLDcwMz
-E2NjkxOSwxNzM2MjA3MjM3LDIxNDA3MjQwNDYsMzM5OTE3MDY1
-LC04NzUyMzYwOTYsMTgzMTg3ODAxNywtMTk0MDEzMTcyLC0xNT
-A0MTA2MzE4LC0zMTY0NzI4NDMsMTc0NzI1Mjg2OCwtNTMyNjkz
-Njc2LC0xMTQwMTYwNDg1LDEwMDkyMjc0LDE4MjI4ODE5MjQsND
-A3MTM4MjU3LC0yMDA4NTU5MjIyLC05NDAwOTA1NzcsODM3NTgw
-MTYxXX0=
+eyJoaXN0b3J5IjpbLTE1MzkzODgzOTYsMTA1MDMxNDUzMSw3MD
+MxNjY5MTksMTczNjIwNzIzNywyMTQwNzI0MDQ2LDMzOTkxNzA2
+NSwtODc1MjM2MDk2LDE4MzE4NzgwMTcsLTE5NDAxMzE3MiwtMT
+UwNDEwNjMxOCwtMzE2NDcyODQzLDE3NDcyNTI4NjgsLTUzMjY5
+MzY3NiwtMTE0MDE2MDQ4NSwxMDA5MjI3NCwxODIyODgxOTI0LD
+QwNzEzODI1NywtMjAwODU1OTIyMiwtOTQwMDkwNTc3LDgzNzU4
+MDE2MV19
 -->
