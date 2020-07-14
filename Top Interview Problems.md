@@ -834,12 +834,10 @@ tuantuan chance!!
 [Moore Voting](https://www.cnblogs.com/grandyang/p/4233501.html)
 
 ### [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
-reverse the whole array
-reverse the first k elements
-reverse the last n-l elements
+reverse the whole array => reverse the first k element => reverse the last n-l elements
 reverse func is just swapping
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzkzODgzOTYsMTA1MDMxNDUzMSw3MD
+eyJoaXN0b3J5IjpbLTE5MzI4MDIxODMsMTA1MDMxNDUzMSw3MD
 MxNjY5MTksMTczNjIwNzIzNywyMTQwNzI0MDQ2LDMzOTkxNzA2
 NSwtODc1MjM2MDk2LDE4MzE4NzgwMTcsLTE5NDAxMzE3MiwtMT
 UwNDEwNjMxOCwtMzE2NDcyODQzLDE3NDcyNTI4NjgsLTUzMjY5
