@@ -821,13 +821,17 @@ classic dp question with initiation.
 Find the smallest element => priority queue
 Also, since the matrix is sorted, we can use BS (check this later)
 
-### [395. Longest Substring with At Least K Repeating Characters][https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
+### [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
+tuantuan chance!
+
+### [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDkxNDk5LDE4MzE4NzgwMTcsLTE5ND
-AxMzE3MiwtMTUwNDEwNjMxOCwtMzE2NDcyODQzLDE3NDcyNTI4
-NjgsLTUzMjY5MzY3NiwtMTE0MDE2MDQ4NSwxMDA5MjI3NCwxOD
-IyODgxOTI0LDQwNzEzODI1NywtMjAwODU1OTIyMiwtOTQwMDkw
-NTc3LDgzNzU4MDE2MSwtMTM4OTg1MTI2NywxODU4NzY0NzE3LC
-0yMDIwMjIxOTM2LDIwOTg4MjY0MjQsMTkwNTkyNTAyMCwtNjM5
-MjE4MTYzXX0=
+eyJoaXN0b3J5IjpbLTg3NTIzNjA5NiwxODMxODc4MDE3LC0xOT
+QwMTMxNzIsLTE1MDQxMDYzMTgsLTMxNjQ3Mjg0MywxNzQ3MjUy
+ODY4LC01MzI2OTM2NzYsLTExNDAxNjA0ODUsMTAwOTIyNzQsMT
+gyMjg4MTkyNCw0MDcxMzgyNTcsLTIwMDg1NTkyMjIsLTk0MDA5
+MDU3Nyw4Mzc1ODAxNjEsLTEzODk4NTEyNjcsMTg1ODc2NDcxNy
+wtMjAyMDIyMTkzNiwyMDk4ODI2NDI0LDE5MDU5MjUwMjAsLTYz
+OTIxODE2M119
 -->
