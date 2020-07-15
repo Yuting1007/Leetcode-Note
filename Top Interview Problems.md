@@ -833,13 +833,13 @@ tuantuan chance!!
 [水塘抽样](https://www.cnblogs.com/grandyang/p/5783392.html)
 We switch element with the elements behind it.
 There is a trick operation in JS to get the random number
-```
+
 ```js
 function getRandomArbitrary(min, max) {
   return Math.random() * (max - min) + min;
 }
 ```
-```
+
 
 ### [169. Majority Element](https://leetcode.com/problems/majority-element/)
 [Moore Voting](https://www.cnblogs.com/grandyang/p/4233501.html)
@@ -848,11 +848,11 @@ function getRandomArbitrary(min, max) {
 reverse the whole array => reverse the first k element => reverse the last n-l elements
 reverse func is just swapping
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4OTIwOTYzLDE1NTMwMTc5NzEsLTE5Mz
-I4MDIxODMsMTA1MDMxNDUzMSw3MDMxNjY5MTksMTczNjIwNzIz
-NywyMTQwNzI0MDQ2LDMzOTkxNzA2NSwtODc1MjM2MDk2LDE4Mz
-E4NzgwMTcsLTE5NDAxMzE3MiwtMTUwNDEwNjMxOCwtMzE2NDcy
-ODQzLDE3NDcyNTI4NjgsLTUzMjY5MzY3NiwtMTE0MDE2MDQ4NS
-wxMDA5MjI3NCwxODIyODgxOTI0LDQwNzEzODI1NywtMjAwODU1
-OTIyMl19
+eyJoaXN0b3J5IjpbLTIxMDk3NjczMTEsMTU1MzAxNzk3MSwtMT
+kzMjgwMjE4MywxMDUwMzE0NTMxLDcwMzE2NjkxOSwxNzM2MjA3
+MjM3LDIxNDA3MjQwNDYsMzM5OTE3MDY1LC04NzUyMzYwOTYsMT
+gzMTg3ODAxNywtMTk0MDEzMTcyLC0xNTA0MTA2MzE4LC0zMTY0
+NzI4NDMsMTc0NzI1Mjg2OCwtNTMyNjkzNjc2LC0xMTQwMTYwND
+g1LDEwMDkyMjc0LDE4MjI4ODE5MjQsNDA3MTM4MjU3LC0yMDA4
+NTU5MjIyXX0=
 -->
