@@ -840,7 +840,9 @@ function getRandomArbitrary(min, max) {
 }
 ```
 
-
+```c++
+int t = i + rand() % (len - i);
+```
 ### [169. Majority Element](https://leetcode.com/problems/majority-element/)
 [Moore Voting](https://www.cnblogs.com/grandyang/p/4233501.html)
 
@@ -848,11 +850,11 @@ function getRandomArbitrary(min, max) {
 reverse the whole array => reverse the first k element => reverse the last n-l elements
 reverse func is just swapping
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDk3NjczMTEsMTU1MzAxNzk3MSwtMT
-kzMjgwMjE4MywxMDUwMzE0NTMxLDcwMzE2NjkxOSwxNzM2MjA3
-MjM3LDIxNDA3MjQwNDYsMzM5OTE3MDY1LC04NzUyMzYwOTYsMT
-gzMTg3ODAxNywtMTk0MDEzMTcyLC0xNTA0MTA2MzE4LC0zMTY0
-NzI4NDMsMTc0NzI1Mjg2OCwtNTMyNjkzNjc2LC0xMTQwMTYwND
-g1LDEwMDkyMjc0LDE4MjI4ODE5MjQsNDA3MTM4MjU3LC0yMDA4
-NTU5MjIyXX0=
+eyJoaXN0b3J5IjpbMTc2MTgwMjA0LC0yMTA5NzY3MzExLDE1NT
+MwMTc5NzEsLTE5MzI4MDIxODMsMTA1MDMxNDUzMSw3MDMxNjY5
+MTksMTczNjIwNzIzNywyMTQwNzI0MDQ2LDMzOTkxNzA2NSwtOD
+c1MjM2MDk2LDE4MzE4NzgwMTcsLTE5NDAxMzE3MiwtMTUwNDEw
+NjMxOCwtMzE2NDcyODQzLDE3NDcyNTI4NjgsLTUzMjY5MzY3Ni
+wtMTE0MDE2MDQ4NSwxMDA5MjI3NCwxODIyODgxOTI0LDQwNzEz
+ODI1N119
 -->
