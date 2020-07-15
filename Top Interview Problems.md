@@ -830,7 +830,16 @@ tuantuan chance!
 
 ### [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
 tuantuan chance!!
-[水塘抽样](https://www.cnblogs.com/grandyang/p/5783392.html)？？？
+[水塘抽样](https://www.cnblogs.com/grandyang/p/5783392.html)
+We switch element with the elements behind it.
+There is a trick operation in JS to get the random number
+```
+```js
+function getRandomArbitrary(min, max) {
+  return Math.random() * (max - min) + min;
+}
+```
+```
 
 ### [169. Majority Element](https://leetcode.com/problems/majority-element/)
 [Moore Voting](https://www.cnblogs.com/grandyang/p/4233501.html)
@@ -839,11 +848,11 @@ tuantuan chance!!
 reverse the whole array => reverse the first k element => reverse the last n-l elements
 reverse func is just swapping
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzAxNzk3MSwtMTkzMjgwMjE4MywxMD
-UwMzE0NTMxLDcwMzE2NjkxOSwxNzM2MjA3MjM3LDIxNDA3MjQw
-NDYsMzM5OTE3MDY1LC04NzUyMzYwOTYsMTgzMTg3ODAxNywtMT
-k0MDEzMTcyLC0xNTA0MTA2MzE4LC0zMTY0NzI4NDMsMTc0NzI1
-Mjg2OCwtNTMyNjkzNjc2LC0xMTQwMTYwNDg1LDEwMDkyMjc0LD
-E4MjI4ODE5MjQsNDA3MTM4MjU3LC0yMDA4NTU5MjIyLC05NDAw
-OTA1NzddfQ==
+eyJoaXN0b3J5IjpbMzA4OTIwOTYzLDE1NTMwMTc5NzEsLTE5Mz
+I4MDIxODMsMTA1MDMxNDUzMSw3MDMxNjY5MTksMTczNjIwNzIz
+NywyMTQwNzI0MDQ2LDMzOTkxNzA2NSwtODc1MjM2MDk2LDE4Mz
+E4NzgwMTcsLTE5NDAxMzE3MiwtMTUwNDEwNjMxOCwtMzE2NDcy
+ODQzLDE3NDcyNTI4NjgsLTUzMjY5MzY3NiwtMTE0MDE2MDQ4NS
+wxMDA5MjI3NCwxODIyODgxOTI0LDQwNzEzODI1NywtMjAwODU1
+OTIyMl19
 -->
