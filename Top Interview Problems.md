@@ -879,13 +879,13 @@ ar connect = function(root) {
 
 ### [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 recusrion (weh doing the recursion, I feel like we can think about a helper function, especially when we have some params need update)
-iteration ()
+iteration (we first push all left nodes in stack, then write it in the result, then move to its right siblings) => stack, two while
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwMzEzNzU2LC0xMTUzMzIxNTgyLC0xNT
-Q2Mzc3MzQxLC01Mzk2MDg1NjUsMTc2MTgwMjA0LC0yMTA5NzY3
-MzExLDE1NTMwMTc5NzEsLTE5MzI4MDIxODMsMTA1MDMxNDUzMS
-w3MDMxNjY5MTksMTczNjIwNzIzNywyMTQwNzI0MDQ2LDMzOTkx
-NzA2NSwtODc1MjM2MDk2LDE4MzE4NzgwMTcsLTE5NDAxMzE3Mi
-wtMTUwNDEwNjMxOCwtMzE2NDcyODQzLDE3NDcyNTI4NjgsLTUz
-MjY5MzY3Nl19
+eyJoaXN0b3J5IjpbLTc5MTgyOTIwOCwyODAzMTM3NTYsLTExNT
+MzMjE1ODIsLTE1NDYzNzczNDEsLTUzOTYwODU2NSwxNzYxODAy
+MDQsLTIxMDk3NjczMTEsMTU1MzAxNzk3MSwtMTkzMjgwMjE4My
+wxMDUwMzE0NTMxLDcwMzE2NjkxOSwxNzM2MjA3MjM3LDIxNDA3
+MjQwNDYsMzM5OTE3MDY1LC04NzUyMzYwOTYsMTgzMTg3ODAxNy
+wtMTk0MDEzMTcyLC0xNTA0MTA2MzE4LC0zMTY0NzI4NDMsMTc0
+NzI1Mjg2OF19
 -->
