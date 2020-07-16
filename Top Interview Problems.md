@@ -880,12 +880,17 @@ ar connect = function(root) {
 ### [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 recusrion (weh doing the recursion, I feel like we can think about a helper function, especially when we have some params need update)
 iteration (we first push all left nodes in stack, then write it in the result, then move to its right siblings) => stack, two while
+
+### [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+I got this by myself!! kinda like fast-slow pointers.
+
+### [140. Word Break II](https://leetcode.com/problems/word-break-ii/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTgyOTIwOCwyODAzMTM3NTYsLTExNT
-MzMjE1ODIsLTE1NDYzNzczNDEsLTUzOTYwODU2NSwxNzYxODAy
-MDQsLTIxMDk3NjczMTEsMTU1MzAxNzk3MSwtMTkzMjgwMjE4My
-wxMDUwMzE0NTMxLDcwMzE2NjkxOSwxNzM2MjA3MjM3LDIxNDA3
-MjQwNDYsMzM5OTE3MDY1LC04NzUyMzYwOTYsMTgzMTg3ODAxNy
-wtMTk0MDEzMTcyLC0xNTA0MTA2MzE4LC0zMTY0NzI4NDMsMTc0
-NzI1Mjg2OF19
+eyJoaXN0b3J5IjpbMTc5NTAyNDE1NiwtNzkxODI5MjA4LDI4MD
+MxMzc1NiwtMTE1MzMyMTU4MiwtMTU0NjM3NzM0MSwtNTM5NjA4
+NTY1LDE3NjE4MDIwNCwtMjEwOTc2NzMxMSwxNTUzMDE3OTcxLC
+0xOTMyODAyMTgzLDEwNTAzMTQ1MzEsNzAzMTY2OTE5LDE3MzYy
+MDcyMzcsMjE0MDcyNDA0NiwzMzk5MTcwNjUsLTg3NTIzNjA5Ni
+wxODMxODc4MDE3LC0xOTQwMTMxNzIsLTE1MDQxMDYzMTgsLTMx
+NjQ3Mjg0M119
 -->
