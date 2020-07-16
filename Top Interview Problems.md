@@ -878,12 +878,13 @@ ar connect = function(root) {
 ```
 
 ### [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+recusrion (weh doing the recursion, I feel like we can think about a helper function, especially when we have some params need update)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDYzNzczNDEsLTUzOTYwODU2NSwxNz
-YxODAyMDQsLTIxMDk3NjczMTEsMTU1MzAxNzk3MSwtMTkzMjgw
-MjE4MywxMDUwMzE0NTMxLDcwMzE2NjkxOSwxNzM2MjA3MjM3LD
-IxNDA3MjQwNDYsMzM5OTE3MDY1LC04NzUyMzYwOTYsMTgzMTg3
-ODAxNywtMTk0MDEzMTcyLC0xNTA0MTA2MzE4LC0zMTY0NzI4ND
-MsMTc0NzI1Mjg2OCwtNTMyNjkzNjc2LC0xMTQwMTYwNDg1LDEw
-MDkyMjc0XX0=
+eyJoaXN0b3J5IjpbLTExNTMzMjE1ODIsLTE1NDYzNzczNDEsLT
+UzOTYwODU2NSwxNzYxODAyMDQsLTIxMDk3NjczMTEsMTU1MzAx
+Nzk3MSwtMTkzMjgwMjE4MywxMDUwMzE0NTMxLDcwMzE2NjkxOS
+wxNzM2MjA3MjM3LDIxNDA3MjQwNDYsMzM5OTE3MDY1LC04NzUy
+MzYwOTYsMTgzMTg3ODAxNywtMTk0MDEzMTcyLC0xNTA0MTA2Mz
+E4LC0zMTY0NzI4NDMsMTc0NzI1Mjg2OCwtNTMyNjkzNjc2LC0x
+MTQwMTYwNDg1XX0=
 -->
