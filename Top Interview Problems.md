@@ -851,7 +851,7 @@ reverse the whole array => reverse the first k element => reverse the last n-l e
 reverse func is just swapping
 
 ### [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
-The point for this question is implement queue in JS
+The point for this question is implement __queue__ and __linked list__ in JS. => array
 ```
 ar connect = function(root) {
     if(!root) return root;
@@ -877,11 +877,11 @@ ar connect = function(root) {
 };
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTgzMDM2OTMsMTc2MTgwMjA0LC0yMT
-A5NzY3MzExLDE1NTMwMTc5NzEsLTE5MzI4MDIxODMsMTA1MDMx
-NDUzMSw3MDMxNjY5MTksMTczNjIwNzIzNywyMTQwNzI0MDQ2LD
-MzOTkxNzA2NSwtODc1MjM2MDk2LDE4MzE4NzgwMTcsLTE5NDAx
-MzE3MiwtMTUwNDEwNjMxOCwtMzE2NDcyODQzLDE3NDcyNTI4Nj
-gsLTUzMjY5MzY3NiwtMTE0MDE2MDQ4NSwxMDA5MjI3NCwxODIy
-ODgxOTI0XX0=
+eyJoaXN0b3J5IjpbLTUzOTYwODU2NSwxNzYxODAyMDQsLTIxMD
+k3NjczMTEsMTU1MzAxNzk3MSwtMTkzMjgwMjE4MywxMDUwMzE0
+NTMxLDcwMzE2NjkxOSwxNzM2MjA3MjM3LDIxNDA3MjQwNDYsMz
+M5OTE3MDY1LC04NzUyMzYwOTYsMTgzMTg3ODAxNywtMTk0MDEz
+MTcyLC0xNTA0MTA2MzE4LC0zMTY0NzI4NDMsMTc0NzI1Mjg2OC
+wtNTMyNjkzNjc2LC0xMTQwMTYwNDg1LDEwMDkyMjc0LDE4MjI4
+ODE5MjRdfQ==
 -->
