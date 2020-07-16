@@ -849,12 +849,39 @@ int t = i + rand() % (len - i);
 ### [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 reverse the whole array => reverse the first k element => reverse the last n-l elements
 reverse func is just swapping
+
+### [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+The point for this question is implement queue in JS
+```
+ar connect = function(root) {
+    if(!root) return root;
+    let queue = [root];
+    
+    while(queue.length) {
+        const next = []
+        
+        for(let i = 0; i < queue.length; i++) {
+            const node = queue[i];
+            const nextNode = queue[i+1] || null;
+            
+            node.next = nextNode;
+            
+            if(node.left) {
+                next.push(node.left);
+                next.push(node.right);
+            }
+        }
+        queue = next;
+    }
+    return root;
+};
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTgwMjA0LC0yMTA5NzY3MzExLDE1NT
-MwMTc5NzEsLTE5MzI4MDIxODMsMTA1MDMxNDUzMSw3MDMxNjY5
-MTksMTczNjIwNzIzNywyMTQwNzI0MDQ2LDMzOTkxNzA2NSwtOD
-c1MjM2MDk2LDE4MzE4NzgwMTcsLTE5NDAxMzE3MiwtMTUwNDEw
-NjMxOCwtMzE2NDcyODQzLDE3NDcyNTI4NjgsLTUzMjY5MzY3Ni
-wtMTE0MDE2MDQ4NSwxMDA5MjI3NCwxODIyODgxOTI0LDQwNzEz
-ODI1N119
+eyJoaXN0b3J5IjpbLTE5MTgzMDM2OTMsMTc2MTgwMjA0LC0yMT
+A5NzY3MzExLDE1NTMwMTc5NzEsLTE5MzI4MDIxODMsMTA1MDMx
+NDUzMSw3MDMxNjY5MTksMTczNjIwNzIzNywyMTQwNzI0MDQ2LD
+MzOTkxNzA2NSwtODc1MjM2MDk2LDE4MzE4NzgwMTcsLTE5NDAx
+MzE3MiwtMTUwNDEwNjMxOCwtMzE2NDcyODQzLDE3NDcyNTI4Nj
+gsLTUzMjY5MzY3NiwtMTE0MDE2MDQ4NSwxMDA5MjI3NCwxODIy
+ODgxOTI0XX0=
 -->
